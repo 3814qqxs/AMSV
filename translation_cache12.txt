@@ -1,0 +1,187 @@
+# translation_cache12 — Matthew 12 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/matthew.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to matthew.md and logs rows.
+
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+Chapter 12 has had no R1.1 pass (00086: ch.12+ unchecked). Narrative pronouns for Yeshua and his first-person speech are lowercase throughout. Pronouns for the Pharisees, the man, the unclean spirit, David, Jonah, generic "he that" stay lowercase.
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 12:1 | and his disciples were hungry | and His disciples were hungry | |
+| 12:2 | said to him | said to Him | |
+| 12:3 | But he said to them | But He said to them | "what David did…he was hungry" = David, lowercase |
+| 12:9 | And he departed…went into | And He departed…went into | |
+| 12:10 | asked him…accuse him | asked Him…accuse Him | |
+| 12:11 | And he said to them | And He said to them | |
+| 12:13 | Then says he to the man | Then says He to the man | "he stretched it forth" = the man, lowercase |
+| 12:14 | against him…destroy him | against Him…destroy Him | |
+| 12:15 | followed him; and he healed them all | followed Him; and He healed them all | |
+| 12:16 | make him known | make Him known | |
+| 12:18 | my servant…my soul…my Spirit upon him…he shall declare | My servant…My soul…My Spirit upon Him…He shall declare | God speaking in the Isaiah quotation (R1.1 first-person); "My beloved" already capitalized |
+| 12:19 | hear his voice | hear His voice | |
+| 12:20 | shall he not break…shall he not quench…Till he send forth | shall He not break…shall He not quench…Till He send forth | |
+| 12:21 | in his name | in His name | |
+| 12:22 | brought to him…and he healed him | brought to Him…and He healed him | second "him" = the man, lowercase |
+| 12:25 | knowing their thoughts he said | knowing their thoughts He said | |
+| 12:30 | with me…against me…with me | with Me…against Me…with Me | "he that is not…he that gathers" generic, lowercase |
+| 12:38 | answered him | answered Him | |
+| 12:39 | But he answered | But He answered | |
+| 12:46 | While he was yet speaking…his mother and his brothers…speak to him | While He was yet speaking…His mother and His brothers…speak to Him | |
+| 12:47 | said to him | said to Him | |
+| 12:48 | But he answered…him that told him…my mother…my brothers | But He answered…him that told Him…My mother…My brothers | "him that told" = the bystander, lowercase |
+| 12:49 | he stretched forth his hand towards his disciples…my mother and my brothers | He stretched forth His hand towards His disciples…My mother and My brothers | |
+| 12:50 | my Father…he is my brother, and sister, and mother | My Father…he is My brother, and sister, and mother | "he" = whoever does the will, lowercase |
+
+Precedent: R1.1 (2026-09-02); 00086.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 12:22 | insomuch that | so that | *hōste* | **00105** |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+No PROJECT_HISTORY row exists for any item unless a precedent is cited.
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 12:1 | 1b | began to pluck ears and to eat | began to pick ears and to eat | *tillein* (same verb as Mk. 2:23). Existing » anchor moves | **00110** |
+| 12:3, 12:4 | 1b | they that were with him / for them that were with him | those who were with him / for those who were with him | relative "them/they that" dead | 00151 (analogue) |
+| 12:6 | **2** | one greater than the temple is here | something greater than the temple is here | *meizon* — **neuter**, not masculine *meizōn*; ASV "one" supplies a person. Same in 12:41, 12:42 (*pleion*). Pairs with the temple/place argument of v.5–6 | none |
+| 12:18, 12:20 | **2** | declare judgment to the Gentiles / send forth judgment to victory | declare justice to the Gentiles / send forth justice to victory | *krisin* (LXX of *mishpat*, "justice"); "judgment" reads as verdict. Existing » on 12:20 already glosses it as "establishes justice" | none |
+| 12:20 | **2** | smoking flax shall he not quench | a smoldering wick shall He not quench | *linon typhomenon* — flax in its use as a lamp wick, mid-burn; "smoking flax" suggests a crop | none |
+| 12:22 | 1b | blind and dumb / the dumb man | blind and mute / the mute man | *kōphos*; "dumb" now = stupid | none (mirrors 9:32–33, 15:30–31) |
+| 12:28 | 1b | then is the kingdom of God come upon you | then the kingdom of God has come upon you | *ephthasen* (aorist); be-perfect auxiliary dead. Existing » anchor moves | none (see policy note in D) |
+| 12:29 | 1b | spoil his goods…spoil his house | plunder his goods…plunder his house | *diarpasai*; "spoil" now = ruin | none |
+| 12:29 | 1b | except he first bind the strong man | unless he first binds the strong man | *ean mē prōton dēsē* (subjunctive) | cf. 00142 (declined "save"→"except"; "except" itself kept elsewhere) |
+| 12:32 | **2** | neither in this world, nor in that which is to come | neither in this age, nor in the age to come | *en toutō tō aiōni…en tō mellonti* — *aiōn* = *olam* ("age"), not *kosmos* ("world"); *olam ha-zeh / olam ha-ba* | none (mirrors 13:22, 13:39–40, 13:49, 24:3, 28:20 "world") |
+| 12:36 | 1b | give account thereof | give account for it | *apodōsousin peri autou*; "thereof" dead | none |
+| 12:38 | 1b | we would see a sign | we wish to see a sign | *thelomen…idein*; "would" = "wish" dead | none |
+| 12:40 | **2** | the belly of the whale | the belly of the great fish | *kētos* (sea creature; LXX *kētos megas* = Heb. *dag gadol*, Jonah 1:17). Principle 3: internal consistency with Jonah | none |
+| 12:41, 12:42 | **2** | a greater than Jonah / a greater than Solomon | something greater than Jonah / than Solomon | *pleion* (neuter) | same as 12:6 |
+| 12:43 | 1b | when he is gone out | when he has gone out | *exelthē*; be-perfect auxiliary dead | cf. 12:28 |
+| 12:44 | 1b | when he is come, he finds it…garnished | when he has come, he finds it…put in order | *elthon*; *kekosmēmenon* (*kosmeō*, "put in order, adorn") — "garnished" now = food | none (mirrors 23:29 "garnish the tombs") |
+| 12:46, 12:47 | 1b | stood without / stand without | stood outside / stand outside | *exō*; "without" = "outside" dead | none |
+| 12:48 | 1b | to him that told him | to the one who told Him | *tō legonti autō* | 00151 (analogue) |
+| 12:47 | **2** | (verse present) | **no change proposed — textual flag.** Verse is absent from some early manuscripts (see C). Retained as in the base text | — | cf. 00074 (crux kept, alternate recorded) |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+
+## D. Reviewed — no change proposed
+
+- 12:2 "do that which it is not lawful to do upon the sabbath": living formal register.
+- 12:4 "showbread" (*artous tēs prothesēos*, "bread of the Presence"): kept; existing → cites 1 Samuel 21:6. "ate" fine.
+- 12:5 "the Torah": already swapped per **00065** (Mt. 12:5 listed).
+- 12:8 "lord of the sabbath": predicate title, lowercase as in ASV. **Flag: capitalize "Lord" as a divine/messianic title (cf. 21:3, 24:42)?**
+- 12:10–11 "withered," "lay hold on it": living.
+- 12:11 "that shall have one sheep…if this fall into a pit": subjunctive left (cf. 10:13 policy question).
+- 12:13 "Stretch forth": "forth" retained throughout (e.g. 8:3, 12:49); kept as policy.
+- **Policy — archaic word order, not proposed:** "Then was brought to Him" (12:22), "there shall no sign be given" (12:39), "finds it not" (12:43), "Then goes he" (12:45), "shall he not break" (12:20). Same pattern left alone in caches 10/11.
+- **Policy — be-perfect auxiliary:** 12:28, 12:43, 12:44 proposed above; Matthew has many more ("when he was come," "even was come," 8:1, 8:16, 8:28). Say if you want a corpus-wide pass rather than three isolated changes.
+- 12:19 "strive" (*erisei*, "quarrel"): living; "cry aloud" living.
+- 12:23 "Can this be the son of David?": *mēti* expects hesitant "no"; ASV adequately carries it.
+- 12:24 "Beelzebub": see existing 10:25 note.
+- 12:33 "corrupt" (*sapros*, "rotten"): kept, as at 7:17.
+- 12:34 "offspring of vipers": matches 3:7.
+- 12:36 "idle word" (*argon*): living.
+- 12:37 "justified…condemned": kept — forensic pair (*dikaiōthēsē / katadikasthēsē*); distinct from 11:19's non-forensic "vindicated" (cache11).
+- 12:38 "Teacher," 12:39 "adulterous generation": kept.
+- 12:41 "preaching" (*kērygma*): 00132 targets "publish→proclaim"; "preaching" kept as at 3:1.
+- 12:45 "takes with himself": ASV intelligible; kept.
+- 12:49 "towards": kept.
+- "men" (12:31, 12:36): corpus-wide gender question already flagged; not proposed.
+- R9: speech balance checked — 12:3–8, 12:11–12, 12:13, 12:18–21 (Isaiah quote, one open/close), 12:24, 12:25–37, 12:38, 12:39–45 (nested ‘ ’ at 12:44), 12:47, 12:48, 12:49–50. No changes.
+- R8 lineation: vv.18–20 indented continuation lines preserved; space-join unchanged except the proposed word changes.
+
+## Pacing check (markup)
+
+Existing `---` after v.8, v.14, v.21 are scene changes (field → synagogue → withdrawal → exorcism). **One change proposed:** `---` before v.46 (new participants: mother and brothers arrive; setting shifts to outside the house) — v.38–45 stays in the preceding scene. No `[br]` sits directly before a break; `[br]` placements otherwise unchanged.
+
+
+## E. Full proposed chapter text (Matthew 12)
+
+## Matthew 12
+
+---
+1  At that season Yeshua went on the sabbath day through the grainfields; and His disciples were hungry and began to pick ears and to eat.
+» began to pick ears and to eat :: Plucking grain by hand was permitted by written Torah (Deuteronomy 23:25); the charge rests on the oral law's thirty-nine categories of forbidden sabbath work (m. Shabbat 7:2), under which plucking counted as reaping.
+2  But the Pharisees, when they saw it, said to Him, “Behold, your disciples do that which it is not lawful to do upon the sabbath.”
+3  But He said to them, “Have you all not read what David did, when he was hungry, and those who were with him;
+4  how he entered into the house of God, and ate the showbread, which it was not lawful for him to eat, neither for those who were with him, but only for the priests?
+→ ate the showbread :: 1 Samuel 21:6
+→ but only for the priests :: Leviticus 24:9
+5  Or have you all not read in the Torah, that on the sabbath day the priests in the temple profane the sabbath, and are guiltless?
+→ the priests in the temple profane the sabbath :: Numbers 28:9–10
+6  But I say to you, that something greater than the temple is here.
+7  But if you all had known what this means, ‘I desire mercy, and not sacrifice,’ you all would not have condemned the guiltless.
+→ I desire mercy, and not sacrifice :: Hosea 6:6
+8  For the Son of man is lord of the sabbath.”
+---
+9  And He departed from there, and went into their synagogue:
+10  and behold, a man having a withered hand. And they asked Him, saying, “Is it lawful to heal on the sabbath day?” that they might accuse Him.[br]
+11  And He said to them, “What man shall there be of you, that shall have one sheep, and if this fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?
+12  How much then is a man of more value than a sheep! Therefore it is lawful to do good on the sabbath day.”
+» How much then is a man of more value than a sheep :: *qal va-chomer* ("light to heavy") — a standard rabbinic inference form, arguing from the lesser case (an animal's life) to the greater (a human one); Yeshua uses this form or reasoning ("light to heavy") frequently in disucssions with the religious leaders. 
+13  Then says He to the man, “Stretch forth your hand.” And he stretched it forth; and it was restored whole, as the other.
+14  But the Pharisees went out, and took counsel against Him, how they might destroy Him.
+---
+15  And Yeshua perceiving it withdrew from there: and many followed Him; and He healed them all,
+16  and charged them that they should not make Him known:
+17  that it might be fulfilled which was spoken through Isaiah the prophet, saying,
+18  “Behold, My servant whom I have chosen;
+      My beloved in whom My soul is well pleased:
+      I will put My Spirit upon Him,
+      And He shall declare justice to the Gentiles.
+→ Behold, My servant whom I have chosen :: Isaiah 42:1–4
+19  He shall not strive, nor cry aloud;
+      Neither shall any one hear His voice in the streets.
+20  A bruised reed shall He not break,
+      And a smoldering wick shall He not quench,
+      Till He send forth justice to victory.
+» A bruised reed shall He not break :: Isaiah's Servant Song (42:1–4) pictures a figure who establishes justice not by force but by gentleness toward the weak — Matthew reads Yeshua's quiet withdrawal from confrontation (v.15–16) as itself messianic, against a Second Temple expectation of a conquering deliverer.
+21  And in His name shall the Gentiles hope.”
+===
+22  Then was brought to Him one possessed with a demon, blind and mute: and He healed him, so that the mute man spoke and saw.
+» blind and mute :: It was not uncommon for demonic exorcism in the first century, in fact there was a specific formula involved in the process.  One of the steps was to learn the name of the demon, consider the story of Leagon in Mark 5.  But here Yeshua performs the most astonishing miracle in casting out a demon from a mute and blind man unable to communicate!  Matthew presents this as the ultimate proof that Yeshua is the Messiah.  The religious leaders certainly understood the circumstance, but choose to reject Yeshua as the Anointed One and instead lie and attribute the sign to the devil.  
+23  And all the multitudes were amazed, and said, “Can this be the son of David?”
+» Can this be the son of David? :: The son of David, a clear messianic reference, posed as a rhetorical question, the crowds knew exactly who Yeshua was, but looked to the national leaders for agreement.
+24  But when the Pharisees heard it, they said, “This man does not cast out demons, but by Beelzebub the prince of the demons.”
+25  And knowing their thoughts He said to them, “Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:
+26  and if Satan casts out Satan, he is divided against himself; how then shall his kingdom stand?
+27  And if I by Beelzebub cast out demons, by whom do your sons cast them out? therefore shall they be your judges.
+» by whom do your sons cast them out :: *bnei* ("sons") — Jewish exorcists of the period; Josephus (*Antiquities* 8.45–49) describes Eleazar expelling a demon in Vespasian's presence using Solomonic formulas. Yeshua's argument presupposes that such practitioners existed.
+28  But if I by the Spirit of God cast out demons, then the kingdom of God has come upon you.
+29  Or how can one enter into the house of the strong man, and plunder his goods, unless he first binds the strong man? and then he will plunder his house.
+→ enter into the house of the strong man, and plunder his goods :: Isaiah 49:24–25
+30  He that is not with Me is against Me, and he that gathers not with Me scatters.
+31  Therefore I say to you, Every sin and blasphemy shall be forgiven to men; but the blasphemy against the Spirit shall not be forgiven.[br]
+» the blasphemy against the Spirit shall not be forgiven :: This is a national sin, clearly rejecting Yeshua as Messiah, one day a national awakening will occur, along with acceptance, then the kingdom will arrive. 
+32  And whoever shall speak a word against the Son of man, it shall be forgiven him; but whoever shall speak against the Holy Spirit, it shall not be forgiven him, neither in this age, nor in the age to come.
+33  Either make the tree good, and its fruit good; or make the tree corrupt, and its fruit corrupt: for the tree is known by its fruit.
+34  You all offspring of vipers, how can you all, being evil, speak good things? for out of the abundance of the heart the mouth speaks.
+35  The good man out of his good treasure brings forth good things: and the evil man out of his evil treasure brings forth evil things.
+36  And I say to you, that every idle word that men shall speak, they shall give account for it in the day of judgment.
+37  For by your words you shall be justified, and by your words you shall be condemned.”
+38  Then certain of the scribes and Pharisees answered Him, saying, “Teacher, we wish to see a sign from you.”[br]
+39  But He answered and said to them, “An evil and adulterous generation seeks after a sign; and there shall no sign be given to it but the sign of Jonah the prophet:
+40  for as Jonah was three days and three nights in the belly of the great fish; so shall the Son of man be three days and three nights in the heart of the earth.
+» three days and three nights in the heart of the earth :: Jonah's ordeal (Jonah 1:17) read as a sign for the Son of man's own three days in the tomb. 
+41  The men of Nineveh shall stand up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonah; and behold, something greater than Jonah is here.[br]
+→ they repented at the preaching of Jonah :: Jonah 3:5–10
+42  The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the ends of the earth to hear the wisdom of Solomon; and behold, something greater than Solomon is here.[br]
+→ The queen of the south :: 1 Kings 10:1
+43  But the unclean spirit, when he has gone out of the man, passes through waterless places, seeking rest, and finds it not.
+44  Then he says, ‘I will return into my house from where I came out’; and when he has come, he finds it empty, swept, and put in order.
+45  Then goes he, and takes with himself seven other spirits more evil than himself, and they enter in and dwell there: and the last state of that man becomes worse than the first. Even so shall it be also to this evil generation.”
+---
+46  While He was yet speaking to the multitudes, behold, His mother and His brothers stood outside, seeking to speak to Him.
+47  And one said to Him, “Behold, your mother and your brothers stand outside, seeking to speak to you.”
+48  But He answered and said to the one who told Him, “Who is My mother? and who are My brothers?”
+49  And He stretched forth His hand towards His disciples, and said, “Behold, My mother and My brothers!
+50  For whoever shall do the will of My Father who is in heaven, he is My brother, and sister, and mother.”

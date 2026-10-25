@@ -1,0 +1,160 @@
+# daniel_cache10 — Daniel 10 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–9 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none needed. All references use English versification. NT lines (Acts 9:7, 22:9; Jude 1:9; Revelation 12:7) are parallel passages, offered as references only, not R10 OT-source ties.
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+None. The "man clothed in linen" (10:5–6, 10:16, 10:18) and the speaker of vv.11–21 are an angelic or theophanic figure whose identity the text does not state; their pronouns are not capitalized (compare 7:13, held for your decision). "your God" (10:12) is Daniel's.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 10:11, 10:12–14, 10:16–17, 10:19 (×2), 10:20–21 | unquoted direct speech | curly quotes (R9): 11; 12–14 (one speech); Daniel 16–17 (one speech); 19 (the angel), 19 (Daniel); 20–21 (one speech) | — | **00087** |
+| 10:12 | to humble thyself | to humble yourself | — | R2 fallout, cf. **00088** |
+| 10:20 | Know you why I am come to you? | Do you know why I have come to you? | — | **00104.5** (inverted question); **00190** (am come→have come) |
+| 10:12 | I am come for your words' sake | I have come because of your words | — | **00190** |
+| 10:14 | Now I am come | Now I have come | — | **00190** |
+| 10:6 | like to burnished brass | like burnished bronze | *nechoshet qalal* | **00171** (like to→like); **00118** (brass→bronze) |
+| 10:9 | then was I fallen into a deep sleep | then I fell into a deep sleep | *nirdam* | **00190** (was fallen→fell) |
+| 10:3 | neither came flesh nor wine into my mouth | neither did meat nor wine come into my mouth | *basar* | **00041.1** (eat no flesh→eat no meat) |
+| 10:4 | in the four and twentieth day | on the twenty-fourth day | — | modernization, none |
+| 10:13 | one and twenty days | twenty-one days | — | modernization, none |
+| 10:21 | that holds with me | who stands with me | — | wording in B |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 10:2, 10:3 | **2** | three whole weeks | **no change proposed — note only.** *shelosha shavu'im yamim* ("three sevens of days"): the writer says "of days" here, in contrast with 9:24's unmarked *shavu'im*; "weeks" is retained here and the contrast is in the » note. (Your 9:24 "sevens" decision does not alter this verse) | *shavu'im yamim* | none |
+| 10:8 | 1b | my comeliness was turned in me into corruption | my splendor was turned in me to ruin | *hodi…le-mashchit* ("my glory…to destruction") — "comeliness" and "corruption" shifted in sense | none |
+| 10:12 | 1b | did set your heart | set your heart | *natata* | none |
+| 10:15 | 1b | was dumb | was mute | *ne'elamti* (struck silent; Isaiah 53:7 *ne'elam*) | **00216** (dumb→mute, *kophos*, different lemma) |
+| 10:16 | 1b | by reason of the vision | because of the vision | *ba-mar'ah* | none (as 5:10) |
+| 10:21 | 1b | none that holds with me | none who stands with me | *mitchazzeq 'immi* ("strengthens himself with me") | none |
+| 10:13 | **2** | the prince of the kingdom of Persia | **no change proposed — flag.** *sar malkhut Paras*: a heavenly patron "prince" (cf. 10:20 Greece; 12:1 Michael), parallel to Isaiah 24:21 and Psalm 82:1. "Prince" retained, lowercase | *sar* | none |
+| 10:13 | **2** | I remained there with the kings of Persia | **no change proposed — lexical flag.** *notarti* may be "I was left/detained there" or "I remained"; retained | *notarti* | none |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 10:1 | → | In the third year of Cyrus king of Persia | Daniel 1:21; 6:28; Ezra 1:1 | (2) thematic application |
+| 10:1 | → | a great warfare | Isaiah 40:2; Job 7:1 | (3) single-point borrowing |
+| 10:1 | » | a great warfare | *tsava* — "warfare, hard service" (Isaiah 40:2; Job 7:1; 14:14), not necessarily armed conflict. | n/a (form) |
+| 10:2 | » | three whole weeks | *shelosha shavu'im yamim* — "three weeks of days"; the writer marks days to distinguish them from the "sevens" of 9:24. | n/a (form) |
+| 10:3 | → | neither did I anoint myself at all | 2 Samuel 12:20; Daniel 1:12 | (3) single-point borrowing |
+| 10:3 | » | pleasant bread | *lechem chamudot* — bread of "desirable things," the same root as *chamudot* ("greatly beloved") in 9:23, 10:11, 10:19. | n/a (form) |
+| 10:4 | → | the twenty-fourth day of the first month | Exodus 12:2; Leviticus 23:5–8 (three weeks of mourning back from this date span the Passover and Unleavened Bread). *Delete if you prefer.* | (3) single-point borrowing |
+| 10:4 | → | the great river | Genesis 2:14; 15:18 | (2) thematic application |
+| 10:4 | » | Hiddekel | *Chiddeqel* — the Tigris (Genesis 2:14). | n/a (form) |
+| 10:5 | → | a man clothed in linen | Ezekiel 9:2–3; 10:2; Daniel 12:6–7; Revelation 1:13–15 (NT parallel) | (2) thematic application |
+| 10:5 | → | pure gold of Uphaz | Jeremiah 10:9 | (3) single-point borrowing |
+| 10:6 | → | like burnished bronze | Ezekiel 1:7, 1:13–16, 1:24 | (2) thematic application |
+| 10:6 | » | like beryl | *tarshish* — a gemstone (Exodus 28:20; Ezekiel 1:16; Song of Songs 5:14), not the place Tarshish. | n/a (form) |
+| 10:7 | → | the men that were with me saw not the vision | Acts 9:7; 22:9 (NT parallel) | (2) thematic application |
+| 10:8 | → | no strength in me | Isaiah 6:5; Judges 13:22; Habakkuk 3:16; Daniel 8:27 | (2) thematic application |
+| 10:9 | → | a deep sleep | Daniel 8:18; Genesis 15:12 | (2) thematic application |
+| 10:10 | → | a hand touched me | Ezekiel 2:2; Jeremiah 1:9 | (2) thematic application |
+| 10:12 | → | Fear not, Daniel | Genesis 15:1; Isaiah 41:10; Luke 1:13 | (2) thematic application |
+| 10:12 | → | your words were heard | Isaiah 65:24; Daniel 9:23; Psalm 34:15 | (2) thematic application |
+| 10:13 | → | the prince of the kingdom of Persia | Isaiah 24:21; Psalm 82:1 | (2) thematic application |
+| 10:13 | → | Michael, one of the chief princes | Daniel 10:21; 12:1; Jude 1:9; Revelation 12:7 | (2) thematic application |
+| 10:13 | » | Michael | *Mikha'el* — "Who is like God?" (cf. Exodus 15:11: "Who is like You among the gods, O YHWH?"). | n/a (form) |
+| 10:14 | → | in the latter days | Genesis 49:1; Daniel 2:28; Hosea 3:5 | (4) summary of many |
+| 10:16 | → | touched my lips | Isaiah 6:7; Jeremiah 1:9 | (2) thematic application |
+| 10:16 | » | my sorrows | *tsirai* — "my pangs" (birth-pains, Isaiah 21:3; 1 Samuel 4:19). | n/a (form) |
+| 10:17 | → | how can the servant of this my lord talk with this my lord | Exodus 33:20; Judges 13:22 | (2) thematic application |
+| 10:19 | → | peace be to you | Judges 6:23 (*shalom lekha, 'al tira*); Joshua 1:6–9; 1 Chronicles 28:20 | (1) direct verbatim (Judges 6:23) |
+| 10:20 | → | the prince of Greece | Daniel 8:21; 11:2 | (2) thematic application |
+| 10:21 | → | the writing of truth | Psalm 139:16; Daniel 7:10; 12:1 | (2) thematic application |
+| 10:21 | → | Michael your prince | Daniel 12:1; Joshua 5:14; Jude 1:9; Revelation 12:7 | (2) thematic application |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "Yet heard I" (10:9), "now will I return" (10:20), "Then said he" (10:12, 10:20). Same as the Matthew caches.
+- 10:1 "called Belteshazzar": retained.
+- 10:5 "girded" (*chagur*): living; retained.
+- 10:6 "flaming torches" (*lappidei esh*): retained.
+- 10:10 "set me upon my knees and upon the palms of my hands": retained.
+- 10:11 "stand upright" (*'amod 'al 'omdekha*): retained.
+- 10:14 "befall" (*yiqre*): formal but living; retained.
+- 10:20 "fight with the prince of Persia": "with" = against; retained, as in the cache2 policy on "made war with".
+- The identity of the "man clothed in linen" is not stated in the text; no capitalization and no note beyond the cross-references.
+- R8 lineation: none in ch.10.
+- R9: speeches are each one layer; no nested quotation.
+
+## Pacing check (markup)
+
+New `---` before v.1. `>>>` paragraph breaks before v.5 (the vision), v.10 (the hand touches), v.18 (the second touch). `[br]` on the description of the man (v.6) and at speech line-ends. No `[br]` before a break marker.
+
+## Flags outside chapter 10 (no action taken)
+
+- "weeks" 9:24 (your decision there does not bind 10:2); "prince" (angelic) recurs 10:20–21, 12:1 (lowercase, not proposed); "comeliness" none elsewhere.
+- Daniel 10–12 is one vision; the "man clothed in linen" reappears at 12:6–7 (cache12).
+
+## E. Full proposed chapter text (Daniel 10)
+
+## Daniel 10
+
+---
+1  In the third year of Cyrus king of Persia a thing was revealed to Daniel, whose name was called Belteshazzar; and the thing was true, even a great warfare: and he understood the thing, and had understanding of the vision.
+→ In the third year of Cyrus king of Persia :: Daniel 1:21; Daniel 6:28; Ezra 1:1
+→ a great warfare :: Isaiah 40:2; Job 7:1
+» a great warfare :: *tsava* — "warfare, hard service" (Isaiah 40:2; Job 7:1; 14:14), not necessarily armed conflict.
+2  In those days I, Daniel, was mourning three whole weeks.
+» three whole weeks :: *shelosha shavu'im yamim* — "three weeks of days"; the writer marks days to distinguish them from the "sevens" of 9:24.
+3  I ate no pleasant bread, neither did meat nor wine come into my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.
+→ neither did I anoint myself at all :: 2 Samuel 12:20; Daniel 1:12
+» pleasant bread :: *lechem chamudot* — bread of "desirable things," the same root as *chamudot* ("greatly beloved") in 9:23, 10:11, 10:19.
+4  And on the twenty-fourth day of the first month, as I was by the side of the great river, which is Hiddekel,
+→ the twenty-fourth day of the first month :: Exodus 12:2; Leviticus 23:5–8
+→ the great river :: Genesis 2:14; Genesis 15:18
+» Hiddekel :: *Chiddeqel* — the Tigris (Genesis 2:14).
+>>>
+5  I lifted up my eyes, and looked, and, behold, a man clothed in linen, whose loins were girded with pure gold of Uphaz:
+→ a man clothed in linen :: Ezekiel 9:2–3; Ezekiel 10:2; Daniel 12:6–7; Revelation 1:13–15
+→ pure gold of Uphaz :: Jeremiah 10:9
+6  his body also was like beryl,[br] and his face as the appearance of lightning,[br] and his eyes as flaming torches,[br] and his arms and his feet like burnished bronze,[br] and the voice of his words like the voice of a multitude.
+→ like burnished bronze :: Ezekiel 1:7; Ezekiel 1:13–16; Ezekiel 1:24
+» like beryl :: *tarshish* — a gemstone (Exodus 28:20; Ezekiel 1:16; Song of Songs 5:14), not the place Tarshish.
+7  And I, Daniel, alone saw the vision; for the men that were with me saw not the vision; but a great quaking fell upon them, and they fled to hide themselves.
+→ the men that were with me saw not the vision :: Acts 9:7; Acts 22:9
+8  So I was left alone, and saw this great vision, and there remained no strength in me; for my splendor was turned in me to ruin, and I retained no strength.
+→ no strength in me :: Isaiah 6:5; Judges 13:22; Habakkuk 3:16; Daniel 8:27
+9  Yet heard I the voice of his words; and when I heard the voice of his words, then I fell into a deep sleep on my face, with my face toward the ground.
+→ a deep sleep :: Daniel 8:18; Genesis 15:12
+>>>
+10  And, behold, a hand touched me, which set me upon my knees and upon the palms of my hands.
+→ a hand touched me :: Ezekiel 2:2; Jeremiah 1:9
+11  And he said to me, “O Daniel, you man greatly beloved, understand the words that I speak to you, and stand upright; for to you am I now sent.” And when he had spoken this word to me, I stood trembling.
+12  Then said he to me, “Fear not, Daniel; for from the first day that you set your heart to understand, and to humble yourself before your God, your words were heard: and I have come because of your words.[br]
+→ Fear not, Daniel :: Genesis 15:1; Isaiah 41:10; Luke 1:13
+→ your words were heard :: Isaiah 65:24; Daniel 9:23; Psalm 34:15
+13  But the prince of the kingdom of Persia withstood me twenty-one days; but, behold, Michael, one of the chief princes, came to help me: and I remained there with the kings of Persia.[br]
+→ the prince of the kingdom of Persia :: Isaiah 24:21; Psalm 82:1
+→ Michael, one of the chief princes :: Daniel 10:21; Daniel 12:1; Jude 1:9; Revelation 12:7
+» Michael :: *Mikha'el* — "Who is like God?" (cf. Exodus 15:11: "Who is like You among the gods, O YHWH?").
+14  Now I have come to make you understand what shall befall your people in the latter days; for the vision is yet for many days.”[br]
+→ in the latter days :: Genesis 49:1; Daniel 2:28; Hosea 3:5
+15  And when he had spoken to me according to these words, I set my face toward the ground, and was mute.
+16  And, behold, one in the likeness of the sons of men touched my lips: then I opened my mouth, and spoke and said to him that stood before me, “O my lord, because of the vision my sorrows are turned upon me, and I retain no strength.[br]
+→ touched my lips :: Isaiah 6:7; Jeremiah 1:9
+» my sorrows :: *tsirai* — "my pangs" (birth-pains, Isaiah 21:3; 1 Samuel 4:19).
+17  For how can the servant of this my lord talk with this my lord? for as for me, immediately there remained no strength in me, neither was there breath left in me.”
+→ how can the servant of this my lord talk with this my lord :: Exodus 33:20; Judges 13:22
+>>>
+18  Then there touched me again one like the appearance of a man, and he strengthened me.
+19  And he said, “O man greatly beloved, fear not: peace be to you, be strong, indeed, be strong.” And when he spoke to me, I was strengthened, and said, “Let my lord speak; for you have strengthened me.”
+→ peace be to you :: Judges 6:23; Joshua 1:6–9; 1 Chronicles 28:20
+20  Then said he, “Do you know why I have come to you? and now will I return to fight with the prince of Persia: and when I go forth, behold, the prince of Greece shall come.[br]
+→ the prince of Greece :: Daniel 8:21; Daniel 11:2
+21  But I will tell you that which is inscribed in the writing of truth: and there is none who stands with me against these, but Michael your prince.”
+→ the writing of truth :: Psalm 139:16; Daniel 7:10; Daniel 12:1
+→ Michael your prince :: Daniel 12:1; Joshua 5:14; Jude 1:9; Revelation 12:7

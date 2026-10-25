@@ -1,0 +1,206 @@
+# translation_cache13 — Matthew 13 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/matthew.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to matthew.md and logs rows.
+
+Note: caches for ch.4–6, 8, 10, 11, 12 are pending; ch.7 and 9 have no cache. Nothing here assumes their outcomes; mirror items are marked.
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+Chapter 13 has had no R1.1 pass (00086: ch.13+ unchecked). Narrative pronouns for Yeshua and his possessives in speech are lowercase. Parable figures (sower, householder, merchant, king-figures) and generic "he that" stay lowercase.
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 13:2 | gathered to him…so that he entered | gathered to Him…so that He entered | |
+| 13:3 | And he spoke to them | And He spoke to them | |
+| 13:10 | said to him | said to Him | |
+| 13:11 | And he answered | And He answered | |
+| 13:34 | spoke he nothing | spoke He nothing | |
+| 13:36 | Then he left…his disciples came to him | Then He left…His disciples came to Him | |
+| 13:37 | And he answered | And He answered | |
+| 13:41 | send forth his angels…out of his kingdom | send forth His angels…out of His kingdom | Son of man's |
+| 13:51 | They say to him | They say to Him | |
+| 13:52 | And he said to them | And He said to them | |
+| 13:53 | he departed | He departed | |
+| 13:54 | into his own country he taught | into His own hometown He taught | |
+| 13:55 | his mother…his brothers | His mother…His brothers | |
+| 13:56 | his sisters | His sisters | |
+| 13:57 | offended in him | stumbled over Him | (see B) |
+| 13:58 | And he did not many mighty works | And He did not do many mighty works | (see B) |
+
+Precedent: R1.1 (2026-09-02); 00086.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 13:54 | insomuch that | so that | *hōste* | **00105** |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+No PROJECT_HISTORY row exists for any item unless a precedent is cited.
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 13:1 | 1b | by the sea side | by the sea | *para tēn thalassan* | none |
+| 13:4, 13:19 | 1b | by the way side | beside the road | *para tēn hodon*; "way side" dead (mirrors 20:30) | none |
+| 13:5, 13:8, 13:23 | 1b | not much earth / deepness of earth / good ground | not much soil / depth of soil / good soil | *gē* = soil here; *bathos* ("depth"); "deepness" dated, "earth" ambiguous | none |
+| 13:6 | 1b | when the sun was risen | when the sun rose | *anateilantos* (aorist); be-perfect auxiliary dead | none (see policy in D) |
+| 13:15 | 1b | has grown gross | has grown callous | *epachynthē* (lit. "was made thick/fat," Isa. 6:10 *hashmen*); "gross" now = disgusting. Existing → anchor moves | none |
+| 13:22 | 1b | the care of the world | the anxiety of the world | *merimna* ("anxiety, worry") — same root as *merimnaō*, rendered "anxious" at 6:25–34; "care" now = affection | internal consistency with 6:25–34 |
+| 13:22 | **2** | (the care of) the world | (the anxiety of) the age | *tou aiōnos* (not *kosmou*) | none (mirrors 12:32 in cache12) |
+| 13:25–13:40 (×9) | 1b | tares | darnel | *zizania* (bearded darnel, *Lolium temulentum*); "tares" now unknown outside the parable. Alt: "weeds" | none |
+| 13:27 | 1b | from where then has it tares? | from where then does it have darnel? | *pothen oun echei zizania* | none |
+| 13:28 | 1b | Will you then that we go and gather them up? | Do you want us to go and gather them up? | *thelēis oun…sullexomen* ("will" = "wish," dead) | none (mirrors 20:32, 26:17, 27:17, 27:21) |
+| 13:32 | 1b | less than all seeds | smaller than all seeds | *mikroteron*; "less" = "smaller" dead | none |
+| 13:32 | 1b | greater than the herbs | larger than the garden plants | *meizon tōn lachanōn* (vegetables, garden produce); "herbs" now = seasoning | none |
+| 13:32 | 1b | the branches thereof | its branches | "thereof" dead | none (cf. 12:36) |
+| 13:33 | 1b | three measures of meal | three measures of flour | *aleurou* (flour); "meal" now = coarse/cornmeal | 00022 ("measures" kept) |
+| 13:39, 13:40, 13:49 | **2** | the end of the world | the end of the age | *synteleia tou aiōnos* ("consummation of the age") | none (mirrors 24:3, 28:20, 12:32) |
+| 13:41 | **2** | them that do iniquity | those who practice lawlessness | *tous poiountas tēn anomian* (*a-nomia*, "without Torah/law"); "iniquity" generic. "them that" per 00151 | 00151 (relative); 00065 (Torah). Mirrors 7:23, 23:28, 24:12 |
+| 13:45 | 1b | goodly pearls | beautiful pearls | *kalous margaritas* | **00055** (also 00100) |
+| 13:48 | 1b | into vessels | into containers | *eis angē* (baskets/containers) | none |
+| 13:54, 13:57 | 1b | his own country | his own hometown | *patris* ("hometown, native place"); "country" = nation now | none |
+| 13:57 | **2** | And they were offended in him | And they stumbled over Him | *eskandalizonto en autō* — same verb as "stumbles" in 13:21 (*skandalizetai*) and "cause to stumble" at 5:29 | none (cf. 11:6 "occasion of stumbling"; mirrors 15:12, 26:31–33) |
+| 13:58 | 1b | And he did not many mighty works | And He did not do many mighty works | *ouk epoiēsen…dynameis pollas*; "did not many" dead | none |
+| 13:35 | **2** | from the foundation of the world | **no change proposed — textual flag.** *kosmou* is bracketed in NA28 and absent from a few early manuscripts; some witnesses read "Isaiah the prophet" for "the prophet." Retained as in the base text | — | cf. 00074 |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals).
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 13:14 | » | By hearing you all shall hear | *akoē akousete* — the Greek renders the Hebrew infinitive absolute (*shamo'a shema'*, "hearing, hear"); the doubled verb is emphasis, here ironic: hearing without perceiving. | n/a (form) |
+| 13:25 | » | sowed darnel also among the wheat | *zunin* (Mishnaic Hebrew, "darnel") — m. Kil'ayim 1:1 treats it as a degenerate form of wheat, not a distinct kind; the enemy's sowing is indistinguishable from wheat until it fruits (v.26). | n/a (halakhic background) |
+| 13:32 | → | the birds of the heaven come and lodge in its branches | Ezekiel 17:23; Daniel 4:12 | (3) single-point borrowing |
+| 13:33 | → | three measures of flour | Genesis 18:6 | (3) single-point borrowing |
+| 13:39 | → | the harvest is the end of the age | Joel 3:13 | (3) single-point borrowing |
+| 13:42 | → | the furnace of fire | Daniel 3:6 | (3) single-point borrowing |
+| 13:43 | → | shine forth as the sun | Daniel 12:3 | (3) single-point borrowing |
+
+Existing notes re-checked: anchors at 13:11, 13:14 (→ and »), 13:15 (→), 13:33, 13:35 (→ and »), 13:44, 13:52 are verbatim substrings. One anchor moves if B approved: 13:15 → "For this people’s heart has grown callous"; reflected in E.
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "went Yeshua out" (13:1), "Why speak you" (13:10), "Therefore speak I" (13:13), "Hear then you all" (13:18), "yet has he not root" (13:21), "Another parable set he" (13:24, 13:31), "spoke he" (13:33, 13:34), "then appeared" (13:26). Same pattern left alone in caches 10–12.
+- **Policy — "like to"** (13:31, 33, 44, 45, 47, 52) retained, as flagged at cache11.
+- **Policy — be-perfect auxiliary:** 13:6, 13:32 proposed; also "is fulfilled" (13:14, passive, fine), "was filled" (13:48, passive, fine). See cache12 note on a corpus-wide pass.
+- "forth" (13:3, 13:41), "lest perhaps" (13:29, 13:15), "has not / saw them not / understands it not" (13:12, 13:17, 13:19): retained as corpus pattern.
+- 13:4 "some seeds": ASV supplies "seeds" (Greek "some"); intelligible.
+- 13:11 "mysteries": existing note.
+- 13:12 "abundance," 13:21 "endures for a while" (*proskairos*, "temporary"): living.
+- 13:24 "likened" (*hōmoiōthē*): living.
+- 13:27 "servants" (*douloi*): argument is not legal status (cf. 00066); held as at 10:24. "Sir" kept.
+- 13:32 "birds of the heaven" (Hebrew *of ha-shamayim*, "birds of the sky"): ASV literal; kept as at 6:26, 8:20. "lodge" (*kataskēnoun*, "pitch a tent, dwell"): kept.
+- 13:35 "my mouth": a psalmist's voice (Ps. 78:2), left lowercase per **00072**. **Flag: Matthew attributes the quotation to "the prophet"; confirm lowercase.**
+- 13:42, 13:50 "the weeping and the gnashing of teeth": kept.
+- 13:46 "of great price" (*polytimon*): living phrase.
+- 13:47 "gathered of every kind": partitive "of" is dated but intelligible; not proposed.
+- 13:52 "made a disciple to the kingdom": kept; existing note intact.
+- 13:55 "the carpenter's son" (*tektōn*, builder/craftsman): kept.
+- 13:54 / 13:58 "mighty works": 00134 flag from cache11 applies (13:54, 13:58).
+- "men" (13:25): corpus-wide gender question; not proposed.
+- R9: speech balance checked — 13:3–9, 13:10, 13:11–23 (nested ‘ ’ 13:14–15), 13:24–30 (nested ‘ ’ 13:27–30), 13:31–32, 13:33, 13:35, 13:36, 13:37–51 (one speech, closing at the question in v.51), 13:52, 13:54–56, 13:57. No changes.
+- R8 lineation: vv.14–15 indented continuation lines preserved; space-join unchanged except proposed word changes.
+
+## Pacing check (markup)
+
+Existing `---` before v.1, v.36, v.54 mark the lakeside discourse, the house, the return to Nazareth. No `[br]` sits before a break marker. No pacing changes proposed.
+
+## Flags outside chapter 13 (no action taken)
+
+- If approved, mirror elsewhere: "by the way side" 20:30; "end of the world" 24:3, 28:20 (and 12:32); "iniquity" 7:23, 23:28, 24:12; "Will you…that" 20:32, 26:17, 27:17, 27:21; "were offended" 15:12, 26:31, 26:33 (and "stumble" family 11:6, 17:27, 24:10); "insomuch that" (listed at cache12); "goodly" none elsewhere in Matthew; "mighty works" 11:20–23, 14:2.
+- 00086: ch.14+ remain unchecked for R1.1.
+
+## E. Full proposed chapter text (Matthew 13)
+
+## Matthew 13
+
+---
+1  On that day went Yeshua out of the house, and sat by the sea.
+2  And there were gathered to Him great multitudes, so that He entered into a boat, and sat; and all the multitude stood on the beach.
+3  And He spoke to them many things in parables, saying, “Behold, the sower went forth to sow;[br]
+4  and as he sowed, some seeds fell beside the road, and the birds came and devoured them:[br]
+5  and others fell upon the rocky places, where they had not much soil: and immediately they sprang up, because they had no depth of soil:[br]
+6  and when the sun rose, they were scorched; and because they had no root, they withered away.[br]
+7  And others fell upon the thorns; and the thorns grew up and choked them:[br]
+8  and others fell upon the good soil, and yielded fruit, some a hundredfold, some sixty, some thirty.[br]
+9  He that has ears, let him hear.”[br]
+10  And the disciples came, and said to Him, “Why speak you to them in parables?”[br]
+11  And He answered and said to them, “To you it is given to know the mysteries of the kingdom of heaven, but to them it is not given.[br]
+» the mysteries of the kingdom of heaven :: *raz* ("mystery, secret") behind the Greek — a Second Temple apocalyptic term (Daniel, the Qumran pesharim) for a hidden divine plan disclosed only to the elect; the kingdom's presence in Yeshua is exactly this kind of concealed-then-revealed disclosure.
+12  For whoever has, to him shall be given, and he shall have abundance: but whoever has not, from him shall be taken away even that which he has.[br]
+13  Therefore speak I to them in parables; because seeing they see not, and hearing they hear not, neither do they understand.[br]
+14  And to them is fulfilled the prophecy of Isaiah, which says,
+      ‘By hearing you all shall hear, and shall by no means understand;
+      And seeing you all shall see, and shall by no means perceive:
+→ By hearing you all shall hear :: Isaiah 6:9
+» By hearing you all shall hear :: *akoē akousete* — the Greek renders the Hebrew infinitive absolute (*shamo'a shema'*, "hearing, hear"); the doubled verb is emphasis, here ironic: hearing without perceiving.
+» And to them is fulfilled the prophecy of Isaiah :: Where Mark's parallel (4:12) alludes to Isaiah 6:9–10 in summary, Matthew quotes the passage in full as a fulfillment citation — his standing pattern of naming and citing the prophet explicitly (cf. 1:22–23, 2:15, 2:17–18, 4:14–16), read as a hardening already at work in Israel's own history repeating itself.
+15  For this people’s heart has grown callous,
+      And their ears are dull of hearing,
+      And their eyes they have closed;
+      Lest perhaps they should perceive with their eyes,
+      And hear with their ears,
+      And understand with their heart,
+      And should turn again,
+      And I should heal them.’[br]
+→ For this people’s heart has grown callous :: Isaiah 6:10
+16  But blessed are your eyes, for they see; and your ears, for they hear.[br]
+17  For truly I say to you, that many prophets and righteous men desired to see the things which you all see, and saw them not; and to hear the things which you all hear, and heard them not.[br]
+18  Hear then you all the parable of the sower.[br]
+19  When any one hears the word of the kingdom, and understands it not, then comes the evil one, and snatches away that which has been sown in his heart. This is he that was sown beside the road.[br]
+20  And he that was sown upon the rocky places, this is he that hears the word, and immediately with joy receives it;[br]
+21  yet has he not root in himself, but endures for a while; and when tribulation or persecution arises because of the word, immediately he stumbles.[br]
+22  And he that was sown among the thorns, this is he that hears the word; and the anxiety of the age, and the deceitfulness of riches, choke the word, and he becomes unfruitful.[br]
+23  And he that was sown upon the good soil, this is he that hears the word, and understands it; who truly bears fruit, and brings forth, some a hundredfold, some sixty, some thirty.”
+24  Another parable set he before them, saying, “The kingdom of heaven is likened to a man that sowed good seed in his field:[br]
+25  but while men slept, his enemy came and sowed darnel also among the wheat, and went away.[br]
+» sowed darnel also among the wheat :: *zunin* (Mishnaic Hebrew, "darnel") — m. Kil'ayim 1:1 treats it as a degenerate form of wheat, not a distinct kind; the enemy's sowing is indistinguishable from wheat until it fruits (v.26).
+26  But when the blade sprang up and brought forth fruit, then appeared the darnel also.[br]
+27  And the servants of the householder came and said to him, ‘Sir, did you not sow good seed in your field? from where then does it have darnel?’[br]
+28  And he said to them, ‘An enemy has done this.’ And the servants say to him, ‘Do you want us to go and gather them up?’[br]
+29  But he says, ‘No; lest perhaps while you all gather up the darnel, you all root up the wheat with them.[br]
+30  Let both grow together until the harvest: and in the time of the harvest I will say to the reapers, Gather up first the darnel, and bind them in bundles to burn them; but gather the wheat into my barn.’”
+31  Another parable set he before them, saying, “The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:[br]
+32  which indeed is smaller than all seeds; but when it has grown, it is larger than the garden plants, and becomes a tree, so that the birds of the heaven come and lodge in its branches.”
+→ the birds of the heaven come and lodge in its branches :: Ezekiel 17:23; Daniel 4:12
+33  Another parable spoke he to them; “The kingdom of heaven is like to leaven, which a woman took, and hid in three measures of flour, till it was all leavened.”[br]
+→ three measures of flour :: Genesis 18:6
+» is like to leaven :: Leaven (*se'or*) usually figures hidden, pervasive corruption in the Hebrew scriptures (cf. Exodus 12:15) — its use here for the kingdom's own quiet, permeating growth is a deliberately unexpected image, reversed again at 16:6 where the more usual negative sense returns.
+34  All these things spoke Yeshua in parables to the multitudes; and without a parable spoke He nothing to them:[br]
+35  that it might be fulfilled which was spoken through the prophet, saying, “I will open my mouth in parables; I will utter things hidden from the foundation of the world.”
+→ I will open my mouth in parables :: Psalm 78:2
+» I will utter things hidden from the foundation of the world :: Psalm 78 opens as Asaph's own recital of Israel's history in "dark sayings" — Matthew reads the psalm's language of hidden things disclosed as reaching further than its original historical scope, now describing the kingdom's own mysteries.
+---
+36  Then He left the multitudes, and went into the house: and His disciples came to Him, saying, “Explain to us the parable of the darnel of the field.”[br]
+37  And He answered and said, “He that sows the good seed is the Son of man;[br]
+38  and the field is the world; and the good seed, these are the sons of the kingdom; and the darnel, these are the sons of the evil one;[br]
+39  and the enemy that sowed them is the devil: and the harvest is the end of the age; and the reapers are angels.[br]
+→ the harvest is the end of the age :: Joel 3:13
+40  As therefore the darnel is gathered up and burned with fire; so shall it be in the end of the age.[br]
+41  The Son of man shall send forth His angels, and they shall gather out of His kingdom all things that cause stumbling, and those who practice lawlessness,[br]
+42  and shall cast them into the furnace of fire: there shall be the weeping and the gnashing of teeth.[br]
+→ the furnace of fire :: Daniel 3:6
+43  Then shall the righteous shine forth as the sun in the kingdom of their Father. He that has ears, let him hear.[br]
+→ shine forth as the sun :: Daniel 12:3
+44  The kingdom of heaven is like to a treasure hidden in the field; which a man found, and hid; and in his joy he goes and sells all that he has, and buys that field.[br]
+» which a man found, and hid; and in his joy he goes and sells all that he has, and buys that field :: Ownership of a hidden treasure followed the land under Jewish property law only once title passed (cf. m. Bava Metzia 2:1's discussion of found property) — buying the field, not merely taking the treasure, is the legally necessary, and costly, step the parable turns on.
+45  Again, the kingdom of heaven is like to a man that is a merchant seeking beautiful pearls:[br]
+46  and having found one pearl of great price, he went and sold all that he had, and bought it.[br]
+47  Again, the kingdom of heaven is like to a net, that was cast into the sea, and gathered of every kind:[br]
+48  which, when it was filled, they drew up on the beach; and they sat down, and gathered the good into containers, but the bad they cast away.[br]
+49  So shall it be in the end of the age: the angels shall come forth, and sever the wicked from among the righteous,[br]
+50  and shall cast them into the furnace of fire: there shall be the weeping and the gnashing of teeth.[br]
+51  Have you all understood all these things?” They say to Him, “Yes.”[br]
+52  And He said to them, “Therefore every scribe who has been made a disciple to the kingdom of heaven is like to a man that is a householder, who brings forth out of his treasure things new and old.”[br]
+» a householder, who brings forth out of his treasure things new and old :: A scribe trained for the kingdom, unlike a scribe trained only in precedent (contrast 7:29), draws on both the received tradition (old) and Yeshua's own new teaching, rather than merely repeating one.
+53  And it happened, when Yeshua had finished these parables, He departed from there.
+---
+54  And coming into His own hometown He taught them in their synagogue, so that they were astonished, and said, “From where has this man this wisdom, and these mighty works?[br]
+55  Is not this the carpenter’s son? is not His mother called Mary? and His brothers, Jacob, and Joseph, and Simon, and Judah?[br]
+56  And His sisters, are they not all with us? From where then has this man all these things?”[br]
+57  And they stumbled over Him. But Yeshua said to them, “A prophet is not without honor, save in his own hometown, and in his own house.”[br]
+58  And He did not do many mighty works there because of their unbelief.

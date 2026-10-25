@@ -1,0 +1,159 @@
+# daniel_cache5 — Daniel 5 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–4 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none needed. All references use English versification (English 5:31 is 6:1 in the Hebrew Bible; English 6:1 is 6:2).
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 5:19 | the greatness that he gave him | the greatness that He gave him | "He" = the Most High God (v.18); "him" and the later "he/his" in 19–21 are Nebuchadnezzar and stay lowercase |
+| 5:21 | and that he sets up over it whomsoever he will | and that He sets up over it whomever He wills | |
+| 5:23 | the vessels of his house | the vessels of His house | |
+| 5:24 | from before him | from before Him | |
+| 5:11, 5:14 | the spirit of the (holy) gods | (lowercase kept) | pagan speaker, as 4:8 |
+
+Precedent: R1.1; 00086.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 5:7, 5:10–12, 5:13–16, 5:17–28 | unquoted direct speech | curly quotes (R9): king 7; the queen 10–12; the king 13–16; Daniel 17–28 | — | **00087** |
+| 5:17 | to thyself | to yourself | — | R2 fallout, cf. **00088** |
+| 5:23 | lifted up thyself | lifted up yourself | — | R2 fallout, cf. **00088** |
+| 5:2 | might drink therefrom | might drink from them | — | cf. **00189** (thereof→its) |
+| 5:7, 5:15, 5:16 | the interpretation thereof | its interpretation | *pishreh* | **00189** |
+| 5:4, 5:23 | brass | bronze | *nechash* | **00118** |
+| 5:6 | smote one against another | struck one against another | *naqshan* | **00008** |
+| 5:10 | by reason of the words | because of the words | *'al gabbe* | idiom modernization, none |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 5:5 | 1b | wrote over against the candlestick | wrote opposite the lampstand | *nevrashta* ("lampstand") — "over against" and "candlestick" are dated | none |
+| 5:12 | **2** | showing of dark sentences | showing of riddles | *achidan* (Hebrew *chidot*: Numbers 12:8; Psalm 78:2; Proverbs 1:6) — "dark sentences" is a dated rendering of riddles; ASV's "dissolving of doubts" (lit. "loosing knots") kept, literal form in a » note | none |
+| 5:12, 5:14 | 1b | an excellent spirit / excellent wisdom | an extraordinary spirit / extraordinary wisdom | *yattirah* | none (as 2:31, 4:36) |
+| 5:18 | 1b | O you king | As for you, O king | *antah malka* (emphatic "you, O king"); "O you king" is an R2 artifact of "O thou king" | none |
+| 5:19 | 1b | whom he would he slew, and whom he would he kept alive; and whom he would he raised up, and whom he would he put down | whomever he wished he killed, and whomever he wished he kept alive; and whomever he wished he raised up, and whomever he wished he put down | *dî hawâ tsave…* | none |
+| 5:20 | 1b | dealt proudly | acted arrogantly | *hazid* (same root as Exodus 18:11 *zadu*) | none |
+| 5:22 | **2** | And you his son | **no change proposed — note only.** "Son" and "father" (5:2, 5:11, 5:13, 5:18) are the Hebrew-Aramaic idiom for successor/descendant; retained | *bar* / *aba* | none |
+| 5:27 | **2** | found wanting | **no change proposed.** *chasir* "lacking"; "found wanting" is a living English idiom, not an archaism | *chasir* | 00024 / 00024.1 ("wanting"→deficient/lacking) apply to a different construction; flagged for your decision |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 5:2 | → | the golden and silver vessels | Daniel 1:2; 2 Chronicles 36:7, 36:18; Ezra 1:7 | (2) thematic application |
+| 5:2 | » | his father | *aba* — "father" can mean predecessor or forefather; the same idiom stands behind "son" (v.22). Cf. Jehu, called "son of Nimshi" though Nimshi's grandson (1 Kings 19:16; 2 Kings 9:2, 9:14). | n/a (form) |
+| 5:4 | → | praised the gods of gold | Psalm 115:4–8; 135:15–18; Isaiah 44:9–20 | (2) thematic application |
+| 5:5 | → | the fingers of a man’s hand | Exodus 31:18; Deuteronomy 9:10; Exodus 8:19 | (2) thematic application |
+| 5:6 | → | his knees struck one against another | Nahum 2:10; Isaiah 21:3; Ezekiel 21:7 | (2) thematic application |
+| 5:7 | → | clothed with purple, and have a chain of gold about his neck | Genesis 41:42; Esther 8:15 | (3) single-point borrowing |
+| 5:12 | → | showing of riddles | Numbers 12:8; Psalm 78:2; Proverbs 1:6 | (2) thematic application |
+| 5:12 | » | dissolving of doubts | *meshare qitrin* — lit. "loosing knots," i.e. untying difficulties. | n/a (form) |
+| 5:19 | → | whomever he wished he killed, and whomever he wished he kept alive | 1 Samuel 2:6–7; Deuteronomy 32:39 | (2) thematic application |
+| 5:20 | → | his heart was lifted up | Deuteronomy 8:14; 2 Chronicles 26:16; Ezekiel 28:2 | (2) thematic application |
+| 5:22 | → | have not humbled your heart | 2 Chronicles 33:23; Exodus 10:3; Daniel 4:37 | (2) thematic application |
+| 5:23 | » | the Lord of heaven | *Mare shemayya* — "Lord of heaven," found only here; cf. *Elah shemayya* (2:18) and *Melekh shemayya* (4:37). | n/a (form) |
+| 5:23 | → | which see not, nor hear, nor know | Psalm 115:5–7; 135:16–17; Deuteronomy 4:28 | (2) thematic application |
+| 5:23 | → | the God in whose hand your breath is | Job 12:10; Numbers 16:22 | (2) thematic application |
+| 5:23 | → | whose are all your ways | Jeremiah 10:23; Proverbs 20:24 | (2) thematic application |
+| 5:25 | » | MENE, MENE, TEKEL, UPHARSIN | The words are also weights — *mene* (mina), *tekel* (shekel), *peres* (a half-mina; Ezekiel 45:12 names shekel and mina) — and each becomes a verb in the interpretation: *menah* ("numbered"), *tekilta* ("weighed"), *perisat* ("divided"). | n/a (form) |
+| 5:27 | → | weighed in the balances | Job 31:6; 1 Samuel 2:3; Proverbs 16:2 | (2) thematic application |
+| 5:28 | » | PERES | *peres* — "divided"; it also sounds like *Paras* ("Persia"), the kingdom named in the same clause. | n/a (form) |
+| 5:30 | → | In that night Belshazzar the Chaldean king was slain | Isaiah 21:5–9; Jeremiah 51:39, 51:57; Isaiah 45:1 | (2) thematic application |
+| 5:31 | → | Darius the Mede received the kingdom | Isaiah 13:17; Jeremiah 51:11; Daniel 9:1 | (2) thematic application |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "have you not glorified" (5:23), "which see not, nor hear, nor know" (5:23), "Then commanded Belshazzar" (5:29), "Then was Daniel brought in" (5:13). Same as the Matthew caches.
+- 5:1 "lords" (*rav'rebanin*, nobles): retained.
+- 5:2 "while he tasted the wine" (*be-ta'am chamra*): retained.
+- 5:3 "the temple of the house of God": retained.
+- 5:7 "the third ruler in the kingdom" (*talti*): retained; cf. the "three presidents" of 6:2.
+- 5:10 "banquet house": retained.
+- 5:11, 5:14 "the spirit of the gods": pagan speaker, retained as in 4:8.
+- 5:16, 5:12 "dissolve doubts": retained; the literal form is in the » note.
+- 5:21 "wild asses" (*'aradayya*): retained.
+- 5:24 "inscribed" (*rishim*): retained.
+- 5:26 "brought it to an end": retained.
+- 5:30 "slain": retained.
+- R8 lineation: none in ch.5.
+- R9: all four speeches are one layer; the inscription (5:25) is text, not speech, so it is not quoted.
+
+## Pacing check (markup)
+
+New `---` before v.1, v.13 (Daniel brought in), v.30 (the night of Belshazzar's death). `>>>` paragraph breaks before v.5 (the hand) and v.10 (the queen). `[br]` on the metals lists (vv.4, 23) and at speech line-ends. No `[br]` before a break marker.
+
+## Flags outside chapter 5 (no action taken)
+
+- "brass" recurs 7:19, 10:6; "excellent" (*yattir*) 6:3; "dark sentences" 8:23 (Hebrew *chidot*); "dealt proudly" none; "whom he would" none.
+- "found wanting" is a living idiom; if you prefer 00024.1 ("lacking"), say so.
+
+## E. Full proposed chapter text (Daniel 5)
+
+## Daniel 5
+
+---
+1  Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
+2  Belshazzar, while he tasted the wine, commanded to bring the golden and silver vessels which Nebuchadnezzar his father had taken out of the temple which was in Jerusalem; that the king and his lords, his wives and his concubines, might drink from them.
+→ the golden and silver vessels :: Daniel 1:2; 2 Chronicles 36:7; 2 Chronicles 36:18; Ezra 1:7
+» his father :: *aba* — "father" can mean predecessor or forefather; the same idiom stands behind "son" (v.22). Cf. Jehu, called "son of Nimshi" though Nimshi's grandson (1 Kings 19:16; 2 Kings 9:2, 9:14).
+3  Then they brought the golden vessels that were taken out of the temple of the house of God which was at Jerusalem; and the king and his lords, his wives and his concubines, drank from them.
+4  They drank wine, and praised the gods of gold,[br] and of silver,[br] of bronze,[br] of iron,[br] of wood,[br] and of stone.
+→ praised the gods of gold :: Psalm 115:4–8; Psalm 135:15–18; Isaiah 44:9–20
+>>>
+5  In the same hour came forth the fingers of a man’s hand, and wrote opposite the lampstand upon the plaster of the wall of the king’s palace: and the king saw the part of the hand that wrote.
+→ the fingers of a man’s hand :: Exodus 31:18; Deuteronomy 9:10; Exodus 8:19
+6  Then the king’s countenance was changed in him, and his thoughts troubled him; and the joints of his loins were loosed, and his knees struck one against another.
+→ his knees struck one against another :: Nahum 2:10; Isaiah 21:3; Ezekiel 21:7
+7  The king cried aloud to bring in the enchanters, the Chaldeans, and the soothsayers. The king spoke and said to the wise men of Babylon, “Whoever shall read this writing, and show me its interpretation, shall be clothed with purple, and have a chain of gold about his neck, and shall be the third ruler in the kingdom.”[br]
+→ clothed with purple, and have a chain of gold about his neck :: Genesis 41:42; Esther 8:15
+8  Then came in all the king’s wise men; but they could not read the writing, nor make known to the king the interpretation.
+9  Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were perplexed.
+>>>
+10  Now the queen because of the words of the king and his lords came into the banquet house: the queen spoke and said, “O king, live for ever; let not your thoughts trouble you, nor let your countenance be changed.[br]
+11  There is a man in your kingdom, in whom is the spirit of the holy gods; and in the days of your father light and understanding and wisdom, like the wisdom of the gods, were found in him; and the king Nebuchadnezzar your father, the king, I say, your father, made him master of the magicians, enchanters, Chaldeans, and soothsayers;[br]
+12  since an extraordinary spirit, and knowledge, and understanding, interpreting of dreams, and showing of riddles, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will show the interpretation.”
+→ showing of riddles :: Numbers 12:8; Psalm 78:2; Proverbs 1:6
+» dissolving of doubts :: *meshare qitrin* — lit. "loosing knots," i.e. untying difficulties.
+---
+13  Then was Daniel brought in before the king. The king spoke and said to Daniel, “Are you that Daniel, who are of the children of the captivity of Judah, whom the king my father brought out of Judah?[br]
+14  I have heard of you, that the spirit of the gods is in you, and that light and understanding and extraordinary wisdom are found in you.[br]
+15  And now the wise men, the enchanters, have been brought in before me, that they should read this writing, and make known to me its interpretation; but they could not show the interpretation of the thing.[br]
+16  But I have heard of you, that you can give interpretations, and dissolve doubts; now if you can read the writing, and make known to me its interpretation, you shall be clothed with purple, and have a chain of gold about your neck, and shall be the third ruler in the kingdom.”[br]
+17  Then Daniel answered and said before the king, “Let your gifts be to yourself, and give your rewards to another; nevertheless I will read the writing to the king, and make known to him the interpretation.[br]
+18  As for you, O king, the Most High God gave Nebuchadnezzar your father the kingdom, and greatness, and glory, and majesty:[br]
+19  and because of the greatness that He gave him, all the peoples, nations, and languages trembled and feared before him: whomever he wished he killed, and whomever he wished he kept alive; and whomever he wished he raised up, and whomever he wished he put down.[br]
+→ whomever he wished he killed, and whomever he wished he kept alive :: 1 Samuel 2:6–7; Deuteronomy 32:39
+20  But when his heart was lifted up, and his spirit was hardened so that he acted arrogantly, he was deposed from his kingly throne, and they took his glory from him:[br]
+→ his heart was lifted up :: Deuteronomy 8:14; 2 Chronicles 26:16; Ezekiel 28:2
+21  and he was driven from the sons of men, and his heart was made like the beasts’, and his dwelling was with the wild asses; he was fed with grass like oxen, and his body was wet with the dew of heaven; until he knew that the Most High God rules in the kingdom of men, and that He sets up over it whomever He wills.[br]
+22  And you his son, O Belshazzar, have not humbled your heart, though you knew all this,[br]
+→ have not humbled your heart :: 2 Chronicles 33:23; Exodus 10:3; Daniel 4:37
+23  but have lifted up yourself against the Lord of heaven; and they have brought the vessels of His house before you, and you and your lords, your wives and your concubines, have drunk wine from them; and you have praised the gods of silver and gold,[br] of bronze,[br] iron,[br] wood,[br] and stone, which see not, nor hear, nor know; and the God in whose hand your breath is, and whose are all your ways, have you not glorified.[br]
+» the Lord of heaven :: *Mare shemayya* — "Lord of heaven," found only here; cf. *Elah shemayya* (2:18) and *Melekh shemayya* (4:37).
+→ which see not, nor hear, nor know :: Psalm 115:5–7; Psalm 135:16–17; Deuteronomy 4:28
+→ the God in whose hand your breath is :: Job 12:10; Numbers 16:22
+→ whose are all your ways :: Jeremiah 10:23; Proverbs 20:24
+24  Then was the part of the hand sent from before Him, and this writing was inscribed.[br]
+25  And this is the writing that was inscribed: MENE, MENE, TEKEL, UPHARSIN.[br]
+» MENE, MENE, TEKEL, UPHARSIN :: The words are also weights — *mene* (mina), *tekel* (shekel), *peres* (a half-mina; Ezekiel 45:12 names shekel and mina) — and each becomes a verb in the interpretation: *menah* ("numbered"), *tekilta* ("weighed"), *perisat* ("divided").
+26  This is the interpretation of the thing: MENE; God has numbered your kingdom, and brought it to an end;[br]
+27  TEKEL; you are weighed in the balances, and are found wanting.[br]
+→ weighed in the balances :: Job 31:6; 1 Samuel 2:3; Proverbs 16:2
+28  PERES; your kingdom is divided, and given to the Medes and Persians.”[br]
+» PERES :: *peres* — "divided"; it also sounds like *Paras* ("Persia"), the kingdom named in the same clause.
+29  Then commanded Belshazzar, and they clothed Daniel with purple, and put a chain of gold about his neck, and made proclamation concerning him, that he should be the third ruler in the kingdom.
+---
+30  In that night Belshazzar the Chaldean king was slain.
+→ In that night Belshazzar the Chaldean king was slain :: Isaiah 21:5–9; Jeremiah 51:39; Jeremiah 51:57; Isaiah 45:1
+31  And Darius the Mede received the kingdom, being about sixty-two years old.
+→ Darius the Mede received the kingdom :: Isaiah 13:17; Jeremiah 51:11; Daniel 9:1

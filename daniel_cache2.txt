@@ -1,0 +1,233 @@
+# daniel_cache2 — Daniel 2 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: ch.1 is pending in daniel_cache1; nothing here assumes its outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none needed. All references use English versification. From v.4b the book is in Aramaic (through 7:28).
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+Daniel's doxology (vv.20–23) and the divine-agent clauses are God-referent; capitalized. Addressed You in v.23 (prayer) capitalized per the 2026-10-20 extension.
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 2:20 | are his | are His | |
+| 2:21 | he changes…he removes…sets up…he gives | He changes…He removes…sets up…He gives | |
+| 2:22 | he reveals…he knows…with him | He reveals…He knows…with Him | |
+| 2:23 | I thank you, and praise you, O you God…have given…of you; for you have made known | I thank You, and praise You, O You God…have given…of You; for You have made known | addressed You (prayer) |
+| 2:28 | and he has made known | and He has made known | |
+| 2:29 | he that reveals secrets | He who reveals secrets | with 00151-type relative |
+| 2:38 | has he given | has He given | |
+
+Precedent: R1.1; 00086.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 2:3–11, 2:15, 2:20–23, 2:24, 2:25, 2:26, 2:27–45, 2:47 | unquoted direct speech | curly quotes (R9); multi-verse speeches opened once and closed at their end (vv.5–6, 8–9, 10–11, 20–23, 27–45) | — | **00087** |
+| 2:5, 2:6 (×2), 2:9, 2:26, 2:36, 2:45 | the interpretation thereof | its interpretation | *pishreh* | **00189** |
+| 2:44 | the sovereignty thereof | its sovereignty | *malkutah* | **00189** |
+| 2:21 | to them that have understanding | to those who have understanding | — | **00151** |
+| 2:34, 2:35 | smote | struck | *mecha* (to strike) | **00008** (00094 is Hebrew *nakah*; Aramaic cognate sense) |
+| 2:32, 2:35, 2:39, 2:45 | brass | bronze | *nechash* | **00118** (brasen→bronze) |
+| 2:38 | birds of the heavens | birds of the sky | *of shemayya* | **00178** |
+| 2:14 | who was gone forth | who had gone forth | — | **00190** |
+| 2:47 | seeing you have been able | since you have been able | *di* | dated connective, cf. 00064 (forasmuch→since) |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 2:4 | **2** | in the Syrian language | in the Aramaic language | *Aramit* — the language, not the nation of Syria (Aram); same word 2 Kings 18:26; Isaiah 36:11; Ezra 4:7 | none |
+| 2:5, 2:8 | **2** | The thing is gone from me | **no change proposed — lexical flag.** *millah mini azda*: *azda* is a Persian loan whose sense is disputed ("gone/withdrawn" vs. "firm, certain"; the latter reads "the word from me is firm"). Retained; offered for your decision | *azda* | none |
+| 2:8 | 1b | I know of a certainty | I know for certain | *yatsiv* | none |
+| 2:11 | 1b | a rare thing | a difficult thing | *yaqqirah* (heavy, hard) | none |
+| 2:16 | 1b | desired of the king that he would appoint | asked of the king that he would appoint | *ba'a min* | none |
+| 2:18 | 1b | desire mercies of the God of heaven | ask for mercies from the God of heaven | *ba'a…rachamin min qodam* | none |
+| 2:30 | 1b | to the intent that | so that | *divrat di* | none (recurs 4:17) |
+| 2:31 | 1b | whose brightness was excellent | whose brightness was extraordinary | *yattir* ("surpassing") — "excellent" in its older "surpassing" sense | none (recurs 4:36, 5:12, 5:14, 6:3) |
+| 2:31 | 1b | the aspect thereof was terrible | its appearance was terrifying | *remeh*; *dechil* ("fearful") — "terrible" in the older sense | **00189** (thereof); none for "terrible" (recurs 7:7, 7:19) |
+| 2:34 | 1b | You saw till that a stone | You watched until a stone | *chaveyt hava ad di* (continuous: "you were watching until") | none |
+| 2:41, 2:43 | 1b | And whereas you saw | And as you saw | *di chazayt* | none (recurs 4:23, 4:26) |
+| 2:46 | 1b | an oblation and sweet odors | an offering and incense | *minchah* / *nichochin* | none (cf. 9:21, 9:27 "oblation") |
+| 2:46 | **2** | worshipped Daniel | **no change proposed — flag.** *segid* is "prostrated himself in homage"; the same verb is used for the image (3:5). If you want the English to avoid asserting cultic worship of a man, alternative: "paid homage to Daniel". Note and cross-reference proposed in C | *segid* | none |
+| 2:9 | **2** | there is but one law for you | **no change proposed — flag.** *dat* = royal decree/verdict (Persian loan), not Torah; "law" here is the civil sense (00065 keeps "law" for general/civil use) | *dat* | **00065** (civil use retained) |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 2:1 | → | his spirit was troubled | Genesis 41:8 (*vatippa'em ruho*, Pharaoh); Psalm 77:4 | (3) single-point borrowing |
+| 2:2 | → | the magicians, and the enchanters, and the sorcerers | Exodus 7:11; Deuteronomy 18:10–11; Isaiah 47:12–13 | (2) thematic application |
+| 2:2 | » | the Chaldeans | *Kasdim* ("Chaldeans") — here a learned class of diviners; in 1:4 the same word names the people. | n/a (form) |
+| 2:4 | → | in the Aramaic language | 2 Kings 18:26; Isaiah 36:11; Ezra 4:7 | (2) thematic application |
+| 2:4 | » | in the Aramaic language | *Aramit* — from here to 7:28 the book is in Aramaic (as are Ezra 4:8–6:18, 7:12–26 and Jeremiah 10:11). | n/a (form) |
+| 2:4 | → | O king, live for ever | 1 Kings 1:31; Nehemiah 2:3; Daniel 3:9; 5:10; 6:6 | (2) thematic application |
+| 2:5 | → | your houses shall be made a dunghill | Ezra 6:11; 2 Kings 10:27; Daniel 3:29 | (3) single-point borrowing |
+| 2:11 | → | except the gods, whose dwelling is not with flesh | Genesis 6:3; Exodus 8:19 (the magicians: "This is the finger of God") | (2) thematic application |
+| 2:14 | → | the captain of the king’s guard | Genesis 37:36; 2 Kings 25:8; Jeremiah 39:9 | (3) single-point borrowing |
+| 2:14 | » | the captain of the king’s guard | *rav tabbachaya* — "chief of the slaughterers/executioners" (Hebrew *rav tabbachim*, Genesis 37:36; 2 Kings 25:8). | n/a (form) |
+| 2:18 | → | the God of heaven | Genesis 24:7; Jonah 1:9; Ezra 1:2; Nehemiah 1:4–5 | (2) thematic application |
+| 2:18 | » | the God of heaven | *Elah shemayya* — "God of heaven" (Hebrew *Elohei hashamayim*, Genesis 24:7; Jonah 1:9); the title recurs in Ezra 1:2 and Nehemiah 1:4–5. | n/a (form) |
+| 2:18 | » | concerning this secret | *raz* ("secret, mystery") — a Persian loanword, here and in 2:19, 2:27–30, 2:47 and 4:9; cf. Hebrew *sod* (Amos 3:7). | n/a (form) |
+| 2:19 | → | in a vision of the night | Genesis 46:2; Numbers 12:6; Job 33:15–16 | (2) thematic application |
+| 2:20 | → | Blessed be the name of God | Job 1:21; Psalm 113:2 | (2) thematic application |
+| 2:21 | → | He changes the times and the seasons | Psalm 31:15; Ecclesiastes 3:1 | (2) thematic application |
+| 2:21 | → | He removes kings, and sets up kings | Psalm 75:6–7; 1 Samuel 2:7–8; Job 12:18 | (2) thematic application |
+| 2:21 | → | He gives wisdom to the wise | Proverbs 2:6; 1 Kings 3:12 | (2) thematic application |
+| 2:22 | → | He reveals the deep and secret things | Job 12:22; Psalm 139:11–12 | (2) thematic application |
+| 2:22 | → | the light dwells with Him | Psalm 36:9 | (2) thematic application |
+| 2:23 | → | God of my fathers | Exodus 3:15–16; Deuteronomy 26:7; 2 Chronicles 20:6 | (2) thematic application |
+| 2:25 | → | children of the captivity of Judah | Ezra 4:1; Ezra 6:16 (Aramaic *bene galuta*) | (2) thematic application |
+| 2:27 | → | wise men, enchanters, magicians, nor soothsayers | Isaiah 44:25; 47:12–13; Genesis 41:8 | (2) thematic application |
+| 2:28 | → | a God in heaven who reveals secrets | Genesis 40:8; 41:16; Amos 3:7; Deuteronomy 29:29 | (2) thematic application |
+| 2:28 | → | in the latter days | Genesis 49:1; Numbers 24:14; Isaiah 2:2; Hosea 3:5 | (4) summary of many |
+| 2:28 | » | in the latter days | *be-acharit yomayya* — the Aramaic counterpart of Hebrew *be-acharit hayyamim*, the prophetic horizon "at the end of the days." | n/a (form) |
+| 2:30 | → | not revealed to me for any wisdom that I have | Genesis 41:16; Genesis 40:8 | (3) single-point borrowing |
+| 2:34 | → | without hands | Daniel 8:25 (*be-efes yad*); Job 34:20; Lamentations 4:6 | (2) thematic application |
+| 2:34 | → | a stone was cut out | Psalm 118:22; Isaiah 28:16; Genesis 49:24 | (2) thematic application |
+| 2:35 | → | became like the chaff of the summer threshing-floors | Psalm 1:4; Isaiah 41:15–16; Hosea 13:3 | (2) thematic application |
+| 2:35 | → | became a great mountain, and filled the whole earth | Isaiah 2:2; Habakkuk 2:14; Psalm 72:19 | (2) thematic application |
+| 2:37 | → | king of kings | Ezekiel 26:7; Ezra 7:12 | (1) direct verbatim |
+| 2:38 | → | the beasts of the field and the birds of the sky has He given into your hand | Jeremiah 27:5–7; 28:14; Genesis 1:28; Psalm 8:6–8 | (2) thematic application |
+| 2:38 | → | you are the head of gold | Jeremiah 51:7; Isaiah 14:4 | (2) thematic application |
+| 2:44 | → | set up a kingdom which shall never be destroyed | Daniel 4:3; 6:26; 7:14, 7:27; 2 Samuel 7:13; Psalm 145:13 | (4) summary of many |
+| 2:45 | → | a stone was cut out of the mountain | Isaiah 2:2; Micah 4:1 | (2) thematic application |
+| 2:46 | → | worshipped Daniel | Acts 10:25–26; Revelation 19:10 (a man refusing homage) | (2) thematic application |
+| 2:46 | » | worshipped Daniel | *segid* ("prostrated himself in homage") — the verb used for the image in 3:5; Hebrew *hishtachavah* is used for bowing to persons as well (Genesis 23:7; 33:3). | n/a (form) |
+| 2:46 | » | an offering and incense | *minchah* (the "grain offering" of Leviticus 2) and *nichochin* (cognate of Hebrew *nichoach*, the "pleasing" aroma of Leviticus 1:9). | n/a (form) |
+| 2:47 | → | the God of gods, and the Lord of kings | Deuteronomy 10:17; Psalm 136:2–3 | (2) thematic application |
+| 2:48 | → | made him to rule over the whole province of Babylon | Genesis 41:40–45; Esther 10:3 | (2) thematic application |
+| 2:49 | → | Daniel was in the gate of the king | Esther 2:19, 2:21; 3:2 | (3) single-point borrowing |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "make not known" (2:5, 2:9), "Destroy not" (2:24), "can neither wise men… show" (2:27), "Then was the iron…" (2:35), "shall the God of heaven set up" (2:44). Same as the Matthew caches.
+- 2:9 "till the time be changed": subjunctive "be" retained (same policy).
+- 2:10, 2:11 "that can show" (singular relative): only plural "them/they that" are converted under 00151.
+- 2:2 "sorcerers" (*mekhashfin*), "enchanters" (*ashshafin*), "magicians" (*chartummin*), "soothsayers" (*gazrin*, "determiners of fate"): the diviner lists are retained as in ch.1.
+- 2:5 "dunghill" (*nivli*): retained; the same word at Ezra 6:11.
+- 2:14 "counsel and prudence": retained.
+- 2:21 "times and seasons" (*iddanayya vizimnayya*): retained.
+- 2:25 "children of the captivity": retained (idiomatic, Ezra 6:16).
+- 2:41 "miry clay" (*chasaf tin*): retained.
+- 2:43 "the seed of men" and "cleave": retained.
+- 2:48 "chief governor" (*rav signin*): retained.
+- R8 lineation: vv.20–23 are poetic (a doxology); the ASV's printed cola are not preserved in the working file, so no indented lines are proposed. If you want them, supply the cola breaks. Not touched.
+- R9: speech balance checked per above; v.16, v.18 are reported speech (not quoted).
+
+## Pacing check (markup)
+
+New `---` before v.1, v.14 (Daniel and Arioch), v.17 (Daniel's house), v.24 (back before the king). `>>>` paragraph breaks inside Daniel's long speech before v.31 (the dream) and v.36 (the interpretation). `[br]` at speech line-ends and at the cola of the doxology. No `[br]` before a break marker.
+
+## Flags outside chapter 2 (no action taken)
+
+- "excellent" (*yattir*) recurs 4:36, 5:12, 5:14, 6:3; "terrible" 7:7, 7:19; "whereas" 4:23, 4:26; "brass" 4:15, 5:4, 5:23, 7:19, 10:6; "birds of the heavens" 4:12, 4:21; "oblation" 9:21, 9:27.
+- Aramaic section runs 2:4b–7:28; the 2:4 note covers it, no repeat at ch.7.
+
+## E. Full proposed chapter text (Daniel 2)
+
+## Daniel 2
+
+---
+1  And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep went from him.
+→ his spirit was troubled :: Genesis 41:8; Psalm 77:4
+2  Then the king commanded to call the magicians, and the enchanters, and the sorcerers, and the Chaldeans, to tell the king his dreams. So they came in and stood before the king.
+→ the magicians, and the enchanters, and the sorcerers :: Exodus 7:11; Deuteronomy 18:10–11; Isaiah 47:12–13
+» the Chaldeans :: *Kasdim* ("Chaldeans") — here a learned class of diviners; in 1:4 the same word names the people.
+3  And the king said to them, “I have dreamed a dream, and my spirit is troubled to know the dream.”[br]
+4  Then spoke the Chaldeans to the king in the Aramaic language, “O king, live for ever: tell your servants the dream, and we will show the interpretation.”[br]
+→ in the Aramaic language :: 2 Kings 18:26; Isaiah 36:11; Ezra 4:7
+» in the Aramaic language :: *Aramit* — from here to 7:28 the book is in Aramaic (as are Ezra 4:8–6:18, 7:12–26 and Jeremiah 10:11).
+→ O king, live for ever :: 1 Kings 1:31; Nehemiah 2:3; Daniel 3:9; Daniel 5:10; Daniel 6:6
+5  The king answered and said to the Chaldeans, “The thing is gone from me: if you all make not known to me the dream and its interpretation, you all shall be cut in pieces, and your houses shall be made a dunghill.[br]
+→ your houses shall be made a dunghill :: Ezra 6:11; 2 Kings 10:27; Daniel 3:29
+6  But if you all show the dream and its interpretation, you all shall receive of me gifts and rewards and great honor: therefore show me the dream and its interpretation.”[br]
+7  They answered the second time and said, “Let the king tell his servants the dream, and we will show the interpretation.”[br]
+8  The king answered and said, “I know for certain that you all would gain time, because you all see the thing is gone from me.[br]
+9  But if you all make not known to me the dream, there is but one law for you; for you all have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that you all can show me its interpretation.”[br]
+10  The Chaldeans answered before the king, and said, “There is not a man upon the earth that can show the king’s matter, since no king, lord, or ruler, has asked such a thing of any magician, or enchanter, or Chaldean.[br]
+11  And it is a difficult thing that the king requires, and there is no other that can show it before the king, except the gods, whose dwelling is not with flesh.”[br]
+→ except the gods, whose dwelling is not with flesh :: Genesis 6:3; Exodus 8:19
+12  For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon.
+13  So the decree went forth, and the wise men were to be slain; and they sought Daniel and his companions to be slain.
+---
+14  Then Daniel returned answer with counsel and prudence to Arioch the captain of the king’s guard, who had gone forth to slay the wise men of Babylon;
+→ the captain of the king’s guard :: Genesis 37:36; 2 Kings 25:8; Jeremiah 39:9
+» the captain of the king’s guard :: *rav tabbachaya* — "chief of the slaughterers/executioners" (Hebrew *rav tabbachim*, Genesis 37:36; 2 Kings 25:8).
+15  he answered and said to Arioch the king’s captain, “Why is the decree so urgent from the king?” Then Arioch made the thing known to Daniel.
+16  And Daniel went in, and asked of the king that he would appoint him a time, and he would show the king the interpretation.
+---
+17  Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:
+18  that they would ask for mercies from the God of heaven concerning this secret; that Daniel and his companions should not perish with the rest of the wise men of Babylon.
+→ the God of heaven :: Genesis 24:7; Jonah 1:9; Ezra 1:2; Nehemiah 1:4–5
+» the God of heaven :: *Elah shemayya* — "God of heaven" (Hebrew *Elohei hashamayim*, Genesis 24:7; Jonah 1:9); the title recurs in Ezra 1:2 and Nehemiah 1:4–5.
+» concerning this secret :: *raz* ("secret, mystery") — a Persian loanword, here and in 2:19, 2:27–30, 2:47 and 4:9; cf. Hebrew *sod* (Amos 3:7).
+19  Then was the secret revealed to Daniel in a vision of the night. Then Daniel blessed the God of heaven.
+→ in a vision of the night :: Genesis 46:2; Numbers 12:6; Job 33:15–16
+20  Daniel answered and said, “Blessed be the name of God for ever and ever; for wisdom and might are His.[br]
+→ Blessed be the name of God :: Job 1:21; Psalm 113:2
+21  And He changes the times and the seasons; He removes kings, and sets up kings; He gives wisdom to the wise, and knowledge to those who have understanding;[br]
+→ He changes the times and the seasons :: Psalm 31:15; Ecclesiastes 3:1
+→ He removes kings, and sets up kings :: Psalm 75:6–7; 1 Samuel 2:7–8; Job 12:18
+→ He gives wisdom to the wise :: Proverbs 2:6; 1 Kings 3:12
+22  He reveals the deep and secret things; He knows what is in the darkness, and the light dwells with Him;[br]
+→ He reveals the deep and secret things :: Job 12:22; Psalm 139:11–12
+→ the light dwells with Him :: Psalm 36:9
+23  I thank You, and praise You, O You God of my fathers, who have given me wisdom and might, and have now made known to me what we desired of You; for You have made known to us the king’s matter.”
+→ God of my fathers :: Exodus 3:15–16; Deuteronomy 26:7; 2 Chronicles 20:6
+---
+24  Therefore Daniel went in to Arioch, whom the king had appointed to destroy the wise men of Babylon; he went and said thus to him, “Destroy not the wise men of Babylon; bring me in before the king, and I will show to the king the interpretation.”[br]
+25  Then Arioch brought in Daniel before the king in haste, and said thus to him, “I have found a man of the children of the captivity of Judah, that will make known to the king the interpretation.”[br]
+→ children of the captivity of Judah :: Ezra 4:1; Ezra 6:16
+26  The king answered and said to Daniel, whose name was Belteshazzar, “Are you able to make known to me the dream which I have seen, and its interpretation?”[br]
+27  Daniel answered before the king, and said, “The secret which the king has demanded can neither wise men, enchanters, magicians, nor soothsayers, show to the king;[br]
+→ wise men, enchanters, magicians, nor soothsayers :: Isaiah 44:25; Isaiah 47:12–13; Genesis 41:8
+28  but there is a God in heaven who reveals secrets, and He has made known to the king Nebuchadnezzar what shall be in the latter days. Your dream, and the visions of your head upon your bed, are these:[br]
+→ a God in heaven who reveals secrets :: Genesis 40:8; Genesis 41:16; Amos 3:7; Deuteronomy 29:29
+→ in the latter days :: Genesis 49:1; Numbers 24:14; Isaiah 2:2; Hosea 3:5
+» in the latter days :: *be-acharit yomayya* — the Aramaic counterpart of Hebrew *be-acharit hayyamim*, the prophetic horizon "at the end of the days."
+29  as for you, O king, your thoughts came into your mind upon your bed, what should happen hereafter; and He who reveals secrets has made known to you what shall happen.[br]
+30  But as for me, this secret is not revealed to me for any wisdom that I have more than any living person, but so that the interpretation may be made known to the king, and that you may know the thoughts of your heart.
+→ not revealed to me for any wisdom that I have :: Genesis 41:16; Genesis 40:8
+>>>
+31  You, O king, saw, and, behold, a great image. This image, which was mighty, and whose brightness was extraordinary, stood before you; and its appearance was terrifying.[br]
+32  As for this image, its head was of fine gold, its breast and its arms of silver, its belly and its thighs of bronze,[br]
+33  its legs of iron, its feet part of iron, and part of clay.[br]
+34  You watched until a stone was cut out without hands, which struck the image upon its feet that were of iron and clay, and broke them in pieces.[br]
+→ without hands :: Daniel 8:25; Job 34:20; Lamentations 4:6
+→ a stone was cut out :: Psalm 118:22; Isaiah 28:16; Genesis 49:24
+35  Then was the iron, the clay, the bronze, the silver, and the gold, broken in pieces together, and became like the chaff of the summer threshing-floors; and the wind carried them away, so that no place was found for them: and the stone that struck the image became a great mountain, and filled the whole earth.
+→ became like the chaff of the summer threshing-floors :: Psalm 1:4; Isaiah 41:15–16; Hosea 13:3
+→ became a great mountain, and filled the whole earth :: Isaiah 2:2; Habakkuk 2:14; Psalm 72:19
+>>>
+36  This is the dream; and we will tell its interpretation before the king.[br]
+37  You, O king, are king of kings, to whom the God of heaven has given the kingdom, the power, and the strength, and the glory;[br]
+→ king of kings :: Ezekiel 26:7; Ezra 7:12
+38  and wherever the children of men dwell, the beasts of the field and the birds of the sky has He given into your hand, and has made you to rule over them all: you are the head of gold.[br]
+→ the beasts of the field and the birds of the sky has He given into your hand :: Jeremiah 27:5–7; Jeremiah 28:14; Genesis 1:28; Psalm 8:6–8
+→ you are the head of gold :: Jeremiah 51:7; Isaiah 14:4
+39  And after you shall arise another kingdom inferior to you; and another third kingdom of bronze, which shall bear rule over all the earth.[br]
+40  And the fourth kingdom shall be strong as iron, since iron breaks in pieces and subdues all things; and as iron that crushes all these, shall it break in pieces and crush.[br]
+41  And as you saw the feet and toes, part of potters’ clay, and part of iron, it shall be a divided kingdom; but there shall be in it of the strength of the iron, since you saw the iron mixed with miry clay.[br]
+42  And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.[br]
+43  And as you saw the iron mixed with miry clay, they shall mingle themselves with the seed of men; but they shall not cleave one to another, even as iron does not mingle with clay.[br]
+44  And in the days of those kings shall the God of heaven set up a kingdom which shall never be destroyed, nor shall its sovereignty be left to another people; but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.[br]
+→ set up a kingdom which shall never be destroyed :: Daniel 4:3; Daniel 6:26; Daniel 7:14; Daniel 7:27; 2 Samuel 7:13; Psalm 145:13
+45  Since you saw that a stone was cut out of the mountain without hands, and that it broke in pieces the iron, the bronze, the clay, the silver, and the gold; the great God has made known to the king what shall happen hereafter: and the dream is certain, and its interpretation sure.”
+→ a stone was cut out of the mountain :: Isaiah 2:2; Micah 4:1
+---
+46  Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an offering and incense to him.
+→ worshipped Daniel :: Acts 10:25–26; Revelation 19:10
+» worshipped Daniel :: *segid* ("prostrated himself in homage") — the verb used for the image in 3:5; Hebrew *hishtachavah* is used for bowing to persons as well (Genesis 23:7; 33:3).
+» an offering and incense :: *minchah* (the "grain offering" of Leviticus 2) and *nichochin* (cognate of Hebrew *nichoach*, the "pleasing" aroma of Leviticus 1:9).
+47  The king answered to Daniel, and said, “Truly your God is the God of gods, and the Lord of kings, and a revealer of secrets, since you have been able to reveal this secret.”[br]
+→ the God of gods, and the Lord of kings :: Deuteronomy 10:17; Psalm 136:2–3
+48  Then the king made Daniel great, and gave him many great gifts, and made him to rule over the whole province of Babylon, and to be chief governor over all the wise men of Babylon.
+→ made him to rule over the whole province of Babylon :: Genesis 41:40–45; Esther 10:3
+49  And Daniel requested of the king, and he appointed Shadrach, Meshach, and Abed-nego, over the affairs of the province of Babylon: but Daniel was in the gate of the king.
+→ Daniel was in the gate of the king :: Esther 2:19; Esther 2:21; Esther 3:2

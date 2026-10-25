@@ -1,0 +1,157 @@
+# daniel_cache12 — Daniel 12 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–11 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none cited. All references use English versification. The NT line at 12:7 (Revelation 10:5–6) is a parallel passage, offered as a reference only.
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 12:7 | swore by him that lives for ever | swore by Him that lives for ever | the oath-formula of Deuteronomy 32:40; same referent as 4:34 |
+| 12:7 | when he held up his right hand and his left hand | (lowercase kept) | the man clothed in linen (see cache10 A1) |
+| 12:1 | the great prince | (lowercase kept) | Michael |
+
+Precedent: R1.1; 00086.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 12:1–4, 12:6, 12:8, 12:9–13 | unquoted direct speech | curly quotes (R9): the angel's discourse reopened at 12:1 and closed at 12:4 (continuing 10:20–11:45); the question 6; Daniel 8; the man's reply 9–13 (one speech). The oath of v.7 is reported speech (not quoted) | — | **00087** |
+| 12:2, 12:3 (×2), 12:10 | them that sleep / they that are wise / they that turn many / they that are wise | those who sleep / those who are wise / those who turn many / those who are wise | — | **00151** |
+| 12:12 | Blessed is he that waits | Blessed is the one who waits | *ashrei ha-mechakeh* | **00151** (extended) |
+| 12:1 | every one that shall be found | everyone who shall be found | — | wording |
+| 12:13 | But go you your way | But go your way | — | R2 fallout, cf. **00104.4** |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 12:5 | 1b | there stood other two | there stood two others | *shenayim acherim* | none |
+| 12:8 | 1b | what shall be the issue of these things | what shall be the outcome of these things | *mah acharit elleh* ("the latter end"); "issue" dated | none |
+| 12:12 | 1b | the thousand three hundred and five and thirty days | the thousand three hundred and thirty-five days | *elef shelosh me'ot shloshim va-chamishah* | none |
+| 12:4 | **2** | knowledge shall be increased | **no change proposed — textual flag.** The Masoretic text reads *ha-da'at* ("knowledge"); some witnesses read *ha-ra'ah* ("evil") for it. ASV follows the Masoretic. Verify against the apparatus before any change; retained | *ta'rbeh ha-da'at* | none |
+| 12:3 | **2** | the firmament | **no change proposed — consistency flag.** *ha-raqia'* is the Genesis 1:6–8 word; keep the rendering matched to Genesis 1 (not checked here) | *raqia'* | none |
+| 12:3 | **2** | they that turn many to righteousness | **no change proposed — note only.** *matsdiqei ha-rabbim* is "those who make the many righteous / lead the many to righteousness" (cf. Isaiah 53:11 *yatsdiq*); "turn…to" retained | *matsdiqei* | none |
+| 12:7 | **2** | a time, times, and a half | **no change proposed.** *mo'ed mo'adim va-chetsi*; retained as at 7:25 | *mo'ed* | none |
+| 12:11, 12:12 | **2** | a thousand and two hundred and ninety days; the thousand three hundred and five and thirty days | **no change proposed** to the quantities; only the 12:12 numeral order is modernized above | — | none |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 12:1 | → | Michael stand up, the great prince | Daniel 10:13, 10:21 | (2) thematic application |
+| 12:1 | → | a time of trouble, such as never was | Jeremiah 30:7; Joel 2:2; Exodus 11:6 | (2) thematic application |
+| 12:1 | → | found written in the book | Exodus 32:32–33; Psalm 69:28; Isaiah 4:3; Daniel 7:10 | (4) summary of many |
+| 12:2 | → | those who sleep in the dust of the earth shall awake | Isaiah 26:19; Genesis 3:19; Ezekiel 37:12–14 | (2) thematic application |
+| 12:2 | → | everlasting life | Psalm 133:3; Psalm 16:11 | (2) thematic application |
+| 12:2 | » | everlasting life | *chayyei 'olam* — "life of the age"; the only occurrence of the phrase in the Tanakh (cf. Psalm 133:3, "life for evermore"). | n/a (form) |
+| 12:2 | → | shame and everlasting contempt | Isaiah 66:24 | (3) single-point borrowing |
+| 12:2 | » | everlasting contempt | *dera'on 'olam* — "abhorrence"; the word occurs elsewhere only in Isaiah 66:24. | n/a (form) |
+| 12:3 | → | those who are wise shall shine | Daniel 11:33, 11:35 | (2) thematic application |
+| 12:3 | → | those who turn many to righteousness | Isaiah 53:11; Malachi 2:6; Proverbs 11:30 | (2) thematic application |
+| 12:3 | → | as the stars for ever and ever | Genesis 15:5; Daniel 8:10 | (2) thematic application |
+| 12:4 | → | shut up the words, and seal the book | Daniel 8:26; Isaiah 8:16; 29:11 | (2) thematic application |
+| 12:4 | → | many shall run to and fro | Amos 8:12; Jeremiah 5:1; Zechariah 4:10 | (2) thematic application |
+| 12:4 | » | run to and fro | *yeshotetu* — "range about," the verb of Amos 8:12; Jeremiah 5:1; Zechariah 4:10. | n/a (form) |
+| 12:4 | → | knowledge shall be increased | Isaiah 11:9; Habakkuk 2:14 | (2) thematic application |
+| 12:5 | → | the brink of the river | Daniel 8:16; 10:4 | (2) thematic application |
+| 12:6 | → | How long shall it be to the end | Daniel 8:13; Psalm 74:10; 94:3; Isaiah 6:11 | (2) thematic application |
+| 12:6 | → | these wonders | Exodus 15:11; Psalm 77:14; Isaiah 9:6 | (2) thematic application |
+| 12:6 | » | these wonders | *pela'ot* — "wonders" (Exodus 15:11; Psalm 77:14; Isaiah 9:6, *pele*). | n/a (form) |
+| 12:7 | → | held up his right hand and his left hand to heaven | Deuteronomy 32:40; Genesis 14:22; Revelation 10:5–6 (NT parallel) | (2) thematic application |
+| 12:7 | → | swore by Him that lives for ever | Daniel 4:34; 6:26 | (2) thematic application |
+| 12:7 | → | for a time, times, and a half | Daniel 7:25; 4:16; Revelation 12:14 | (2) thematic application |
+| 12:7 | » | a time, times, and a half | *mo'ed mo'adim va-chetsi* — "an appointed time, appointed times, and a half"; *mo'ed* is the festival word of Leviticus 23 (the Aramaic of 7:25 reads *iddan*). | n/a (form) |
+| 12:7 | → | the holy people | Exodus 19:6; Deuteronomy 7:6; Daniel 8:24 | (2) thematic application |
+| 12:8 | → | what shall be the outcome of these things | Deuteronomy 32:20; Isaiah 46:10 | (2) thematic application |
+| 12:9 | → | the words are shut up and sealed | Daniel 8:26; 12:4; Isaiah 29:11 | (2) thematic application |
+| 12:10 | → | purify themselves, and make themselves white, and be refined | Daniel 11:35; Malachi 3:3; Zechariah 13:9; Isaiah 1:18 | (2) thematic application |
+| 12:10 | → | those who are wise shall understand | Hosea 14:9; Psalm 107:43 | (2) thematic application |
+| 12:11 | → | the continual burnt-offering shall be taken away | Daniel 8:11–14; 9:27; 11:31 | (4) summary of many |
+| 12:12 | → | Blessed is the one who waits | Isaiah 30:18; Habakkuk 2:3; Lamentations 3:25–26 | (2) thematic application |
+| 12:13 | → | you shall rest | Isaiah 57:2; Job 3:17 | (2) thematic application |
+| 12:13 | → | shall stand in your lot | Psalm 16:5–6; Joshua 14:2 | (2) thematic application |
+| 12:13 | » | your lot | *goral* — the allotted portion (Joshua 14:2; Psalm 16:5), as of an inheritance in the land. | n/a (form) |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "till the end be" (12:13), "O my lord, what shall be" kept. Same as the Matthew caches.
+- 12:1 "such as never was since there was a nation": retained.
+- 12:1 "the great prince who stands for the children of your people": lowercase "prince" (angelic), matching 10:13, 10:21; retained.
+- 12:5 "on the brink" (*saphah*): retained.
+- 12:6 "the man clothed in linen": identity unstated; retained, no capitalization (cache10 A1).
+- 12:7 "breaking in pieces the power of the holy people": retained.
+- 12:9 "Go your way": retained.
+- 12:11, 12:12 day-counts: retained; no interpretive note.
+- R8 lineation: none; the chapter is prose.
+- R9: the angel's discourse is closed at the chapter's fourth verse; all speeches are one layer; no nested quotation.
+
+## Pacing check (markup)
+
+New `---` before v.1 and v.5 (two others appear on the river banks). `>>>` before v.9 (the man's reply). `[br]` at speech line-ends. No `[br]` before a break marker. The book ends at v.13.
+
+## Flags outside chapter 12 (no action taken)
+
+- The 12:4 textual flag (*da'at* / *ra'ah*) would be the only place in Daniel where the text deviates from the Masoretic reading; verify against an apparatus if you want it acted on.
+- "firmament" should be checked against the rendering already used at Genesis 1:6–8.
+- 7:25 "a time and times and half a time" (cache7) and this verse share the phrase; keep them aligned if either changes.
+
+## E. Full proposed chapter text (Daniel 12)
+
+## Daniel 12
+
+---
+1  “And at that time shall Michael stand up, the great prince who stands for the children of your people; and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time your people shall be delivered, everyone who shall be found written in the book.[br]
+→ Michael stand up, the great prince :: Daniel 10:13; Daniel 10:21
+→ a time of trouble, such as never was :: Jeremiah 30:7; Joel 2:2; Exodus 11:6
+→ found written in the book :: Exodus 32:32–33; Psalm 69:28; Isaiah 4:3; Daniel 7:10
+2  And many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.[br]
+→ those who sleep in the dust of the earth shall awake :: Isaiah 26:19; Genesis 3:19; Ezekiel 37:12–14
+→ everlasting life :: Psalm 133:3; Psalm 16:11
+» everlasting life :: *chayyei 'olam* — "life of the age"; the only occurrence of the phrase in the Tanakh (cf. Psalm 133:3, "life for evermore").
+→ shame and everlasting contempt :: Isaiah 66:24
+» everlasting contempt :: *dera'on 'olam* — "abhorrence"; the word occurs elsewhere only in Isaiah 66:24.
+3  And those who are wise shall shine as the brightness of the firmament; and those who turn many to righteousness as the stars for ever and ever.[br]
+→ those who are wise shall shine :: Daniel 11:33; Daniel 11:35
+→ those who turn many to righteousness :: Isaiah 53:11; Malachi 2:6; Proverbs 11:30
+→ as the stars for ever and ever :: Genesis 15:5; Daniel 8:10
+4  But you, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.”
+→ shut up the words, and seal the book :: Daniel 8:26; Isaiah 8:16; Isaiah 29:11
+→ many shall run to and fro :: Amos 8:12; Jeremiah 5:1; Zechariah 4:10
+» run to and fro :: *yeshotetu* — "range about," the verb of Amos 8:12; Jeremiah 5:1; Zechariah 4:10.
+→ knowledge shall be increased :: Isaiah 11:9; Habakkuk 2:14
+---
+5  Then I, Daniel, looked, and, behold, there stood two others, the one on the brink of the river on this side, and the other on the brink of the river on that side.
+→ the brink of the river :: Daniel 8:16; Daniel 10:4
+6  And one said to the man clothed in linen, who was above the waters of the river, “How long shall it be to the end of these wonders?”[br]
+→ How long shall it be to the end :: Daniel 8:13; Psalm 74:10; Psalm 94:3; Isaiah 6:11
+→ these wonders :: Exodus 15:11; Psalm 77:14; Isaiah 9:6
+» these wonders :: *pela'ot* — "wonders" (Exodus 15:11; Psalm 77:14; Isaiah 9:6, *pele*).
+7  And I heard the man clothed in linen, who was above the waters of the river, when he held up his right hand and his left hand to heaven, and swore by Him that lives for ever that it shall be for a time, times, and a half; and when they have made an end of breaking in pieces the power of the holy people, all these things shall be finished.
+→ held up his right hand and his left hand to heaven :: Deuteronomy 32:40; Genesis 14:22; Revelation 10:5–6
+→ swore by Him that lives for ever :: Daniel 4:34; Daniel 6:26
+→ for a time, times, and a half :: Daniel 7:25; Daniel 4:16; Revelation 12:14
+» a time, times, and a half :: *mo'ed mo'adim va-chetsi* — "an appointed time, appointed times, and a half"; *mo'ed* is the festival word of Leviticus 23 (the Aramaic of 7:25 reads *iddan*).
+→ the holy people :: Exodus 19:6; Deuteronomy 7:6; Daniel 8:24
+>>>
+8  And I heard, but I understood not: then said I, “O my lord, what shall be the outcome of these things?”[br]
+→ what shall be the outcome of these things :: Deuteronomy 32:20; Isaiah 46:10
+9  And he said, “Go your way, Daniel; for the words are shut up and sealed till the time of the end.[br]
+→ the words are shut up and sealed :: Daniel 8:26; Daniel 12:4; Isaiah 29:11
+10  Many shall purify themselves, and make themselves white, and be refined; but the wicked shall do wickedly; and none of the wicked shall understand; but those who are wise shall understand.[br]
+→ purify themselves, and make themselves white, and be refined :: Daniel 11:35; Malachi 3:3; Zechariah 13:9; Isaiah 1:18
+→ those who are wise shall understand :: Hosea 14:9; Psalm 107:43
+11  And from the time that the continual burnt-offering shall be taken away, and the abomination that makes desolate set up, there shall be a thousand and two hundred and ninety days.[br]
+→ the continual burnt-offering shall be taken away :: Daniel 8:11–14; Daniel 9:27; Daniel 11:31
+12  Blessed is the one who waits, and comes to the thousand three hundred and thirty-five days.[br]
+→ Blessed is the one who waits :: Isaiah 30:18; Habakkuk 2:3; Lamentations 3:25–26
+13  But go your way till the end be; for you shall rest, and shall stand in your lot, at the end of the days.”
+→ you shall rest :: Isaiah 57:2; Job 3:17
+→ shall stand in your lot :: Psalm 16:5–6; Joshua 14:2
+» your lot :: *goral* — the allotted portion (Joshua 14:2; Psalm 16:5), as of an inheritance in the land.

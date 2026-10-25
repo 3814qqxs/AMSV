@@ -1,0 +1,130 @@
+# translation_cache11 — Matthew 11 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/matthew.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to matthew.md and logs rows.
+
+Note: caches for ch.4–6, 8, 10 are pending; ch.7 and 9 have no cache. Nothing here assumes their outcomes; mirror items are marked.
+
+## A. Tier 1 — mechanical (R1.1 divine-pronoun capitalization)
+
+Chapter 11 has had no R1.1 pass (00086: ch.6+ pending). Yeshua is the referent of narrative pronouns and speaks in first person throughout; all currently lowercase. Generic/John/disciple "he/him/his" stays lowercase.
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 11:1 | commanding his twelve disciples, he departed | commanding His twelve disciples, He departed | |
+| 11:3 | and said to him, "Are you he that comes | and said to Him, "Are you He that comes | "he that comes" = *ho erchomenos*, Yeshua |
+| 11:6 | find no occasion of stumbling in me | find no occasion of stumbling in Me | |
+| 11:10 | I send my messenger | I send My messenger | God speaking inside the Malachi quotation (R1.1 first-person). "This is he, of whom it is written" = John, stays lowercase |
+| 11:20 | Then began he to upbraid…his mighty works | Then began He to upbraid…His mighty works | |
+| 11:27 | delivered to me of my Father | delivered to Me of My Father | |
+| 11:27 | to reveal him | to reveal Him | the Father, unambiguous (00073). "he to whomsoever the Son wills" = any person, stays lowercase |
+| 11:28 | Come to me | Come to Me | |
+| 11:29 | Take my yoke upon you, and learn of me | Take My yoke upon you, and learn of Me | |
+| 11:30 | my yoke…my burden | My yoke…My burden | |
+
+Precedent: R1.1 (2026-09-02); 00086; 00073.
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+No PROJECT_HISTORY row exists for any item unless a precedent is cited.
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 11:3 | 1b | or look we for another? | or are we to look for another? | *ē heteron prosdokōmen* — subjunctive (deliberative: "are we to expect"), not the ASV's plain present; "look we" dead word order | none |
+| 11:5 | 1b | have good tidings preached to them | have good news preached to them | *euangelizontai* (euangel- family); "tidings" dead. Existing » anchor moves to "the poor have good news preached to them" | 00084 (euangelion → good news) |
+| 11:8 | 1b | they that wear soft clothing | those who wear soft clothing | relative "they that" dead | 00151 (analogue: "them that sat" → "those who sat") |
+| 11:11 | 1b | Among them that are born of women | Among those who are born of women | *en gennētois gynaikōn* ("among those born of women") | 00151 |
+| 11:11 | **2** | he that is but little in the kingdom of heaven | he that is least in the kingdom of heaven | *ho mikroteros* — comparative form ("lesser/smaller"); "but little" reads as a small amount, not a rank. The » already presumes the "least" sense. Existing » anchor moves with it | none |
+| 11:12 | **2** | the kingdom of heaven suffers violence, and men of violence take it by force | **no change proposed — flag.** Crux: *biazetai* is middle or passive ("is advancing forcefully" / "is being forced"); *biastai…harpazousin* ("forceful ones seize"). Alternate if you want one: "the kingdom of heaven is advancing forcefully, and forceful men seize it." | *biazetai*; *biastai*; *harpazousin autēn* | none (cf. 00077/00074 for crux handling: kept, alternate recorded) |
+| 11:19 | 1b | a friend of publicans and sinners | a friend of tax collectors and sinners | *telōnōn* | **00035** |
+| 11:19 | 1b | a winebibber | a drunkard | *oinopotēs* (lit. "wine-drinker," pejorative); "winebibber" dead. Alt: "wine-drinker" | none |
+| 11:19 | **2** | wisdom is justified by her works | wisdom is vindicated by her works | *edikaiōthē* (*dikaioō*, "declared right, vindicated"); "justified" now reads as excuse/forensic-theological. Existing » anchor moves with it | none |
+| 11:25 | 1b | that you did hide these things…and did reveal them | that you hid these things…and revealed them | *apekrypsas…apekalypsas* (plain aorists); "did hide/did reveal" dead periphrasis | none |
+| 11:27 | 1b | delivered to me of my Father | delivered to Me by My Father | *hypo tou patros mou* (passive agent) | **00144** |
+| 11:27 | 1b | to whomsoever the Son wills | to whomever the Son wills | *hō ean boulētai* | none (mirrors 26:48 "Whomsoever", 18:18 "What things soever") |
+| 11:28 | 1b | and are heavy laden | and are burdened | *pephortismenoi* — same root as *phortion* ("burden") in v.30; "heavy laden" hides the link. Existing » anchor moves with it | 00010 (cumbered → weighed down, different lemma) |
+| 11:29 | 1b | learn of me | learn from Me | *mathete ap' emou* (apo + genitive, source); "of" dead in this sense | cf. 00144 (same class: archaic "of") |
+| 11:29 | 1b | rest to your souls | rest for your souls | *anapausin tais psychais hymōn* (dative of advantage; Jer. 6:16 reads "rest for your souls") | none |
+
+
+## D. Reviewed — no change proposed
+
+- 11:2 "sent by his disciples," "heard in the prison": ASV intelligible.
+- 11:6 "occasion of stumbling" (*skandalisthē*): ASV wording retained across 5:29, 18:7; not proposed.
+- 11:7 "shaken with the wind": *hypo anemou* but "with" is living; not proposed (00144 targets dead agent-"of").
+- **Policy — archaic word order, not proposed:** "What went you all out" (11:7, 8, 9), "shall you be exalted" (11:23), "Then began he" (11:20), "repented not" (11:20, cf. "believe it not" 24:23, "I know you not" 25:12). Same pattern left alone in caches 3/4/8/10 and in 13:10, 20:6. Say so if you want a corpus-wide pass.
+- 11:9 "behold" verb and 11:7 "to behold": retained (CLAUDE.md §5, living register word).
+- 11:14 "Elijah, that is to come": "that" for persons living (cf. 00151 exception).
+- 11:16 "like to": retained, same as 13:31, 13:33, 13:44 (policy item for a later pass).
+- 11:17 "piped," "wailed": living; *ēulēsamen / ethrēnēsamen* (flute / lament).
+- 11:20 "upbraid": uncommon but live; not proposed. "mighty works" (11:20, 21, 23): *dynameis*; **00134** rendered *dynameis* "works of power" only inside its Mk. 6:2 construction — kept here as living phrase; **Flag:** extend 00134 to all Matthew instances (7:22, 11:20–23, 13:54, 13:58, 14:2)?
+- 11:22 "tolerable" (*anektoteron*): kept, as at 10:15.
+- 11:25 "At that season": *en ekeinō tō kairō*; kept, as at 12:1, 14:1. "babes" (*nēpiois*): living.
+- 11:25–26 "you / your" addressed to the Father, and 11:10 "your face / your way" (addressed to Yeshua in the Malachi quote): left lowercase; R1.1 covers he/his/him/himself and first-person only. Matches 6:9, 26:39 as currently written. **Flag if you want second-person divine address capitalized corpus-wide.**
+- 11:27 "save the Father / save the Son": **00142** (save = except, declined); kept.
+- 11:28 "all you that labor": "all" already marks the plural; "all you all" avoided. *kopiōntes* ("toil, grow weary") kept as "labor."
+- 11:29 "meek and lowly in heart" (*praus kai tapeinos*): both living; "lowly" kept. 11:30 "easy" (*chrēstos*, "kind, well-fitting"): kept; » not proposed.
+- 11:13 "the prophets and the Torah": already swapped per **00065** (Mt. 11:13).
+- R9: speech 11:4–6 closes at v.6; 11:7–19 one speech, closes at v.19, nested single-quoted spans (10, 17, 18, 19) balanced; 11:21–24 one speech; 11:25–30 one speech. No changes.
+
+## Pacing check (markup)
+
+Existing `---` after v.1, v.6, v.19, v.24 are scene/topic shifts (John's question; the crowd and John; woes on the cities; the thanksgiving). **One change proposed:** v.19 ends `[br]` with the `---` following (after the » note line) — redundant per §9.1; removed in E. All other `[br]` placements unchanged.
+
+## Flags outside chapter 11 (no action taken)
+
+- If approved, mirror elsewhere: "publicans" at 9:10, 9:11, 18:17, 21:31, 21:32 (00035); "whomsoever" 26:48 and "what things soever" 18:18; "of my Father" (agent/source) at 18:19, 20:23, 25:34; "mighty works" at 13:54, 13:58, 14:2; "heavy laden" none elsewhere in Matthew; "good tidings" none elsewhere.
+- 00086: ch.12+ remain unchecked for R1.1; ch.6–10 pending their caches.
+
+## E. Full proposed chapter text (Matthew 11)
+
+## Matthew 11
+
+1  And it happened when Yeshua had finished commanding His twelve disciples, He departed from there to teach and preach in their cities.
+---
+2  Now when John heard in the prison the works of the Messiah, he sent by his disciples
+3  and said to Him, “Are you He that comes, or are we to look for another?”
+→ He that comes :: Psalm 118:26
+» He that comes :: *ha-ba* ("the coming one") — the participle of Psalm 118:26's "blessed is he who comes in the name of YHWH," here a title; the crowd shouts the same verse at 21:9 and Yeshua closes his public ministry with it at 23:39.
+4  And Yeshua answered and said to them, “Go and tell John the things which you all hear and see:
+5  the blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, and the dead are raised up, and the poor have good news preached to them.
+→ the blind receive their sight, and the lame walk :: Isaiah 35:5–6
+» the poor have good news preached to them :: Yeshua answers with a catalog drawn from Isaiah's own portrait of the messianic age (Isaiah 35:5–6, 61:1).
+6  And blessed is he, whoever shall find no occasion of stumbling in Me.”
+---
+7  And as these went their way, Yeshua began to say to the multitudes concerning John, “What went you all out into the wilderness to behold? a reed shaken with the wind?[br]
+8  But what went you all out to see? a man clothed in soft clothing? Behold, those who wear soft clothing are in kings’ houses.
+9  But why went you all out? to see a prophet? Yes, I say to you, and much more than a prophet.
+10  This is he, of whom it is written, ‘Behold, I send My messenger before your face, Who shall prepare your way before you.’
+→ Behold, I send My messenger before your face :: Malachi 3:1
+» before your face :: Matthew's wording splices two texts: "before your face" follows Exodus 23:20, while "who shall prepare your way" follows Malachi 3:1.
+11  Truly I say to you, Among those who are born of women there has not arisen a greater than John the Immerser: yet he that is least in the kingdom of heaven is greater than he.
+» he that is least in the kingdom of heaven is greater than he :: Not a slight against John but a statement about the kingdom's own order — standing after the cross and resurrection, on the near side of what John could only announce, exceeds even the greatest of the old order's prophets.
+12  And from the days of John the Immerser until now the kingdom of heaven suffers violence, and men of violence take it by force.
+13  For all the prophets and the Torah prophesied until John.
+14  And if you all are willing to receive it, this is Elijah, that is to come.
+→ this is Elijah, that is to come :: Malachi 4:5
+15  He that has ears to hear, let him hear.[br]
+16  But to what shall I liken this generation? It is like to children sitting in the marketplaces, who call to their fellows
+17  and say, ‘We piped to you, and you all did not dance; we wailed, and you all did not mourn.’
+18  For John came neither eating nor drinking, and they say, ‘He has a demon.’
+19  The Son of Man came eating and drinking, and they say, ‘Behold, a gluttonous man and a drunkard, a friend of tax collectors and sinners!’ And wisdom is vindicated by her works.”
+» And wisdom is vindicated by her works :: *Chokhmah* ("wisdom") personified, as in Proverbs 8 — but here wisdom is acknowledging Yeshua by His works as Messiah.
+---
+20  Then began He to upbraid the cities in which most of His mighty works were done, because they repented not.
+21  “Woe to you, Chorazin! woe to you, Bethsaida! for if the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago in sackcloth and ashes.
+» sackcloth and ashes :: The standard outward form of public repentance in the Hebrew scriptures (cf. Jonah 3:6, Daniel 9:3) — Yeshua measures Galilean unbelief against pagan Tyre and Sidon's hypothetical response, cities repeatedly denounced by the prophets (Isaiah 23, Ezekiel 26–28).
+22  But I say to you, it shall be more tolerable for Tyre and Sidon in the day of judgment, than for you.
+23  And you, Capernaum, shall you be exalted to heaven? you shall go down to Hades: for if the mighty works had been done in Sodom which were done in you, it would have remained until this day.
+→ shall you be exalted to heaven? you shall go down to Hades :: Isaiah 14:13–15
+24  But I say to you that it shall be more tolerable for the land of Sodom in the day of judgment, than for you.”
+---
+25  At that season Yeshua answered and said, “I thank you, O Father, Lord of heaven and earth, that you hid these things from the wise and understanding, and revealed them to babes:
+» I thank you, O Father, Lord of heaven and earth :: *exomologoumai* ("I acknowledge, give thanks") renders *odekha* ("I thank you"), the opening of thanksgiving psalms (Psalm 118:21, 28).
+26  yes, Father, for so it was well-pleasing in your sight.
+27  All things have been delivered to Me by My Father: and no one knows the Son, save the Father; neither does any know the Father, save the Son, and he to whomever the Son wills to reveal Him.
+28  Come to Me, all you that labor and are burdened, and I will give you rest.[br]
+» Come to Me, all you that labor and are burdened :: Yeshua offers His own yoke rather than Torah's, in the verse that follows.
+29  Take My yoke upon you, and learn from Me; for I am meek and lowly in heart: and you all shall find rest for your souls.[br]
+→ you all shall find rest for your souls :: Jeremiah 6:16
+» Take My yoke upon you :: *ol Torah*, "the yoke of Torah," was a standing rabbinic image for accepted obligation, not a burden resented but a discipline embraced; Yeshua offers his own yoke as the correct one to take up.
+30  For My yoke is easy, and My burden is light.”

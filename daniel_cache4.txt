@@ -1,0 +1,210 @@
+# daniel_cache4 — Daniel 4 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–3 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none needed. All references use English versification (the Hebrew Bible numbers 4:1–3 as 3:31–33; English is used throughout).
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+Nebuchadnezzar's proclamation names the Most High throughout; the referent is God, so pronouns are capitalized. The watcher's and heavenly voice's words concern the Most High as well.
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 4:3 | his signs…his wonders…his kingdom…his dominion | His signs…His wonders…His kingdom…His dominion | |
+| 4:17, 4:25, 4:32 | gives it to whomsoever he will | gives it to whomever He wills | wording also in B |
+| 4:34 | him that lives for ever; for his dominion…his kingdom | Him that lives for ever; for His dominion…His kingdom | |
+| 4:35 | he does according to his will…stay his hand…say to him, What doe you? | He does according to His will…restrain His hand…say to Him, “What do You do?” | addressed You (to God); fallout "doe" fixed (00103) |
+| 4:37 | his works…his ways…he is able to abase | His works…His ways…He is able to humble | |
+| 4:8, 4:9, 4:18 | the spirit of the holy gods…in you | (lowercase kept) | pagan plural; see D |
+| 4:15, 4:16, 4:23 | his portion…his heart | (lowercase kept) | the tree/king, not God |
+
+Precedent: R1.1; 00086.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 4:9–18, 4:19 (×2), 4:30, 4:31–32 | unquoted direct speech | curly quotes (R9): the king's telling of the dream 9–18 (outer “ ”), with the watcher's words 14–17 nested ‘ ’; the king 19a; Daniel 19b–27 (outer), watcher's words in v.23 nested ‘ ’; king 30; the voice 31–32; the question in 35 | — | **00087** |
+| 4:32 | they dwelling | your dwelling | *mekhorakh* | R2 fallout, cf. **00103** |
+| 4:35 | What doe you? | “What do You do?” | *mah 'avidt* | **00103** (doe→do); **00104.5** (inverted question not applicable — already direct order) |
+| 4:7, 4:10, 4:11, 4:12, 4:20, 4:21, 4:23 (×2) | the interpretation thereof / the height thereof / the sight thereof / the fruit thereof / the branches thereof / the stump of the roots thereof | its interpretation / its height / its sight / its fruit / its branches / the stump of its roots | — | **00189** |
+| 4:19 | them that hate you…the interpretation thereof | those who hate you…its interpretation | — | **00151**, **00189** |
+| 4:37 | those that walk in pride | those who walk in pride | — | **00151** |
+| 4:22 | that are grown and become strong; your greatness is grown | who have grown and become strong; your greatness has grown | — | **00190** |
+| 4:24 | which is come upon | which has come upon | — | **00190** |
+| 4:31 | The kingdom is departed | The kingdom has departed | — | **00190** |
+| 4:33 | his hair was grown | his hair had grown | — | **00190** |
+| 4:15, 4:23 | brass | bronze | *nechash* | **00118** |
+| 4:12, 4:21 | birds of the heavens | birds of the sky | *of shemayya* | **00178** |
+| 4:36 | counsellors | counselors | — | **00089** (spelling) |
+| 4:27 | tranquillity | tranquility | — | **00089** (spelling) |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 4:2 | 1b | has wrought toward me | has done for me | *'avad 'immi* | 00129 (wrought→worked) is a different sense; none |
+| 4:9 | **2** | no secret troubles you | no secret is too difficult for you | *kol raz la anes lakh* — *'anas* "to be hard, pressing" (verify in lexicon) | none |
+| 4:12 | 1b | had shadow under it | found shade under it | *tetallel* | none |
+| 4:14 | 1b | Hew down the tree | Chop down the tree | *gudduh* | none (recurs 4:23 "Hew") |
+| 4:14 | 1b | the fowls | the birds | *tsipporin* | none (cf. 00178) |
+| 4:17, 4:25, 4:32 | 1b | to whomsoever he will | to whomever He wills | *le-man di yivve'e* | none |
+| 4:17 | 1b | to the intent that | so that | *'ad divrat di* | none (as 2:30) |
+| 4:19 | 1b | was stricken dumb for a while | was stunned for a while | *eshtomam kishe'ah chada* ("astonished for a moment") — not mute; **00216** (dumb→mute) is *kophos*, different | none |
+| 4:19 | 1b | the dream be to them that hate you | may the dream be for those who hate you | elliptical wish | none |
+| 4:23, 4:26 | 1b | And whereas | And as | *di* | none (as 2:41, 2:43) |
+| 4:26 | 1b | after that you shall have known that the heavens do rule | after you have known that the heavens rule | *min di tindda'* | none |
+| 4:27 | 1b | if there may be a lengthening of your tranquillity | that there may be a lengthening of your tranquility | *hen* ("perhaps, if") — a hope, as Amos 5:15; Jonah 3:9 | none |
+| 4:35 | 1b | are reputed as nothing | are regarded as nothing | *chashivin* | none |
+| 4:35 | 1b | none can stay his hand | none can restrain His hand | *yemache bideh* (lit. "strike his hand") | none |
+| 4:36 | 1b | sought to me | sought me out | *bagun* | none |
+| 4:36 | 1b | excellent greatness | extraordinary greatness | *yattir* | none (as 2:31) |
+| 4:37 | 1b | abase | humble | *lehashpala* (root *sh-p-l*; same root as 5:22 "humbled") | none |
+| 4:8, 4:9, 4:18 | **2** | the holy gods | **no change proposed — flag.** *elahin qaddishin*: the plural may be a polytheist's "gods" or a plural of majesty ("Holy God"); the speaker's idiom is retained (as 3:25) | *elahin qaddishin* | none |
+| 4:13 | **2** | a watcher and a holy one | **no change proposed — note only.** *'ir ve-qaddish* reads "a watcher, even a holy one"; ASV's "and" is acceptable | *'ir* | none |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 4:1 | → | Peace be multiplied to you | Ezra 4:17; 5:7; Daniel 6:25 (Aramaic *shelamekhon yisgê*) | (2) thematic application |
+| 4:2 | → | signs and wonders | Exodus 7:3; Deuteronomy 6:22; Daniel 6:27 | (2) thematic application |
+| 4:3 | → | His kingdom is an everlasting kingdom, and His dominion is from generation to generation | Psalm 145:13; Daniel 6:26; 7:14 | (2) thematic application |
+| 4:4 | » | flourishing | *ra'anan* ("green, leafy") — the word used of trees (Psalm 92:14; Jeremiah 11:16); the king is already the tree of v.10. | n/a (form) |
+| 4:8 | » | the spirit of the holy gods | *ruach elahin qaddishin* — the plural *elahin* may be a polytheist's "gods" or a plural of majesty ("Holy God"); the speaker's usage is retained (cf. 3:25). | n/a (form) |
+| 4:10 | → | a tree in the midst of the earth | Ezekiel 31:3–9; 17:22–24; Judges 9:8–15 | (2) thematic application |
+| 4:11 | → | reached to heaven | Genesis 11:4 | (3) single-point borrowing |
+| 4:12 | → | the beasts of the field found shade under it | Ezekiel 31:6; 17:23 | (2) thematic application |
+| 4:13 | » | a watcher and a holy one | *'ir ve-qaddish* — "a watcher, even a holy one": *'ir* is from the root "to be awake" (cf. Song of Songs 5:2), a vigilant heavenly being; cf. *shomerim*, "watchmen" (Isaiah 62:6) and Psalm 121:4. | n/a (form) |
+| 4:15 | → | leave the stump of its roots in the earth | Isaiah 6:13; 11:1; Job 14:7–9 | (2) thematic application |
+| 4:16 | → | let a beast’s heart be given to him | Psalm 49:20; Psalm 73:22 | (2) thematic application |
+| 4:16 | » | seven times | *shiv'ah iddanin* — *iddan* is a fixed period, not defined by the word itself (cf. 2:8, 2:21; 7:25; 12:7). | n/a (form) |
+| 4:17 | → | the Most High rules in the kingdom of men | 1 Samuel 2:7–8; Psalm 113:7–8; Daniel 5:21 | (2) thematic application |
+| 4:19 | → | may the dream be for those who hate you | 1 Samuel 25:26; 2 Samuel 18:32 | (3) single-point borrowing |
+| 4:25 | → | you shall be made to eat grass as oxen | Psalm 106:20 | (3) single-point borrowing |
+| 4:26 | → | the heavens rule | Luke 15:18; Matthew 21:25 | (3) single-point borrowing |
+| 4:26 | » | the heavens | *shemayya* ("heaven") standing for God Himself, a reverent circumlocution; cf. Luke 15:18, 15:21; Matthew 21:25. | n/a (form) |
+| 4:27 | → | break off your sins by righteousness | Proverbs 16:6; 10:2; Psalm 112:9 | (2) thematic application |
+| 4:27 | » | righteousness | *tsidqah* — "righteousness," the word that came to mean charity (Psalm 112:9; Proverbs 10:2); the parallel clause reads *chinan aniyin* ("showing favor to the poor"). | n/a (form) |
+| 4:27 | → | that there may be a lengthening of your tranquility | Amos 5:15; Zephaniah 2:3; Jonah 3:9 | (2) thematic application |
+| 4:30 | → | this great Babylon | Genesis 11:4; Isaiah 13:19; Jeremiah 51:53 | (2) thematic application |
+| 4:30 | → | by the might of my power | Deuteronomy 8:17; Proverbs 16:18 | (3) single-point borrowing |
+| 4:31 | → | there fell a voice from heaven | Deuteronomy 4:36; Matthew 3:17; John 12:28 | (2) thematic application |
+| 4:31 | → | The kingdom has departed from you | 1 Samuel 15:28; 28:17 | (3) single-point borrowing |
+| 4:34 | → | Him that lives for ever | Deuteronomy 32:40; Daniel 6:26; 12:7 | (2) thematic application |
+| 4:34 | → | His dominion is an everlasting dominion | Daniel 7:14, 7:27; Psalm 10:16 | (2) thematic application |
+| 4:35 | → | regarded as nothing | Isaiah 40:15; 40:17 | (2) thematic application |
+| 4:35 | → | He does according to His will in the army of heaven | Psalm 115:3; 135:6; Isaiah 14:27 | (2) thematic application |
+| 4:35 | → | none can restrain His hand | Job 9:12 (the same question, "Who will say to Him, What are You doing?"); Isaiah 43:13; 45:9 | (1) direct verbatim (question) |
+| 4:35 | » | restrain His hand | *yemache bideh* (lit. "strike His hand") — to hold back by striking the hand. | n/a (form) |
+| 4:37 | » | King of heaven | *Melekh shemayya* — attested only here in the Tanakh; cf. "God of heaven" (2:18) and the kingship of YHWH (Psalm 47:7–8; 103:19). | n/a (form) |
+| 4:37 | → | all His works are truth, and His ways justice | Deuteronomy 32:4; Psalm 33:4; 145:17 | (2) thematic application |
+| 4:37 | → | those who walk in pride He is able to humble | Daniel 5:20–23; Proverbs 3:34; Isaiah 2:11 | (2) thematic application |
+| 4:37 | » | humble | *lehashpala* (root *sh-p-l*, "to bring low") — the root of Daniel's charge at 5:22, "you have not humbled your heart." | n/a (form) |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "Therefore made I a decree" (4:6), "did eat grass" (4:33), "let not the dream…trouble you" (4:19). Same as the Matthew caches.
+- **Policy — proclamation as document:** ch.4 is Nebuchadnezzar's written first-person proclamation (4:1–37, third person only at 28–33). Its spoken speeches are quoted at one layer inside it (the dream-telling 9–18, the watcher's words nested single-quoted, Daniel 19–27, the voice 31–32). The proclamation itself is not wrapped in quotes; wrapping 37 verses would force three nested layers. Your call; the same policy applies to Darius's decree at 6:25–27.
+- 4:6 "wise men", 4:7 diviner list: retained as in chs.1–3.
+- 4:17 "sentence" (*pitgama*) and "demand" (*she'elta*): intelligible; retained.
+- 4:16 "seven times": retained (period undefined; note in C).
+- 4:28 "All this came upon the king": retained.
+- 4:30 "dwelling-place": retained.
+- 4:34 "at the end of the days": the seven periods of v.16; retained.
+- R8 lineation: 4:3, 4:34–35 and 4:37 are doxological and may be poetic in the ASV; the printed cola are not preserved in the working file, so none are proposed. Not touched.
+
+## Pacing check (markup)
+
+New `---` before v.1, v.4 (the dream narrated), v.19 (Daniel's interpretation), v.28 (the fulfillment; narrator shifts to third person, twelve months on). **Proposed `===` before v.34** (the seven periods pass: a multi-year time-skip, §9.1). `[br]` on the diviners list (v.7) and at speech line-ends. No `[br]` before a break marker.
+
+## Flags outside chapter 4 (no action taken)
+
+- "Hew" none elsewhere in Daniel; "fowls" none; "whomsoever" recurs 5:21; "abase" none; "sought to" none.
+- "to the intent that" recurs 2:30 (cache2); "excellent" (*yattir*) 5:12, 5:14, 6:3; "brass" 5:4, 5:23, 7:19, 10:6.
+- The "holy gods" phrase recurs 5:11, 5:14.
+
+## E. Full proposed chapter text (Daniel 4)
+
+## Daniel 4
+
+---
+1  Nebuchadnezzar the king, to all the peoples, nations, and languages, that dwell in all the earth: Peace be multiplied to you.
+→ Peace be multiplied to you :: Ezra 4:17; Ezra 5:7; Daniel 6:25
+2  It has seemed good to me to show the signs and wonders that the Most High God has done for me.
+→ signs and wonders :: Exodus 7:3; Deuteronomy 6:22; Daniel 6:27
+3  How great are His signs! and how mighty are His wonders! His kingdom is an everlasting kingdom, and His dominion is from generation to generation.
+→ His kingdom is an everlasting kingdom, and His dominion is from generation to generation :: Psalm 145:13; Daniel 6:26; Daniel 7:14
+---
+4  I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace.
+» flourishing :: *ra'anan* ("green, leafy") — the word used of trees (Psalm 92:14; Jeremiah 11:16); the king is already the tree of v.10.
+5  I saw a dream which made me afraid; and the thoughts upon my bed and the visions of my head troubled me.
+6  Therefore made I a decree to bring in all the wise men of Babylon before me, that they might make known to me the interpretation of the dream.
+7  Then came in the magicians,[br] the enchanters,[br] the Chaldeans,[br] and the soothsayers; and I told the dream before them; but they did not make known to me its interpretation.
+8  But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my god, and in whom is the spirit of the holy gods: and I told the dream before him, saying,
+» the spirit of the holy gods :: *ruach elahin qaddishin* — the plural *elahin* may be a polytheist's "gods" or a plural of majesty ("Holy God"); the speaker's usage is retained (cf. 3:25).
+9  “O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in you, and no secret is too difficult for you, tell me the visions of my dream that I have seen, and its interpretation.[br]
+10  Thus were the visions of my head upon my bed: I saw, and, behold, a tree in the midst of the earth; and its height was great.[br]
+→ a tree in the midst of the earth :: Ezekiel 31:3–9; Ezekiel 17:22–24; Judges 9:8–15
+11  The tree grew, and was strong, and its height reached to heaven, and its sight to the end of all the earth.[br]
+→ reached to heaven :: Genesis 11:4
+12  Its leaves were fair, and its fruit abundant, and in it was food for all: the beasts of the field found shade under it, and the birds of the sky dwelt in its branches, and all flesh was fed from it.[br]
+→ the beasts of the field found shade under it :: Ezekiel 31:6; Ezekiel 17:23
+13  I saw in the visions of my head upon my bed, and, behold, a watcher and a holy one came down from heaven.[br]
+» a watcher and a holy one :: *'ir ve-qaddish* — "a watcher, even a holy one": *'ir* is from the root "to be awake" (cf. Song of Songs 5:2), a vigilant heavenly being; cf. *shomerim*, "watchmen" (Isaiah 62:6) and Psalm 121:4.
+14  He cried aloud, and said thus, ‘Chop down the tree, and cut off its branches, shake off its leaves, and scatter its fruit: let the beasts get away from under it, and the birds from its branches.[br]
+15  Nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field; and let it be wet with the dew of heaven: and let his portion be with the beasts in the grass of the earth:[br]
+→ leave the stump of its roots in the earth :: Isaiah 6:13; Isaiah 11:1; Job 14:7–9
+16  let his heart be changed from man’s, and let a beast’s heart be given to him; and let seven times pass over him.[br]
+→ let a beast’s heart be given to him :: Psalm 49:20; Psalm 73:22
+» seven times :: *shiv'ah iddanin* — *iddan* is a fixed period, not defined by the word itself (cf. 2:8, 2:21; 7:25; 12:7).
+17  The sentence is by the decree of the watchers, and the demand by the word of the holy ones; so that the living may know that the Most High rules in the kingdom of men, and gives it to whomever He wills, and sets up over it the lowest of men.’[br]
+→ the Most High rules in the kingdom of men :: 1 Samuel 2:7–8; Psalm 113:7–8; Daniel 5:21
+18  This dream I, king Nebuchadnezzar, have seen; and you, O Belteshazzar, declare the interpretation, since all the wise men of my kingdom are not able to make known to me the interpretation; but you are able; for the spirit of the holy gods is in you.”
+---
+19  Then Daniel, whose name was Belteshazzar, was stunned for a while, and his thoughts troubled him. The king answered and said, “Belteshazzar, let not the dream, or the interpretation, trouble you.” Belteshazzar answered and said, “My lord, may the dream be for those who hate you, and its interpretation for your adversaries.[br]
+→ may the dream be for those who hate you :: 1 Samuel 25:26; 2 Samuel 18:32
+20  The tree that you saw, which grew, and was strong, whose height reached to heaven, and its sight to all the earth;[br]
+21  whose leaves were fair, and its fruit abundant, and in it was food for all; under which the beasts of the field dwelt, and upon whose branches the birds of the sky had their dwelling:[br]
+22  it is you, O king, who have grown and become strong; for your greatness has grown, and reaches to heaven, and your dominion to the end of the earth.[br]
+23  And as the king saw a watcher and a holy one coming down from heaven, and saying, ‘Chop down the tree, and destroy it; nevertheless leave the stump of its roots in the earth, even with a band of iron and bronze, in the tender grass of the field, and let it be wet with the dew of heaven: and let his portion be with the beasts of the field, till seven times pass over him’;[br]
+24  this is the interpretation, O king, and it is the decree of the Most High, which has come upon my lord the king:[br]
+25  that you shall be driven from men, and your dwelling shall be with the beasts of the field, and you shall be made to eat grass as oxen, and shall be wet with the dew of heaven, and seven times shall pass over you; till you know that the Most High rules in the kingdom of men, and gives it to whomever He wills.[br]
+→ you shall be made to eat grass as oxen :: Psalm 106:20
+26  And as they commanded to leave the stump of the roots of the tree; your kingdom shall be sure to you, after you have known that the heavens rule.[br]
+→ the heavens rule :: Luke 15:18; Matthew 21:25
+» the heavens :: *shemayya* ("heaven") standing for God Himself, a reverent circumlocution; cf. Luke 15:18, 15:21; Matthew 21:25.
+27  Therefore, O king, let my counsel be acceptable to you, and break off your sins by righteousness, and your iniquities by showing mercy to the poor; that there may be a lengthening of your tranquility.”
+→ break off your sins by righteousness :: Proverbs 16:6; Proverbs 10:2; Psalm 112:9
+» righteousness :: *tsidqah* — "righteousness," the word that came to mean charity (Psalm 112:9; Proverbs 10:2); the parallel clause reads *chinan aniyin* ("showing favor to the poor").
+→ that there may be a lengthening of your tranquility :: Amos 5:15; Zephaniah 2:3; Jonah 3:9
+---
+28  All this came upon the king Nebuchadnezzar.
+29  At the end of twelve months he was walking in the royal palace of Babylon.
+30  The king spoke and said, “Is not this great Babylon, which I have built for the royal dwelling-place, by the might of my power and for the glory of my majesty?”[br]
+→ this great Babylon :: Genesis 11:4; Isaiah 13:19; Jeremiah 51:53
+→ by the might of my power :: Deuteronomy 8:17; Proverbs 16:18
+31  While the word was in the king’s mouth, there fell a voice from heaven, saying, “O king Nebuchadnezzar, to you it is spoken: The kingdom has departed from you:[br]
+→ there fell a voice from heaven :: Deuteronomy 4:36; Matthew 3:17; John 12:28
+→ The kingdom has departed from you :: 1 Samuel 15:28; 1 Samuel 28:17
+32  and you shall be driven from men; and your dwelling shall be with the beasts of the field; you shall be made to eat grass as oxen; and seven times shall pass over you; until you know that the Most High rules in the kingdom of men, and gives it to whomever He wills.”[br]
+33  The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hair had grown like eagles’ feathers, and his nails like birds’ claws.
+===
+34  And at the end of the days I, Nebuchadnezzar, lifted up my eyes to heaven, and my understanding returned to me, and I blessed the Most High, and I praised and honored Him that lives for ever; for His dominion is an everlasting dominion, and His kingdom from generation to generation;
+→ Him that lives for ever :: Deuteronomy 32:40; Daniel 6:26; Daniel 12:7
+→ His dominion is an everlasting dominion :: Daniel 7:14; Daniel 7:27; Psalm 10:16
+35  and all the inhabitants of the earth are regarded as nothing; and He does according to His will in the army of heaven, and among the inhabitants of the earth; and none can restrain His hand, or say to Him, “What do You do?”
+→ regarded as nothing :: Isaiah 40:15; Isaiah 40:17
+→ He does according to His will in the army of heaven :: Psalm 115:3; Psalm 135:6; Isaiah 14:27
+→ none can restrain His hand :: Job 9:12; Isaiah 43:13; Isaiah 45:9
+» restrain His hand :: *yemache bideh* (lit. "strike His hand") — to hold back by striking the hand.
+36  At the same time my understanding returned to me; and for the glory of my kingdom, my majesty and brightness returned to me; and my counselors and my lords sought me out; and I was established in my kingdom, and extraordinary greatness was added to me.
+37  Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all His works are truth, and His ways justice; and those who walk in pride He is able to humble.
+» King of heaven :: *Melekh shemayya* — attested only here in the Tanakh; cf. "God of heaven" (2:18) and the kingship of YHWH (Psalm 47:7–8; 103:19).
+→ all His works are truth, and His ways justice :: Deuteronomy 32:4; Psalm 33:4; Psalm 145:17
+→ those who walk in pride He is able to humble :: Daniel 5:20–23; Proverbs 3:34; Isaiah 2:11
+» humble :: *lehashpala* (root *sh-p-l*, "to bring low") — the root of Daniel's charge at 5:22, "you have not humbled your heart."

@@ -1,0 +1,234 @@
+# daniel_cache11 — Daniel 11 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–10 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none cited. The historical identification of the north and south kings is deliberately **not annotated** (it would require outside sources); the notes stay with words and scriptural parallels. All references use English versification. NT lines (Matthew 24:15; 2 Thessalonians 2:4) are parallel passages, offered as references only.
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+None. The angel's own pronouns (v.1) and all pronouns for the Persian, Greek, northern and southern kings are lowercase. "their God" (11:32) is the people's.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 11:1–45 | unquoted direct speech | curly quotes (R9): the angel's discourse, opened at 11:1 and closed at 11:45. The discourse began at 10:20 and continues at 12:1; per the 00087 chapter-break rule it is closed and reopened at each chapter break | — | **00087** |
+| 11:2 | when he is grew strong | when he has grown strong | — | R2 fallout, cf. **00103** (is grew great→is grown great) |
+| 11:6, 11:30, 11:32, 11:33, 11:35 | they that brought her…he that fathered her…he that strengthened her / them that forsake / the people that know / they that are wise / some of them that are wise | those who brought her…the one who fathered her…the one who strengthened her / those who forsake / the people who know / those who are wise / some of those who are wise | — | **00151** (extended to "he that"/"people that") |
+| 11:25 | an exceeding great and mighty army | an exceedingly great and mighty army | *gadol ve-atsum 'ad me'od* | **00145** |
+| 11:26 | his dainties | his delicacies | *patbago* | cf. cache1 (1:5, 1:8, 1:13, 1:15, 1:16) |
+| 11:8 | their goodly vessels | their finest vessels | *kli chemdatam* | **00100** (goodly: tuv / chemdot / shefer → best / finest / beautiful, by instance) |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 11:13, 11:24, 11:28 | 1b | substance / great substance | possessions / great possessions | *rekhush* (goods, property; Genesis 15:14) | none |
+| 11:17 | 1b | to corrupt her | to ruin her | *lehashchitah* ("to destroy, ruin") | none |
+| 11:20 | 1b | an exactor | a tax collector | *noges* (taskmaster, collector of tribute; Exodus 5:6; 2 Kings 23:35) | 00035 (publicans→tax collectors) is NT *telones*; none |
+| 11:20 | 1b | within few days | within a few days | idiom | none |
+| 11:23 | 1b | the league made with him; work deceitfully | the alliance made with him; act deceitfully | *hitchabbrut*; *ya'aseh mirmah* | none |
+| 11:24 | 1b | the fattest places of the province | the richest parts of the province | *mishmanne medinah* | none |
+| 11:27 | 1b | their hearts shall be to do mischief | their hearts shall be to do harm | *lilbam…lera'ah* | none |
+| 11:28, 11:30 | 1b | do his pleasure | do as he pleases | *ve-'asah* | none (as 8:12, 8:24) |
+| 11:32 | 1b | shall he pervert by flatteries | shall he corrupt by flatteries | *yachanif* ("defile, pollute"; Numbers 35:33; Jeremiah 3:1) | 00052 (is perverted→is warped) is Greek; none |
+| 11:32 | 1b | and do exploits | and take action | *ve-'asu* | none |
+| 11:36 | 1b | marvellous things | astonishing things | *niflaot* (as 8:24 "destroy astonishingly") | **00089** if only the spelling is wanted ("marvelous") |
+| 11:22 | **2** | the prince of the covenant | **no change proposed — flag.** *nagid berit*; lowercase "prince" retained; the phrase echoes *mashiach nagid* of 9:25 (nagid). Whether it names an individual is not decided here | *nagid berit* | none |
+| 11:14 | **2** | to establish the vision | **no change proposed — flag.** *le-ha'amid chazon*; an obscure phrase; retained | *chazon* | none |
+| 11:16 | **2** | in his hand shall be destruction | **no change proposed — flag.** *ve-chalah be-yado*; "and destruction/completion shall be in his hand" is uncertain; retained | *kalah* | none |
+| 11:8 | **2** | he shall refrain some years from the king of the north | **no change proposed — flag.** *ya'amod shanim*: "stand off/hold back some years" or "outlast the other some years"; retained | *'amad min* | none |
+| 11:37 | **2** | nor the desire of women | **no change proposed — flag.** *chemdat nashim*: either desire for women or a figure/deity "desired by women" (Ezekiel 8:14 is one proposed identification); retained | *chemdat nashim* | none |
+| 11:38 | **2** | the god of fortresses | **no change proposed — flag.** *Eloah ma'uzzim*; obscure; retained | *Eloah ma'uzzim* | none |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 11:2 | → | three kings in Persia | Ezra 4:5–7 | (2) thematic application |
+| 11:3 | → | a mighty king shall stand up | Daniel 8:5–8, 8:21 | (2) thematic application |
+| 11:4 | → | divided toward the four winds of heaven | Daniel 8:8; 7:2; Jeremiah 49:36; Zechariah 2:6 | (2) thematic application |
+| 11:7 | → | a shoot from her roots | Isaiah 11:1; 60:21 | (3) single-point borrowing |
+| 11:7 | » | a shoot from her roots | *netser mi-shorashehah* — the wording of Isaiah 11:1 (*netser mi-shorashav*), here of a royal branch. | n/a (form) |
+| 11:8 | → | carry captive into Egypt | Isaiah 46:1–2; Jeremiah 48:7; 49:3 | (2) thematic application |
+| 11:10 | → | overflow, and pass through | Isaiah 8:8; Jeremiah 47:2; Daniel 11:26, 11:40 | (2) thematic application |
+| 11:12 | → | his heart shall be exalted | Deuteronomy 8:14; 2 Chronicles 26:16 | (2) thematic application |
+| 11:13 | → | with many possessions | Genesis 15:14 (*rekhush gadol*); Genesis 14:11 | (3) single-point borrowing |
+| 11:14 | → | the children of the violent among your people | Jeremiah 7:11; Ezekiel 18:10 | (3) single-point borrowing |
+| 11:15 | → | cast up a mound | 2 Kings 19:32; Jeremiah 6:6; Ezekiel 4:2 | (2) thematic application |
+| 11:16 | → | the glorious land | Daniel 8:9; Ezekiel 20:6 | (2) thematic application |
+| 11:18 | → | the isles | Genesis 10:5; Isaiah 41:1; Jeremiah 31:10 | (2) thematic application |
+| 11:18 | » | the isles | *iyyim* — "isles, coastlands," the Mediterranean shores (Genesis 10:5; Isaiah 11:11; 66:19). | n/a (form) |
+| 11:19 | → | shall not be found | Psalm 37:36; Ezekiel 26:21 | (2) thematic application |
+| 11:20 | → | cause a tax collector to pass through the glory of the kingdom | Exodus 5:6; 2 Kings 23:35; Zechariah 9:8 | (2) thematic application |
+| 11:20 | » | a tax collector | *noges* — "taskmaster, exactor" (Exodus 5:6, 5:13; Zechariah 9:8). | n/a (form) |
+| 11:21 | → | by flatteries | Psalm 12:2–3; Proverbs 29:5 | (2) thematic application |
+| 11:22 | → | the overwhelming forces shall be overwhelmed | Isaiah 8:7–8; Nahum 1:8; Daniel 9:26 | (2) thematic application |
+| 11:22 | → | the prince of the covenant | Daniel 9:25–27; Malachi 3:1; Isaiah 55:3–4 | (2) thematic application |
+| 11:23 | → | he shall act deceitfully | Psalm 55:20–21 | (3) single-point borrowing |
+| 11:26 | → | those who eat of his delicacies shall destroy him | Psalm 41:9; Obadiah 1:7; Daniel 1:5 | (2) thematic application |
+| 11:27 | → | they shall speak lies at one table | Psalm 28:3; Jeremiah 9:8 | (2) thematic application |
+| 11:27 | → | the end shall be at the time appointed | Habakkuk 2:3; Daniel 8:19 | (2) thematic application |
+| 11:28 | → | the holy covenant | Exodus 24:7–8; Leviticus 26:25; Daniel 9:27 | (2) thematic application |
+| 11:30 | → | ships of Kittim | Numbers 24:24; Genesis 10:4; Isaiah 23:1 | (1) direct verbatim (Numbers 24:24) |
+| 11:30 | » | Kittim | *Kittim* — a son of Javan (Genesis 10:4); in prophecy the western sea-peoples, in the same words as Numbers 24:24 (*tsim mi-yad Kittim*, "ships from the hand of Kittim"). | n/a (form) |
+| 11:31 | → | they shall profane the sanctuary | Ezekiel 24:21; Psalm 74:7 | (2) thematic application |
+| 11:31 | → | shall take away the continual burnt-offering | Daniel 8:11; 9:27; 12:11 | (4) summary of many |
+| 11:31 | → | the abomination that makes desolate | Daniel 8:13; 9:27; 12:11; Matthew 24:15 (NT citation) | (4) summary of many |
+| 11:32 | → | the people who know their God | Jeremiah 9:24; Hosea 6:3; Psalm 9:10 | (2) thematic application |
+| 11:33 | → | those who are wise among the people shall instruct many | Isaiah 52:13; 53:11; Daniel 12:3 | (2) thematic application |
+| 11:33 | » | those who are wise | *maskilim* (from *sakhal*, "to act with insight") — in 11:33, 11:35; 12:3, 12:10; cf. Isaiah 52:13 (*yaskil*, "shall deal wisely"). | n/a (form) |
+| 11:35 | → | to refine them, and to purify, and to make them white | Malachi 3:2–3; Zechariah 13:9; Daniel 12:10; Isaiah 1:18 | (2) thematic application |
+| 11:36 | → | he shall exalt himself, and magnify himself above every god | Isaiah 14:13–14; Ezekiel 28:2; 2 Thessalonians 2:4 (NT) | (2) thematic application |
+| 11:36 | → | against the God of gods | Deuteronomy 10:17; Daniel 2:47 | (2) thematic application |
+| 11:36 | » | the God of gods | *El elim* — "God of gods," the superlative of supremacy (Deuteronomy 10:17: *Elohei ha-elohim*; Daniel 2:47 in Aramaic). | n/a (form) |
+| 11:36 | → | till the indignation be accomplished | Isaiah 10:25; 26:20; Daniel 8:19 | (2) thematic application |
+| 11:36 | → | for that which is determined shall be done | Isaiah 10:23; 28:22; Daniel 9:26 | (2) thematic application |
+| 11:37 | → | the desire of women | Ezekiel 8:14 (one proposed identification) | (3) single-point borrowing |
+| 11:38 | → | a god whom his fathers knew not | Deuteronomy 32:17; Jeremiah 44:3 | (2) thematic application |
+| 11:38 | » | pleasant things | *chamudot* — "desirable things," the root of 9:23, 10:3, 10:11. | n/a (form) |
+| 11:40 | → | like a whirlwind, with chariots | Isaiah 5:28; Jeremiah 4:13 | (2) thematic application |
+| 11:41 | → | but these shall be delivered out of his hand | Isaiah 11:14; Jeremiah 9:25–26 | (2) thematic application |
+| 11:43 | → | the Libyans and the Ethiopians | Nahum 3:9; Ezekiel 30:4–5; 2 Chronicles 16:8 | (2) thematic application |
+| 11:43 | » | the Ethiopians | *Kushim* ("Cushites") — Cush, the land south of Egypt (Genesis 10:6; Isaiah 18:1); *Lubim* ("Libyans"): Nahum 3:9. | n/a (form) |
+| 11:44 | → | tidings out of the east and out of the north shall trouble him | 2 Kings 19:7; Jeremiah 51:46; Ezekiel 7:26 | (2) thematic application |
+| 11:44 | » | utterly to sweep away | *lehacharim* — "to put under the ban," from *cherem* (Deuteronomy 7:2; Joshua 6:17). | n/a (form) |
+| 11:45 | → | the glorious holy mountain | Daniel 9:16, 9:20; Psalm 48:1–2; Joel 2:1 | (2) thematic application |
+| 11:45 | » | the tents of his palace | *oholei apadno* — *apadno* ("his palace") is a Persian loanword, found only here in the Tanakh. | n/a (form) |
+| 11:45 | → | he shall come to his end, and none shall help him | Ezekiel 39:4; Isaiah 14:25; Zechariah 14:2–3 | (2) thematic application |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "And now will I show you" (11:2), "neither shall he stand" (11:6), "neither…neither" (11:15, 11:17), "Neither shall he regard" (11:37), "shall he carry captive" (11:8). Same as the Matthew caches.
+- 11:2 "the realm of Greece": *Yavan*; the note at 8:21 covers it.
+- 11:6 "make an agreement" (*la'asot mesharim*): retained; 11:17 "equitable conditions" (*yesharim*): retained.
+- 11:8 "molten images" (*nesikhem*): retained.
+- 11:15 "well-fortified city" (*'ir mivtsarot*): retained.
+- 11:17 "the daughter of women" (*bat ha-nashim*): idiom; retained.
+- 11:18 "isles": retained (living word).
+- 11:21 "contemptible person" (*nivzeh*): retained.
+- 11:25 "devise devices": retained.
+- 11:31 "forces shall stand on his part" (*zero'im mimmenu ya'amodu*): retained.
+- 11:39 "strongest fortresses": retained.
+- 11:42 "escape": retained.
+- 11:36 "the indignation": the word of 8:19; retained.
+- R8 lineation: none; the chapter is prose.
+- R9: one layer throughout; no nested quotation. The discourse spans three chapters; closed and reopened at the break (00087).
+
+## Pacing check (markup)
+
+New `---` before v.1. `>>>` paragraph breaks before v.5 (south and north kings), v.21 (the contemptible person) and v.36 (the willful king). `[br]` at verse-ends throughout the discourse and on the lists at vv.40–41. No `[br]` before a break marker.
+
+## Flags outside chapter 11 (no action taken)
+
+- "did his pleasure" 8:12, 8:24; "exceeding" 8:9; "dainties" 1:5–16 (cache1); "marvellous" none elsewhere; "substance" none elsewhere.
+- The discourse continues at 12:1–4 (cache12); the 10:21 close is in cache10.
+
+## E. Full proposed chapter text (Daniel 11)
+
+## Daniel 11
+
+---
+1  “And as for me, in the first year of Darius the Mede, I stood up to confirm and strengthen him.[br]
+2  And now will I show you the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and when he has grown strong through his riches, he shall stir up all against the realm of Greece.[br]
+→ three kings in Persia :: Ezra 4:5–7
+3  And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.[br]
+→ a mighty king shall stand up :: Daniel 8:5–8; Daniel 8:21
+4  And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven, but not to his posterity, nor according to his dominion with which he ruled; for his kingdom shall be plucked up, even for others besides these.
+→ divided toward the four winds of heaven :: Daniel 8:8; Daniel 7:2; Jeremiah 49:36; Zechariah 2:6
+>>>
+5  And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion.[br]
+6  And at the end of years they shall join themselves together; and the daughter of the king of the south shall come to the king of the north to make an agreement: but she shall not retain the strength of her arm; neither shall he stand, nor his arm; but she shall be given up, and those who brought her, and the one who fathered her, and the one who strengthened her in those times.[br]
+7  But out of a shoot from her roots shall one stand up in his place, who shall come to the army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail.[br]
+→ a shoot from her roots :: Isaiah 11:1; Isaiah 60:21
+» a shoot from her roots :: *netser mi-shorashehah* — the wording of Isaiah 11:1 (*netser mi-shorashav*), here of a royal branch.
+8  And also their gods, with their molten images, and with their finest vessels of silver and of gold, shall he carry captive into Egypt; and he shall refrain some years from the king of the north.[br]
+→ carry captive into Egypt :: Isaiah 46:1–2; Jeremiah 48:7; Jeremiah 49:3
+9  And he shall come into the realm of the king of the south, but he shall return into his own land.[br]
+10  And his sons shall war, and shall assemble a multitude of great forces, which shall come on, and overflow, and pass through; and they shall return and war, even to his fortress.[br]
+→ overflow, and pass through :: Isaiah 8:8; Jeremiah 47:2; Daniel 11:26; Daniel 11:40
+11  And the king of the south shall be moved with anger, and shall come forth and fight with him, even with the king of the north; and he shall set forth a great multitude, and the multitude shall be given into his hand.[br]
+12  And the multitude shall be lifted up, and his heart shall be exalted; and he shall cast down tens of thousands, but he shall not prevail.[br]
+→ his heart shall be exalted :: Deuteronomy 8:14; 2 Chronicles 26:16
+13  And the king of the north shall return, and shall set forth a multitude greater than the former; and he shall come on at the end of the times, even of years, with a great army and with many possessions.[br]
+→ with many possessions :: Genesis 15:14; Genesis 14:11
+14  And in those times there shall many stand up against the king of the south: also the children of the violent among your people shall lift themselves up to establish the vision; but they shall fall.[br]
+→ the children of the violent among your people :: Jeremiah 7:11; Ezekiel 18:10
+15  So the king of the north shall come, and cast up a mound, and take a well-fortified city: and the forces of the south shall not stand, neither his chosen people, neither shall there be any strength to stand.[br]
+→ cast up a mound :: 2 Kings 19:32; Jeremiah 6:6; Ezekiel 4:2
+16  But he that comes against him shall do according to his own will, and none shall stand before him; and he shall stand in the glorious land, and in his hand shall be destruction.[br]
+→ the glorious land :: Daniel 8:9; Ezekiel 20:6
+17  And he shall set his face to come with the strength of his whole kingdom, and with him equitable conditions; and he shall perform them: and he shall give him the daughter of women, to ruin her; but she shall not stand, neither be for him.[br]
+18  After this shall he turn his face to the isles, and shall take many: but a prince shall cause the reproach offered by him to cease; indeed, moreover, he shall cause his reproach to turn upon him.[br]
+→ the isles :: Genesis 10:5; Isaiah 41:1; Jeremiah 31:10
+» the isles :: *iyyim* — "isles, coastlands," the Mediterranean shores (Genesis 10:5; Isaiah 11:11; 66:19).
+19  Then he shall turn his face toward the fortresses of his own land; but he shall stumble and fall, and shall not be found.[br]
+→ shall not be found :: Psalm 37:36; Ezekiel 26:21
+20  Then shall stand up in his place one that shall cause a tax collector to pass through the glory of the kingdom; but within a few days he shall be destroyed, neither in anger, nor in battle.
+→ cause a tax collector to pass through the glory of the kingdom :: Exodus 5:6; 2 Kings 23:35; Zechariah 9:8
+» a tax collector :: *noges* — "taskmaster, exactor" (Exodus 5:6, 5:13; Zechariah 9:8).
+>>>
+21  And in his place shall stand up a contemptible person, to whom they had not given the honor of the kingdom: but he shall come in time of security, and shall obtain the kingdom by flatteries.[br]
+→ by flatteries :: Psalm 12:2–3; Proverbs 29:5
+22  And the overwhelming forces shall be overwhelmed from before him, and shall be broken; indeed, also the prince of the covenant.[br]
+→ the overwhelming forces shall be overwhelmed :: Isaiah 8:7–8; Nahum 1:8; Daniel 9:26
+→ the prince of the covenant :: Daniel 9:25–27; Malachi 3:1; Isaiah 55:3–4
+23  And after the alliance made with him he shall act deceitfully; for he shall come up, and shall become strong, with a small people.[br]
+→ he shall act deceitfully :: Psalm 55:20–21
+24  In time of security shall he come even upon the richest parts of the province; and he shall do that which his fathers have not done, nor his fathers’ fathers; he shall scatter among them prey, and spoil, and possessions: indeed, he shall devise his devices against the strongholds, even for a time.[br]
+25  And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall war in battle with an exceedingly great and mighty army; but he shall not stand; for they shall devise devices against him.[br]
+26  Indeed, those who eat of his delicacies shall destroy him, and his army shall overflow; and many shall fall down slain.[br]
+→ those who eat of his delicacies shall destroy him :: Psalm 41:9; Obadiah 1:7; Daniel 1:5
+27  And as for both these kings, their hearts shall be to do harm, and they shall speak lies at one table: but it shall not prosper; for yet the end shall be at the time appointed.[br]
+→ they shall speak lies at one table :: Psalm 28:3; Jeremiah 9:8
+→ the end shall be at the time appointed :: Habakkuk 2:3; Daniel 8:19
+28  Then shall he return into his land with great possessions; and his heart shall be against the holy covenant; and he shall do as he pleases, and return to his own land.[br]
+→ the holy covenant :: Exodus 24:7–8; Leviticus 26:25; Daniel 9:27
+29  At the time appointed he shall return, and come into the south; but it shall not be in the latter time as it was in the former.[br]
+30  For ships of Kittim shall come against him; therefore he shall be grieved, and shall return, and have indignation against the holy covenant, and shall do as he pleases: he shall even return, and have regard to those who forsake the holy covenant.[br]
+→ ships of Kittim :: Numbers 24:24; Genesis 10:4; Isaiah 23:1
+» Kittim :: *Kittim* — a son of Javan (Genesis 10:4); in prophecy the western sea-peoples, in the same words as Numbers 24:24 (*tsim mi-yad Kittim*, "ships from the hand of Kittim").
+31  And forces shall stand on his part, and they shall profane the sanctuary, even the fortress, and shall take away the continual burnt-offering, and they shall set up the abomination that makes desolate.[br]
+→ they shall profane the sanctuary :: Ezekiel 24:21; Psalm 74:7
+→ shall take away the continual burnt-offering :: Daniel 8:11; Daniel 9:27; Daniel 12:11
+→ the abomination that makes desolate :: Daniel 8:13; Daniel 9:27; Daniel 12:11; Matthew 24:15
+32  And such as do wickedly against the covenant shall he corrupt by flatteries; but the people who know their God shall be strong, and take action.[br]
+→ the people who know their God :: Jeremiah 9:24; Hosea 6:3; Psalm 9:10
+33  And those who are wise among the people shall instruct many; yet they shall fall by the sword and by flame, by captivity and by spoil, many days.[br]
+→ those who are wise among the people shall instruct many :: Isaiah 52:13; Isaiah 53:11; Daniel 12:3
+» those who are wise :: *maskilim* (from *sakhal*, "to act with insight") — in 11:33, 11:35; 12:3, 12:10; cf. Isaiah 52:13 (*yaskil*, "shall deal wisely").
+34  Now when they shall fall, they shall be helped with a little help; but many shall join themselves to them with flatteries.[br]
+35  And some of those who are wise shall fall, to refine them, and to purify, and to make them white, even to the time of the end; because it is yet for the time appointed.
+→ to refine them, and to purify, and to make them white :: Malachi 3:2–3; Zechariah 13:9; Daniel 12:10; Isaiah 1:18
+>>>
+36  And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak astonishing things against the God of gods; and he shall prosper till the indignation be accomplished; for that which is determined shall be done.[br]
+→ he shall exalt himself, and magnify himself above every god :: Isaiah 14:13–14; Ezekiel 28:2; 2 Thessalonians 2:4
+→ against the God of gods :: Deuteronomy 10:17; Daniel 2:47
+» the God of gods :: *El elim* — "God of gods," the superlative of supremacy (Deuteronomy 10:17: *Elohei ha-elohim*; Daniel 2:47 in Aramaic).
+→ till the indignation be accomplished :: Isaiah 10:25; Isaiah 26:20; Daniel 8:19
+→ for that which is determined shall be done :: Isaiah 10:23; Isaiah 28:22; Daniel 9:26
+37  Neither shall he regard the gods of his fathers, nor the desire of women, nor regard any god; for he shall magnify himself above all.[br]
+→ the desire of women :: Ezekiel 8:14
+38  But in his place shall he honor the god of fortresses; and a god whom his fathers knew not shall he honor with gold, and silver, and with precious stones, and pleasant things.[br]
+→ a god whom his fathers knew not :: Deuteronomy 32:17; Jeremiah 44:3
+» pleasant things :: *chamudot* — "desirable things," the root of 9:23, 10:3, 10:11.
+39  And he shall deal with the strongest fortresses by the help of a foreign god: whoever acknowledges him he will increase with glory; and he shall cause them to rule over many, and shall divide the land for a price.[br]
+40  And at the time of the end shall the king of the south contend with him; and the king of the north shall come against him like a whirlwind, with chariots,[br] and with horsemen,[br] and with many ships; and he shall enter into the countries, and shall overflow and pass through.[br]
+→ like a whirlwind, with chariots :: Isaiah 5:28; Jeremiah 4:13
+41  He shall enter also into the glorious land, and many countries shall be overthrown; but these shall be delivered out of his hand: Edom,[br] and Moab,[br] and the chief of the children of Ammon.[br]
+→ but these shall be delivered out of his hand :: Isaiah 11:14; Jeremiah 9:25–26
+42  He shall stretch forth his hand also upon the countries; and the land of Egypt shall not escape.[br]
+43  But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt; and the Libyans and the Ethiopians shall be at his steps.[br]
+→ the Libyans and the Ethiopians :: Nahum 3:9; Ezekiel 30:4–5; 2 Chronicles 16:8
+» the Ethiopians :: *Kushim* ("Cushites") — Cush, the land south of Egypt (Genesis 10:6; Isaiah 18:1); *Lubim* ("Libyans"): Nahum 3:9.
+44  But tidings out of the east and out of the north shall trouble him; and he shall go forth with great fury to destroy and utterly to sweep away many.[br]
+→ tidings out of the east and out of the north shall trouble him :: 2 Kings 19:7; Jeremiah 51:46; Ezekiel 7:26
+» utterly to sweep away :: *lehacharim* — "to put under the ban," from *cherem* (Deuteronomy 7:2; Joshua 6:17).
+45  And he shall plant the tents of his palace between the sea and the glorious holy mountain; yet he shall come to his end, and none shall help him.”
+→ the glorious holy mountain :: Daniel 9:16; Daniel 9:20; Psalm 48:1–2; Joel 2:1
+» the tents of his palace :: *oholei apadno* — *apadno* ("his palace") is a Persian loanword, found only here in the Tanakh.
+→ he shall come to his end, and none shall help him :: Ezekiel 39:4; Isaiah 14:25; Zechariah 14:2–3

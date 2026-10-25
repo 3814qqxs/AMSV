@@ -1,0 +1,186 @@
+# daniel_cache7 — Daniel 7 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–6 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none needed. All references use English versification. The NT lines at 7:13 are NT citations *of* this verse, offered as references only; they are not R10 OT-source ties (delete if you prefer to keep this book's lines OT-only).
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 7:9 | his clothing…the hair of his head…his throne…the wheels thereof | His clothing…the hair of His head…His throne…its wheels | the Ancient of Days |
+| 7:10 | from before him…ministered to him…stood before him | from before Him…ministered to Him…stood before Him | |
+| 7:13 | and they brought him near before him | and they brought him near before Him | second "him" = the Ancient of Days; first "him" is the son-of-man figure (see B) |
+| 7:13, 7:14 | he came…given him…serve him…his dominion…his kingdom | (lowercase kept) | **held for your decision** — see B |
+| 7:25 | speak words against the Most High…his hand | (lowercase kept) | the little horn |
+| 7:27 | his kingdom…serve and obey him | (lowercase kept) | **held for your decision** — antecedent is the Most High or the people; see B |
+
+Precedent: R1.1; 00086; 00069 (context-dependent capitalization).
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 7:2–28 | unquoted direct speech | curly quotes (R9): Daniel's whole account, vv.2–28, one outer “ ”; the speech to the bear (v.5) and the interpreter's words (vv.23–27) nested ‘ ’ | — | **00087** |
+| 7:4, 7:9 | the wings thereof / the wheels thereof | its wings / its wheels | — | **00189** |
+| 7:5, 7:13 | like to a bear / one like to a son of man | like a bear / one like a son of man | — | **00171** (like to→like) |
+| 7:16 | one of them that stood by | one of those who stood by | — | **00151** |
+| 7:19 | exceeding terrible | exceedingly terrifying | *yattirah dechilah* | **00145** |
+| 7:23 | upon earth | on earth | — | idiom modernization, none |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 7:3, 7:7, 7:19, 7:23, 7:24 (×2) | 1b | diverse | different | *shenayin / shenah* ("different") | none (00011 "divers" is a different word) |
+| 7:4, 7:9, 7:11 (×2) | 1b | I beheld till | I watched until | *chaveh havêt ad di* (continuous: "I was watching until") | none (as 2:34) |
+| 7:7 | 1b | terrible and powerful, and strong exceedingly | terrifying and powerful, and exceedingly strong | *dechilah we-ḥamtani we-taqqifah yattir* | none (00145 for "exceeding") |
+| 7:7, 7:19 | 1b | stamped the residue with its feet | trampled the remainder with its feet | *rafesah* ("trampled"); *sha'arah* | none |
+| 7:9 | **2** | one that was ancient of days did sit | One who was Ancient of Days took His seat | *'attiq yomin yetiv* — title capitalized as a divine title (§7.1; "Spirit" precedent). Also 7:13, 7:22 | none (new) |
+| 7:10, 7:26 | **2** | the judgment was set / shall be set | the court sat in judgment / shall sit in judgment | *dina yetiv* ("the court sat"); *dina* = the court as well as the sentence | none |
+| 7:13 | **2** | one like to a son of man…he came…they brought him near | **held — pronouns lowercase for the son-of-man figure.** If you want R1.1's Christ-referent reading applied: "He came…brought Him near…given Him dominion…His dominion…His kingdom" (7:13–14). Precedent 00069: capitalization is context-dependent, not blanket | *kevar enash* | **00069** |
+| 7:18, 7:21, 7:22 (×2), 7:25, 7:27 | **2** | the saints of the Most High | the holy ones of the Most High | *qaddishei 'elyonin* ("holy ones of the Most High"; plural of *'Elyon*); "saints" is ecclesial and "holy ones" leaves open whether the referent is the people (7:27 *'am qaddishei*) or heavenly beings (8:13). Also 8:24 "the holy people" | none |
+| 7:20 | 1b | whose look was more stout than its fellows | whose appearance was more imposing than its companions | *rav min chavratah* | none |
+| 7:19 | 1b | its nails of brass | its claws of bronze | *tifrin / nechash* (the same word as 4:33 "nails like birds' claws"; beast → "claws") | **00118** (brass→bronze) |
+| 7:21 | 1b | made war with the saints | made war against the holy ones | *'avedah qerav 'im* ("was making war with, against") | none |
+| 7:22 | **2** | judgment was given to the saints | judgment was given in favor of the holy ones | *din yehiv le-qaddishei* (for the benefit of) | none |
+| 7:25 | 1b | shall think to change | shall intend to change | *yis'av* ("hope, plan") | none (as 6:3) |
+| 7:25 | **2** | the times and the law | **no change proposed — flag.** *zimnin ve-dat*: "appointed times" and "decree/law"; whether *dat* here means the Torah is the same question as at 6:5 (proposed there as "Torah of his God"). Retained "the law" pending your 6:5 decision | *zimnin ve-dat* | **00065** |
+| 7:28 | 1b | my thoughts much troubled me | my thoughts greatly troubled me | *saggi* ("greatly") | none (cf. 00145) |
+| 7:27 | **2** | his kingdom…serve and obey him | **held — pronouns lowercase.** The Aramaic is singular; the antecedent may be the Most High (as the nearest divine referent) or the people. If the Most High: "His kingdom…serve and obey Him" | *malkuteh…yifelchun veyishtame'un lah* | **00086**, 00073 (generic relative referring to God: capitalize when antecedent unambiguous — here ambiguous) |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 7:2 | → | the four winds of heaven | Jeremiah 49:36; Zechariah 6:5; Ezekiel 37:9 | (2) thematic application |
+| 7:2 | → | the great sea | Isaiah 17:12; 57:20; Psalm 65:7 | (2) thematic application |
+| 7:3 | → | four great beasts | Hosea 13:7–8; Jeremiah 5:6 | (2) thematic application |
+| 7:4 | → | like a lion, and had eagle’s wings | Jeremiah 4:7; Ezekiel 17:3; Daniel 4:16 | (2) thematic application |
+| 7:7 | → | great iron teeth | Daniel 2:40 | (2) thematic application |
+| 7:8 | → | a mouth speaking great things | Psalm 12:3; Daniel 7:20, 7:25; 11:36 | (2) thematic application |
+| 7:9 | → | thrones were placed | Psalm 122:5; 1 Kings 22:19 | (2) thematic application |
+| 7:9 | → | His throne was fiery flames, and its wheels burning fire | Ezekiel 1:15–28; 10:2; Psalm 97:2–3 | (2) thematic application |
+| 7:9 | → | the hair of His head like pure wool | Isaiah 1:18 | (3) single-point borrowing |
+| 7:9 | » | Ancient of Days | *'attiq yomin* ("advanced in days") — the aged judge enthroned; cf. Psalm 90:2 ("from everlasting to everlasting, You are God"); Job 36:26. | n/a (form) |
+| 7:10 | → | A fiery stream issued and came forth from before Him | Psalm 50:3; 97:3 | (2) thematic application |
+| 7:10 | → | thousands of thousands ministered to Him | Deuteronomy 33:2; Psalm 68:17; 1 Kings 22:19 | (2) thematic application |
+| 7:10 | → | the books were opened | Exodus 32:32–33; Psalm 69:28; Malachi 3:16; Daniel 12:1 | (4) summary of many |
+| 7:11 | → | given to be burned with fire | Isaiah 30:33; 66:24 | (2) thematic application |
+| 7:13 | → | one like a son of man | Psalm 8:4; Psalm 80:17; Ezekiel 2:1 | (2) thematic application |
+| 7:13 | → | there came with the clouds of heaven | Psalm 104:3; 68:4; Isaiah 19:1; Exodus 34:5 | (2) thematic application |
+| 7:13 | → | there came with the clouds of heaven | Matthew 24:30; 26:64; Mark 14:62; Revelation 1:7; 14:14 (NT citations) | n/a (NT citation of this verse) |
+| 7:13 | » | one like a son of man | *kevar enash* ("like a son of man") — a figure in human form, set against the four beasts; *bar enash* is the Aramaic of Hebrew *ben adam* (Ezekiel 2:1; Psalm 8:4). | n/a (form) |
+| 7:14 | → | all the peoples, nations, and languages should serve him | Genesis 49:10; Psalm 2:8; 72:11 | (2) thematic application |
+| 7:14 | » | should serve him | *yiflechun* ("serve, worship") — the verb of cultic service in 3:12, 3:17–18, 3:28 and 6:16, 6:20; cf. 7:27. | n/a (form) |
+| 7:14 | → | his dominion is an everlasting dominion | Daniel 2:44; 4:3; 6:26; Psalm 145:13 | (4) summary of many |
+| 7:15 | » | in the midst of my body | *b'gav nidneh* — lit. "in the midst of its sheath"; the body as the sheath of the spirit (the same word, Hebrew *nadan*, at 1 Chronicles 21:27). | n/a (form) |
+| 7:16 | → | one of those who stood by | Zechariah 1:9; 4:1–5; Daniel 8:15–16 | (2) thematic application |
+| 7:17 | → | four kings | Daniel 2:37–40 | (2) thematic application |
+| 7:18 | → | the holy ones of the Most High | Exodus 19:6; Deuteronomy 7:6; Isaiah 62:12; Psalm 149:5–9 | (4) summary of many |
+| 7:18 | → | shall receive the kingdom | Obadiah 1:21; Psalm 2:8 | (2) thematic application |
+| 7:21 | → | made war against the holy ones, and prevailed against them | Daniel 8:10–12, 8:24; 11:33; Revelation 13:7 | (2) thematic application |
+| 7:22 | → | judgment was given in favor of the holy ones | Psalm 9:4; 149:9 | (2) thematic application |
+| 7:25 | → | a time and times and half a time | Daniel 4:16; 12:7; Revelation 12:14 | (2) thematic application |
+| 7:25 | » | the times and the law | *zimnin ve-dat* — the appointed times (cf. Esther 9:27, 9:31) and the decree/law (*dat*, see 6:5). | n/a (form) |
+| 7:28 | → | I kept the matter in my heart | Genesis 37:11 | (3) single-point borrowing |
+| 7:28 | » | Here is the end of the matter | *sof millata* — the last verse of the Aramaic section; Hebrew resumes at 8:1. | n/a (form) |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "Then I desired to know" (7:19) is intelligible; "there came up among them" (7:8) kept.
+- 7:2 "broke forth" (*megichan*, "were stirring up/bursting"): retained.
+- 7:6 "I beheld": retained where it is a plain "I saw" (the "watched until" fix is limited to the until-constructions).
+- 7:8 "a little one": retained.
+- 7:11 "voice of the great words": retained.
+- 7:12 "a season and a time": retained (*zeman ve-iddan*).
+- 7:15 "grieved" (*'etkerayat*): retained.
+- 7:17 "kings": the interpreter says "kings" here and "kingdom" at 7:23; retained as written.
+- 7:24 "put down three kings" (*yehashpel*, same root as 4:37 "humble"): retained.
+- 7:26 "to the end": retained.
+- Historical identification of the four beasts, the ten horns and the little horn is left to the cross-references to ch.2 and ch.8; no external source is cited.
+- R8 lineation: 7:9–10 and 7:13–14 are hymn-like and may be poetic in the ASV; the printed cola are not preserved in the working file, so none are proposed. Not touched.
+
+## Pacing check (markup)
+
+New `---` before v.1, v.2 (the vision), v.15 (the request to the interpreter). `>>>` paragraph breaks before v.9 (the throne), v.13 (the son of man), v.19 (the fourth beast's detail). **`===` candidate before v.1** (genre shift: court narrative → apocalyptic vision; end of the Aramaic court tales) — written as `---` in E; your call. `[br]` at verse-ends throughout the vision speech. No `[br]` before a break marker.
+
+## Flags outside chapter 7 (no action taken)
+
+- "saints" also at 8:24 ("the holy people" — different phrase, kept); "diverse" none outside ch.7; "Ancient of Days" none outside vv.9, 13, 22; "brass" 10:6; "exceeding" 8:9, 11:25.
+- The 6:5 Torah decision governs 7:25 (not applied here).
+
+## E. Full proposed chapter text (Daniel 7)
+
+## Daniel 7
+
+---
+1  In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream and told the sum of the matters.
+---
+2  Daniel spoke and said, “I saw in my vision by night, and, behold, the four winds of heaven broke forth upon the great sea.[br]
+→ the four winds of heaven :: Jeremiah 49:36; Zechariah 6:5; Ezekiel 37:9
+→ the great sea :: Isaiah 17:12; Isaiah 57:20; Psalm 65:7
+3  And four great beasts came up from the sea, different from one another.[br]
+→ four great beasts :: Hosea 13:7–8; Jeremiah 5:6
+4  The first was like a lion, and had eagle’s wings: I watched until its wings were plucked, and it was lifted up from the earth, and made to stand upon two feet as a man; and a man’s heart was given to it.[br]
+→ like a lion, and had eagle’s wings :: Jeremiah 4:7; Ezekiel 17:3; Daniel 4:16
+5  And, behold, another beast, a second, like a bear; and it was raised up on one side, and three ribs were in its mouth between its teeth: and they said thus to it, ‘Arise, devour much flesh.’[br]
+6  After this I beheld, and, behold, another, like a leopard, which had upon its back four wings of a bird; the beast had also four heads; and dominion was given to it.[br]
+7  After this I saw in the night-visions, and, behold, a fourth beast, terrifying and powerful, and exceedingly strong; and it had great iron teeth; it devoured and broke in pieces, and trampled the remainder with its feet: and it was different from all the beasts that were before it; and it had ten horns.[br]
+→ great iron teeth :: Daniel 2:40
+8  I considered the horns, and, behold, there came up among them another horn, a little one, before which three of the first horns were plucked up by the roots: and, behold, in this horn were eyes like the eyes of a man, and a mouth speaking great things.
+→ a mouth speaking great things :: Psalm 12:3; Daniel 7:20; Daniel 7:25; Daniel 11:36
+>>>
+9  I watched until thrones were placed, and One who was Ancient of Days took His seat: His clothing was white as snow, and the hair of His head like pure wool; His throne was fiery flames, and its wheels burning fire.[br]
+→ thrones were placed :: Psalm 122:5; 1 Kings 22:19
+→ His throne was fiery flames, and its wheels burning fire :: Ezekiel 1:15–28; Ezekiel 10:2; Psalm 97:2–3
+→ the hair of His head like pure wool :: Isaiah 1:18
+» Ancient of Days :: *'attiq yomin* ("advanced in days") — the aged judge enthroned; cf. Psalm 90:2 ("from everlasting to everlasting, You are God"); Job 36:26.
+10  A fiery stream issued and came forth from before Him: thousands of thousands ministered to Him, and ten thousand times ten thousand stood before Him: the court sat in judgment, and the books were opened.[br]
+→ A fiery stream issued and came forth from before Him :: Psalm 50:3; Psalm 97:3
+→ thousands of thousands ministered to Him :: Deuteronomy 33:2; Psalm 68:17; 1 Kings 22:19
+→ the books were opened :: Exodus 32:32–33; Psalm 69:28; Malachi 3:16; Daniel 12:1
+11  I watched at that time because of the voice of the great words which the horn spoke; I watched until the beast was slain, and its body destroyed, and it was given to be burned with fire.[br]
+→ given to be burned with fire :: Isaiah 30:33; Isaiah 66:24
+12  And as for the rest of the beasts, their dominion was taken away: yet their lives were prolonged for a season and a time.
+>>>
+13  I saw in the night-visions, and, behold, there came with the clouds of heaven one like a son of man, and he came even to the Ancient of Days, and they brought him near before Him.[br]
+→ one like a son of man :: Psalm 8:4; Psalm 80:17; Ezekiel 2:1
+→ there came with the clouds of heaven :: Psalm 104:3; Psalm 68:4; Isaiah 19:1; Exodus 34:5
+→ there came with the clouds of heaven :: Matthew 24:30; Matthew 26:64; Mark 14:62; Revelation 1:7; Revelation 14:14
+» one like a son of man :: *kevar enash* ("like a son of man") — a figure in human form, set against the four beasts; *bar enash* is the Aramaic of Hebrew *ben adam* (Ezekiel 2:1; Psalm 8:4).
+14  And there was given him dominion, and glory, and a kingdom, that all the peoples, nations, and languages should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
+→ all the peoples, nations, and languages should serve him :: Genesis 49:10; Psalm 2:8; Psalm 72:11
+» should serve him :: *yiflechun* ("serve, worship") — the verb of cultic service in 3:12, 3:17–18, 3:28 and 6:16, 6:20; cf. 7:27.
+→ his dominion is an everlasting dominion :: Daniel 2:44; Daniel 4:3; Daniel 6:26; Psalm 145:13
+---
+15  As for me, Daniel, my spirit was grieved in the midst of my body, and the visions of my head troubled me.[br]
+» in the midst of my body :: *b'gav nidneh* — lit. "in the midst of its sheath"; the body as the sheath of the spirit (the same word, Hebrew *nadan*, at 1 Chronicles 21:27).
+16  I came near to one of those who stood by, and asked him the truth concerning all this. So he told me, and made me know the interpretation of the things.[br]
+→ one of those who stood by :: Zechariah 1:9; Zechariah 4:1–5; Daniel 8:15–16
+17  These great beasts, which are four, are four kings, that shall arise out of the earth.[br]
+→ four kings :: Daniel 2:37–40
+18  But the holy ones of the Most High shall receive the kingdom, and possess the kingdom for ever, even for ever and ever.
+→ the holy ones of the Most High :: Exodus 19:6; Deuteronomy 7:6; Isaiah 62:12; Psalm 149:5–9
+→ shall receive the kingdom :: Obadiah 1:21; Psalm 2:8
+>>>
+19  Then I desired to know the truth concerning the fourth beast, which was different from all of them, exceedingly terrifying, whose teeth were of iron, and its claws of bronze; which devoured, broke in pieces, and trampled the remainder with its feet;[br]
+20  and concerning the ten horns that were on its head, and the other horn which came up, and before which three fell, even that horn that had eyes, and a mouth that spoke great things, whose appearance was more imposing than its companions.[br]
+21  I beheld, and the same horn made war against the holy ones, and prevailed against them;[br]
+→ made war against the holy ones, and prevailed against them :: Daniel 8:10–12; Daniel 8:24; Daniel 11:33; Revelation 13:7
+22  until the Ancient of Days came, and judgment was given in favor of the holy ones of the Most High, and the time came that the holy ones possessed the kingdom.[br]
+→ judgment was given in favor of the holy ones :: Psalm 9:4; Psalm 149:9
+23  Thus he said, ‘The fourth beast shall be a fourth kingdom on earth, which shall be different from all the kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.[br]
+24  And as for the ten horns, out of this kingdom shall ten kings arise: and another shall arise after them; and he shall be different from the former, and he shall put down three kings.[br]
+25  And he shall speak words against the Most High, and shall wear out the holy ones of the Most High; and he shall intend to change the times and the law; and they shall be given into his hand until a time and times and half a time.[br]
+→ a time and times and half a time :: Daniel 4:16; Daniel 12:7; Revelation 12:14
+» the times and the law :: *zimnin ve-dat* — the appointed times (cf. Esther 9:27, 9:31) and the decree/law (*dat*, see 6:5).
+26  But the court shall sit in judgment, and they shall take away his dominion, to consume and to destroy it to the end.[br]
+27  And the kingdom and the dominion, and the greatness of the kingdoms under the whole heaven, shall be given to the people of the holy ones of the Most High: his kingdom is an everlasting kingdom, and all dominions shall serve and obey him.’[br]
+28  Here is the end of the matter. As for me, Daniel, my thoughts greatly troubled me, and my countenance was changed in me: but I kept the matter in my heart.”
+→ I kept the matter in my heart :: Genesis 37:11
+» Here is the end of the matter :: *sof millata* — the last verse of the Aramaic section; Hebrew resumes at 8:1.

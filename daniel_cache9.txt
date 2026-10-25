@@ -1,0 +1,267 @@
+# daniel_cache9 — Daniel 9 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–8 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none needed. All references use English versification. The NT lines at 9:27 are NT citations *of* this verse, offered as references only, not R10 OT-source ties (delete if you prefer OT-only).
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+The prayer (vv.4–19) is addressed to God and speaks of Him: He/Him/His in third-person reference, You/Your when addressed. Divine names already in the text (YHWH, the Lord) are unchanged. Gabriel's "you" and the man's "he" (vv.21–27) stay lowercase.
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 9:4 | love him and keep his commandments | love Him and keep His commandments | |
+| 9:5 | your precepts…your ordinances | Your precepts…Your ordinances | addressed |
+| 9:6 | your servants…your name | Your servants…Your name | addressed |
+| 9:7 | belongs to you…where you have driven them…against you | belongs to You…where You have driven them…against You | addressed |
+| 9:8 | sinned against you | sinned against You | addressed |
+| 9:9 | rebelled against him | rebelled against Him | |
+| 9:10 | in his laws, which he set…his servants | in His Torah, which He set…His servants | wording also in B |
+| 9:11 | your law…your voice…against him | Your Torah…Your voice…against Him | |
+| 9:12 | he has confirmed his words, which he spoke | He has confirmed His words, which He spoke | |
+| 9:13 | in your truth | in Your truth | |
+| 9:14 | in all his works which he does…his voice | in all His works which He does…His voice | |
+| 9:15 | your people…have gotten you renown | Your people…made a name for Yourself | |
+| 9:16–19 | your righteousness…your anger and your wrath…your city…your holy mountain…your people; you; hearken…your servant…your face…your sanctuary; incline your ear…your eyes…your name…before you…your great mercies; for your own sake…your city and your people…your name | Your (and Yourself) throughout | addressed |
+| 9:20 | before YHWH my God | (no change) | |
+
+Precedent: R1.1 (addressed-You extension, 2026-10-20); 00086.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 9:4–19, 9:22–27 | unquoted direct speech | curly quotes (R9): the prayer 4–19, one quotation; Gabriel's speech 22–27, one quotation | — | **00087** |
+| 9:6, 9:17 | hearkened / hearken | listened / listen | *shama'*; *haqshiva* | **00112** (Hearken→Listen) |
+| 9:13 | is come upon us | has come upon us | — | **00190** |
+| 9:16 | are become a reproach | have become a reproach | — | **00190** |
+| 9:22 | I am now come forth | I have now come forth | — | **00190** |
+| 9:23 | I am come to tell you | I have come to tell you | — | **00190** |
+| 9:26 | the end thereof | its end | — | **00189** |
+| 9:6, 9:7 (×2), 9:12, 9:16 | the prophets, that spoke / that are near, and that are far off / our judges that judged us / all that are round about us | the prophets, who spoke / who are near, and who are far off / our judges who judged us / all who are around us | — | **00151** (relative "that"→"who" for persons; extended to these clauses) |
+| 9:21 | the evening oblation | the evening grain offering | *minchat ha-erev* | wording in B |
+| 9:27 | one that makes desolate | one who makes desolate | *meshomem* | **00151** (extended) |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 9:4 | 1b | the great and dreadful God | the great and awesome God | *ha-El ha-gadol ve-ha-nora* ("feared, awe-inspiring") — "dreadful" in its older sense | none |
+| 9:7, 9:8 | 1b | confusion of face | shame of face | *boshet ha-panim* | none |
+| 9:10 | **2** | in his laws | in His Torah | *torotav* (plural of *torah*, "teachings"); the covenant instructions urged by the prophets (Jeremiah 26:4–5). Your direction: Torah where the law of Moses is meant | **00065** (Torah where Mosaic instruction is meant) — plural form, your call |
+| 9:11, 9:13 | **2** | your law / the law of Moses | Your Torah / the Torah of Moses | *toratekha*; *torat Moshe* | **00065** |
+| 9:11 | 1b | even turning aside, that they should not obey | even turning aside, so that they did not obey | *ve-sor levilti shemoa'* | none |
+| 9:15 | 1b | that have brought…and have gotten you renown | who brought…and made a name for Yourself | *va-ta'as lekha shem* ("made for Yourself a name") — identical to Nehemiah 9:10, Jeremiah 32:20 | none |
+| 9:16, 9:18 | **2** | your righteousness / our righteousnesses | Your righteous acts / our righteous acts | *tsidqotekha*, *tsidqotenu* (plural: deeds; cf. Judges 5:11; 1 Samuel 12:7; Micah 6:5) | none |
+| 9:18 | 1b | for your great mercies' sake | for the sake of Your great mercies | *'al rachamekha ha-rabbim* | none |
+| 9:19 | 1b | hearken and do; defer not | listen and act; do not delay | *haqshivah ve-'aseh; 'al te'acher* (cf. Psalm 40:17) | **00112** (hearken) |
+| 9:21, 9:27 | 1b | oblation | grain offering | *minchah* (Leviticus 2) — "oblation" is ecclesial | none (cf. 2:46 "offering") |
+| 9:23, 9:25 | 1b | the commandment went forth / the going forth of the commandment | the word went forth / the going forth of the word | *davar* | none |
+| 9:24, 9:25 (×2), 9:26, 9:27 (×2) | **2** | seventy weeks, seven weeks, sixty-two weeks, one week | seventy sevens, seven sevens, sixty-two sevens, one seven | *shavu'im* ("sevens"); the unit is the seven, unspecified. Contrast 10:2, where the writer says *shavu'im yamim* ("sevens of days") to mark days | none |
+| 9:24 | **2** | to make reconciliation for iniquity | to make atonement for iniquity | *lekhapper 'avon* — *kipper* is the Yom Kippur verb (Leviticus 16:21–22, 16:30, 16:34) | none |
+| 9:24 | **2** | to make an end of sins | **no change proposed — textual flag.** The consonantal text (Ketiv) reads *lachtom* ("to seal up"); the marginal reading (Qere) *lehatem* ("to make an end of"). ASV follows the Qere. Retained | *chatot* | none |
+| 9:24 | **2** | to anoint the most holy | **no change proposed — note only.** *qodesh qodashim* has no article ("a most holy [place/thing/one]"); retained "the most holy" | *qodesh qodashim* | none |
+| 9:25 | **2** | the anointed one, the prince | an anointed one, a prince | *mashiach nagid* — **no article on either noun** in the Hebrew. Options: (a) keep ASV; (b) "an anointed one, a prince" (recommended: matches the grammar); (c) "Messiah, a prince". Decision is yours | none (00090 concerns Greek *Christos*) |
+| 9:25 | 1b | in troublous times | in times of distress | *tsoq ha-ittim* (lit. "constraint of the times") | none |
+| 9:26 | **2** | the anointed one be cut off | an anointed one be cut off | *mashiach* (no article) — follows the 9:25 decision | none |
+| 9:26 | **2** | and shall have nothing | **no change proposed — flag.** *ve-ein lo* is an elliptical phrase ("and none for him / and he will have no one / nothing"); retained | *ve-ein lo* | none |
+| 9:27 | **2** | he shall make a firm covenant | **no change proposed — flag.** The antecedent of "he" is the prince who is to come (v.26), by the nearest subject; not capitalized and not specified | *ve-higbir berit* | none |
+| 9:3 | — | the Lord God | no change; *Adonai ha-Elohim* | — | none |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 9:1 | → | Darius the son of Ahasuerus | Daniel 5:31; 11:1 | (2) thematic application |
+| 9:2 | → | the word of YHWH came to Jeremiah the prophet | Jeremiah 25:11–12; 29:10; Zechariah 1:12 | (1) direct verbatim |
+| 9:2 | → | even seventy years | 2 Chronicles 36:21; Leviticus 26:34–35 | (2) thematic application |
+| 9:3 | → | fasting and sackcloth and ashes | Nehemiah 9:1; Esther 4:3; Jonah 3:5–8; Joel 2:12 | (2) thematic application |
+| 9:4 | → | the great and awesome God | Nehemiah 1:5; Deuteronomy 7:9, 7:21; Exodus 20:6 | (1) direct verbatim (Nehemiah 1:5) |
+| 9:4 | » | the great and awesome God | *ha-El ha-gadol ve-ha-nora* — "the great and awe-inspiring God," keeping covenant (*berit*) and loyal love (*chesed*); the formula of Deuteronomy 7:21, Nehemiah 1:5 and 9:32. | n/a (form) |
+| 9:5 | → | have sinned | 1 Kings 8:47 (*chatanu, he'evinu, rasha'nu* — the same three verbs); Psalm 106:6 | (1) direct verbatim |
+| 9:6 | → | Your servants the prophets | 2 Kings 17:13–14; Jeremiah 7:25–26; 25:4; 2 Chronicles 36:15–16; Zechariah 1:4–6 | (4) summary of many |
+| 9:7 | → | righteousness belongs to You | Ezra 9:15; Nehemiah 9:33 | (2) thematic application |
+| 9:7 | → | shame of face | Ezra 9:6–7; Jeremiah 3:25 | (2) thematic application |
+| 9:7 | → | their trespass that they have trespassed against You | Leviticus 26:40; Ezra 9:2 | (1) direct verbatim (Leviticus 26:40) |
+| 9:7 | » | their trespass that they have trespassed | *ma'alam asher ma'alu-bakh* — a cognate construction ("their breach of faith in which they broke faith"), the wording of Leviticus 26:40. | n/a (form) |
+| 9:9 | → | mercies and forgiveness | Nehemiah 9:17; Psalm 130:4; Exodus 34:6–7 | (2) thematic application |
+| 9:9 | » | forgiveness | *selichot* — plural ("forgivenesses"); cf. Nehemiah 9:17 (*Eloah selichot*), the name later given to the penitential liturgy. | n/a (form) |
+| 9:10 | → | which He set before us by His servants the prophets | Jeremiah 26:4–5; 44:10; Nehemiah 9:30 | (1) direct verbatim (Jeremiah 26:4–5) |
+| 9:11 | → | the curse been poured out upon us, and the oath | Deuteronomy 29:20–21; 27:15–26; Leviticus 26:14–39; 2 Chronicles 34:24 | (4) summary of many |
+| 9:11 | » | the curse been poured out upon us, and the oath | *ha-alah ve-ha-shevu'ah* — "the curse and the oath," the covenant-sanction pair (Deuteronomy 29:12, 29:14, 29:19; Numbers 5:21). | n/a (form) |
+| 9:11 | → | the Torah of Moses the servant of God | Joshua 8:31; Ezra 3:2; Malachi 4:4 | (2) thematic application |
+| 9:12 | → | He has confirmed His words, which He spoke against us | Lamentations 2:17; Deuteronomy 29:24–28; Zechariah 1:6 | (2) thematic application |
+| 9:12 | → | has been done upon Jerusalem | Lamentations 1:12; Ezekiel 5:9 | (2) thematic application |
+| 9:13 | → | turn from our iniquities | Jeremiah 18:11; 2 Chronicles 7:14; Hosea 14:1–2 | (2) thematic application |
+| 9:14 | → | YHWH watched over the evil | Jeremiah 1:12; 31:28; 44:27 | (2) thematic application |
+| 9:14 | » | watched over the evil | *vayyishqod* — "kept watch," the verb of Jeremiah 1:12 (God "watching over" His word to perform it) and 44:27 (watching "for evil, not for good"). | n/a (form) |
+| 9:14 | → | YHWH our God is righteous in all His works | Nehemiah 9:33; Psalm 145:17; Deuteronomy 32:4 | (2) thematic application |
+| 9:15 | → | made a name for Yourself | Nehemiah 9:10; Jeremiah 32:20; Isaiah 63:12–14; 2 Samuel 7:23 | (1) direct verbatim (Nehemiah 9:10) |
+| 9:15 | → | out of the land of Egypt with a mighty hand | Exodus 32:11; Deuteronomy 4:34; 5:15; 9:26 | (2) thematic application |
+| 9:16 | → | Your righteous acts | Judges 5:11; 1 Samuel 12:7; Micah 6:5; Psalm 103:6 | (2) thematic application |
+| 9:16 | → | Your anger and Your wrath, please, be turned away | Psalm 85:3–4; Jonah 3:9 | (2) thematic application |
+| 9:16 | → | Your holy mountain | Psalm 2:6; 48:1; Joel 2:1; Zechariah 8:3; Daniel 9:20 | (2) thematic application |
+| 9:16 | → | a reproach to all who are around us | Psalm 79:4; Psalm 44:13 | (2) thematic application |
+| 9:17 | → | cause Your face to shine upon Your sanctuary | Numbers 6:25; Psalm 80:3; Psalm 31:16 | (3) single-point borrowing |
+| 9:18 | → | incline Your ear, and hear | Isaiah 37:17 (2 Kings 19:16); Nehemiah 1:6; Psalm 17:6 | (1) direct verbatim (Isaiah 37:17) |
+| 9:18 | → | the city which is called by Your name | Jeremiah 25:29; 2 Chronicles 7:14; Isaiah 63:19 | (2) thematic application |
+| 9:18 | → | we do not present our supplications before You for our righteous acts | Deuteronomy 9:5–6; Ezekiel 36:22 | (2) thematic application |
+| 9:19 | → | do not delay | Psalm 40:17 (*'al te'acher*); Isaiah 48:9 | (1) direct verbatim (Psalm 40:17) |
+| 9:21 | → | the man Gabriel | Daniel 8:15–16; Luke 1:19 | (2) thematic application |
+| 9:21 | → | the evening grain offering | Ezra 9:4–5; 1 Kings 18:36; Psalm 141:2 | (2) thematic application |
+| 9:21 | » | the evening grain offering | *minchat ha-erev* — the late-afternoon offering (Ezra 9:4–5; 1 Kings 18:36); Daniel's prayer meets its hour, with no altar standing. | n/a (form) |
+| 9:23 | → | At the beginning of your supplications the word went forth | Isaiah 65:24; Daniel 10:12 | (2) thematic application |
+| 9:23 | » | greatly beloved | *chamudot* — lit. "precious/desirable things," a superlative; also 10:11, 10:19. | n/a (form) |
+| 9:24 | » | Seventy sevens | *shavu'im shiv'im* — "sevens"; the unit is the seven. In 10:2 the writer marks days explicitly (*shavu'im yamim*). | n/a (form) |
+| 9:24 | → | Seventy sevens | Leviticus 25:8; 26:18, 26:21; 2 Chronicles 36:21 | (2) thematic application |
+| 9:24 | » | decreed | *nechtak* — "cut off, determined" (a hapax; cf. *chatak*, "cut"). | n/a (form) |
+| 9:24 | → | to make atonement for iniquity | Leviticus 16:21–22, 16:30, 16:34; Zechariah 3:9; Jeremiah 31:34; Isaiah 53:5–6, 53:11–12 | (2) thematic application |
+| 9:24 | » | to make atonement for iniquity | *lekhapper 'avon* — the Yom Kippur verb; Leviticus 16:21 names iniquities, transgressions and sins together, as this verse does. | n/a (form) |
+| 9:24 | → | to bring in everlasting righteousness | Isaiah 51:6, 51:8; 45:17; Jeremiah 23:5–6 | (2) thematic application |
+| 9:24 | → | to seal up vision and prophecy | Isaiah 29:10–11; 8:16; Daniel 12:4 | (2) thematic application |
+| 9:24 | → | to anoint the most holy | Exodus 30:26–29; Ezekiel 41:4; 43:12; 1 Chronicles 23:13 | (2) thematic application |
+| 9:24 | » | the most holy | *qodesh qodashim* — "holy of holies" (no article): the inner sanctuary (Ezekiel 41:4), the altar and vessels (Exodus 30:26–29), the temple precinct (Ezekiel 43:12). | n/a (form) |
+| 9:25 | → | the going forth of the word to restore and to build Jerusalem | Isaiah 44:28; Ezra 1:1–4; 6:6–12; 7:11–26; Nehemiah 2:1–8 | (4) summary of many |
+| 9:25 | → | an anointed one, a prince | 1 Samuel 10:1; 1 Chronicles 29:22; Isaiah 45:1; 55:4; Psalm 2:2 | (2) thematic application |
+| 9:25 | » | an anointed one, a prince | *mashiach nagid* — both nouns indefinite; *mashiach* is used of kings, priests and once of Cyrus (Isaiah 45:1); *nagid* ("leader") of Saul, David and Solomon. | n/a (form) |
+| 9:25 | → | in times of distress | Nehemiah 4:1–23; Ezra 4:4–5 | (2) thematic application |
+| 9:25 | » | times of distress | *tsoq ha-ittim* — lit. "constraint of the times." | n/a (form) |
+| 9:26 | → | shall an anointed one be cut off | Isaiah 53:8; Psalm 37:9 | (2) thematic application |
+| 9:26 | » | be cut off | *yikkaret* — the verb of the covenant-sanction *karet* (Genesis 17:14; Exodus 31:14) and of cutting a covenant (*karat berit*); cf. Isaiah 53:8 (*nigzar*, "cut off from the land of the living"). | n/a (form) |
+| 9:26 | → | its end shall be with a flood | Nahum 1:8; Isaiah 8:7–8; Daniel 11:22 | (2) thematic application |
+| 9:26 | → | desolations are determined | Isaiah 10:23; 28:22; Daniel 9:27 | (2) thematic application |
+| 9:27 | → | make a firm covenant with many | Daniel 11:22, 11:28, 11:30–32 | (2) thematic application |
+| 9:27 | → | cause the sacrifice and the grain offering to cease | Daniel 8:11–13; 11:31; 12:11 | (2) thematic application |
+| 9:27 | → | one who makes desolate | Daniel 11:31; 12:11; Matthew 24:15; 2 Thessalonians 2:3–4 (NT citations) | n/a (NT citation of this verse) |
+| 9:27 | » | wing of abominations | *kanaf shiqqutsim* — lit. "wing of abominations"; *kanaf* is also "edge, extremity" (Isaiah 11:12; Ezekiel 7:2). The phrase is obscure. | n/a (form) |
+| 9:27 | → | even to the full end, and that determined, shall wrath be poured out | Isaiah 10:23; 28:22; Ezekiel 7:8 | (1) direct verbatim (Isaiah 10:23) |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "therefore has the curse been poured out" (9:11), "yet have we not entreated" (9:13), "Therefore has YHWH watched" (9:14), "for under the whole heaven has not been done" (9:12), "defer not" is the only imperative changed (9:19). Same as the Matthew caches.
+- 9:2 "understood by the books" (*binoti ba-sefarim*): retained.
+- 9:3 "the Lord God": *Adonai ha-Elohim*; retained. "Oh, Lord" (*anna Adonai*): retained.
+- 9:3–19 divine names: the Lord/YHWH alternation follows the Hebrew (*Adonai* vs *YHWH*); no change. 9:17 "for the Lord's sake": retained.
+- 9:5 "ordinances" (*mishpatim*): retained.
+- 9:12 "judges" (*shofetim*): retained.
+- 9:13 "entreated the favor" (*chillinu et penei*): retained.
+- 9:21 "being caused to fly swiftly" (*mu'af bi'af*): obscure phrase; retained.
+- 9:23 "consider the matter": retained.
+- 9:25 "street and moat" (*rechov ve-charuts*): retained; *charuts* is uncertain.
+- 9:26 "desolations are determined": retained.
+- Interpretive questions (the sevens' start and end points, the identity of the prince and of the anointed one) are not annotated beyond scriptural cross-references.
+- R8 lineation: none; the prayer is prose.
+- R9: the prayer (4–19) and Gabriel's reply (22–27) are each one layer; no nested quotation.
+
+## Pacing check (markup)
+
+New `---` before v.1 and v.20 (Gabriel arrives). `>>>` before v.4 (the prayer begins) and v.24 (the revelation proper). `[br]` on the confession verbs (v.5), the "O Lord" invocations (v.19) and the six purposes (v.24), and at prayer and speech line-ends. No `[br]` before a break marker.
+
+## Flags outside chapter 9 (no action taken)
+
+- "oblation" recurs 2:46 (proposed "offering"); "weeks" recurs 10:2 (kept — marked "of days"); "hearkened" none elsewhere; "defer" none; "commandment" none elsewhere in the relevant sense.
+- The 6:5 and 9:10–13 Torah decisions are parallel (**00065**).
+- The "anointed one" decision (9:25) carries to 9:26.
+
+## E. Full proposed chapter text (Daniel 9)
+
+## Daniel 9
+
+---
+1  In the first year of Darius the son of Ahasuerus, of the seed of the Medes, who was made king over the realm of the Chaldeans,
+→ Darius the son of Ahasuerus :: Daniel 5:31; Daniel 11:1
+2  in the first year of his reign I, Daniel, understood by the books the number of the years of which the word of YHWH came to Jeremiah the prophet, for the accomplishing of the desolations of Jerusalem, even seventy years.
+→ the word of YHWH came to Jeremiah the prophet :: Jeremiah 25:11–12; Jeremiah 29:10; Zechariah 1:12
+→ even seventy years :: 2 Chronicles 36:21; Leviticus 26:34–35
+3  And I set my face to the Lord God, to seek by prayer and supplications, with fasting and sackcloth and ashes.
+→ fasting and sackcloth and ashes :: Nehemiah 9:1; Esther 4:3; Jonah 3:5–8; Joel 2:12
+>>>
+4  And I prayed to YHWH my God, and made confession, and said, “Oh, Lord, the great and awesome God, who keeps covenant and lovingkindness with those who love Him and keep His commandments,[br]
+→ the great and awesome God :: Nehemiah 1:5; Deuteronomy 7:9; Deuteronomy 7:21; Exodus 20:6
+» the great and awesome God :: *ha-El ha-gadol ve-ha-nora* — "the great and awe-inspiring God," keeping covenant (*berit*) and loyal love (*chesed*); the formula of Deuteronomy 7:21, Nehemiah 1:5 and 9:32.
+5  we have sinned,[br] and have dealt perversely,[br] and have done wickedly,[br] and have rebelled, even turning aside from Your precepts and from Your ordinances;[br]
+→ have sinned :: 1 Kings 8:47; Psalm 106:6
+6  neither have we listened to Your servants the prophets, who spoke in Your name to our kings, our princes, and our fathers, and to all the people of the land.[br]
+→ Your servants the prophets :: 2 Kings 17:13–14; Jeremiah 7:25–26; Jeremiah 25:4; 2 Chronicles 36:15–16; Zechariah 1:4–6
+7  O Lord, righteousness belongs to You, but to us shame of face, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and to all Israel, who are near, and who are far off, through all the countries where You have driven them, because of their trespass that they have trespassed against You.[br]
+→ righteousness belongs to You :: Ezra 9:15; Nehemiah 9:33
+→ shame of face :: Ezra 9:6–7; Jeremiah 3:25
+→ their trespass that they have trespassed against You :: Leviticus 26:40; Ezra 9:2
+» their trespass that they have trespassed :: *ma'alam asher ma'alu-bakh* — a cognate construction ("their breach of faith in which they broke faith"), the wording of Leviticus 26:40.
+8  O Lord, to us belongs shame of face, to our kings, to our princes, and to our fathers, because we have sinned against You.[br]
+9  To the Lord our God belong mercies and forgiveness; for we have rebelled against Him;[br]
+→ mercies and forgiveness :: Nehemiah 9:17; Psalm 130:4; Exodus 34:6–7
+» forgiveness :: *selichot* — plural ("forgivenesses"); cf. Nehemiah 9:17 (*Eloah selichot*), the name later given to the penitential liturgy.
+10  neither have we obeyed the voice of YHWH our God, to walk in His Torah, which He set before us by His servants the prophets.[br]
+→ which He set before us by His servants the prophets :: Jeremiah 26:4–5; Jeremiah 44:10; Nehemiah 9:30
+11  Indeed, all Israel have transgressed Your Torah, even turning aside, so that they did not obey Your voice: therefore has the curse been poured out upon us, and the oath that is written in the Torah of Moses the servant of God; for we have sinned against Him.[br]
+→ the curse been poured out upon us, and the oath :: Deuteronomy 29:20–21; Deuteronomy 27:15–26; Leviticus 26:14–39; 2 Chronicles 34:24
+» the curse been poured out upon us, and the oath :: *ha-alah ve-ha-shevu'ah* — "the curse and the oath," the covenant-sanction pair (Deuteronomy 29:12, 29:14, 29:19; Numbers 5:21).
+→ the Torah of Moses the servant of God :: Joshua 8:31; Ezra 3:2; Malachi 4:4
+12  And He has confirmed His words, which He spoke against us, and against our judges who judged us, by bringing upon us a great evil; for under the whole heaven has not been done as has been done upon Jerusalem.[br]
+→ He has confirmed His words, which He spoke against us :: Lamentations 2:17; Deuteronomy 29:24–28; Zechariah 1:6
+→ has been done upon Jerusalem :: Lamentations 1:12; Ezekiel 5:9
+13  As it is written in the Torah of Moses, all this evil has come upon us: yet have we not entreated the favor of YHWH our God, that we should turn from our iniquities, and have discernment in Your truth.[br]
+→ turn from our iniquities :: Jeremiah 18:11; 2 Chronicles 7:14; Hosea 14:1–2
+14  Therefore has YHWH watched over the evil, and brought it upon us; for YHWH our God is righteous in all His works which He does, and we have not obeyed His voice.[br]
+→ YHWH watched over the evil :: Jeremiah 1:12; Jeremiah 31:28; Jeremiah 44:27
+» watched over the evil :: *vayyishqod* — "kept watch," the verb of Jeremiah 1:12 (God "watching over" His word to perform it) and 44:27 (watching "for evil, not for good").
+→ YHWH our God is righteous in all His works :: Nehemiah 9:33; Psalm 145:17; Deuteronomy 32:4
+15  And now, O Lord our God, who brought Your people forth out of the land of Egypt with a mighty hand, and made a name for Yourself, as at this day; we have sinned, we have done wickedly.[br]
+→ made a name for Yourself :: Nehemiah 9:10; Jeremiah 32:20; Isaiah 63:12–14; 2 Samuel 7:23
+→ out of the land of Egypt with a mighty hand :: Exodus 32:11; Deuteronomy 4:34; Deuteronomy 5:15; Deuteronomy 9:26
+16  O Lord, according to all Your righteous acts, let Your anger and Your wrath, please, be turned away from Your city Jerusalem, Your holy mountain; because for our sins, and for the iniquities of our fathers, Jerusalem and Your people have become a reproach to all who are around us.[br]
+→ Your righteous acts :: Judges 5:11; 1 Samuel 12:7; Micah 6:5; Psalm 103:6
+→ Your anger and Your wrath, please, be turned away :: Psalm 85:3–4; Jonah 3:9
+→ Your holy mountain :: Psalm 2:6; Psalm 48:1; Joel 2:1; Zechariah 8:3; Daniel 9:20
+→ a reproach to all who are around us :: Psalm 79:4; Psalm 44:13
+17  Now therefore, O our God, listen to the prayer of Your servant, and to his supplications, and cause Your face to shine upon Your sanctuary that is desolate, for the Lord’s sake.[br]
+→ cause Your face to shine upon Your sanctuary :: Numbers 6:25; Psalm 80:3; Psalm 31:16
+18  O my God, incline Your ear, and hear; open Your eyes, and behold our desolations, and the city which is called by Your name: for we do not present our supplications before You for our righteous acts, but for the sake of Your great mercies.[br]
+→ incline Your ear, and hear :: Isaiah 37:17; Nehemiah 1:6; Psalm 17:6
+→ the city which is called by Your name :: Jeremiah 25:29; 2 Chronicles 7:14; Isaiah 63:19
+→ we do not present our supplications before You for our righteous acts :: Deuteronomy 9:5–6; Ezekiel 36:22
+19  O Lord, hear;[br] O Lord, forgive;[br] O Lord, listen and act; do not delay, for Your own sake, O my God, because Your city and Your people are called by Your name.”
+→ do not delay :: Psalm 40:17; Isaiah 48:9
+---
+20  And while I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before YHWH my God for the holy mountain of my God;
+21  indeed, while I was speaking in prayer, the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening grain offering.
+→ the man Gabriel :: Daniel 8:15–16; Luke 1:19
+→ the evening grain offering :: Ezra 9:4–5; 1 Kings 18:36; Psalm 141:2
+» the evening grain offering :: *minchat ha-erev* — the late-afternoon offering (Ezra 9:4–5; 1 Kings 18:36); Daniel's prayer meets its hour, with no altar standing.
+22  And he instructed me, and talked with me, and said, “O Daniel, I have now come forth to give you wisdom and understanding.[br]
+23  At the beginning of your supplications the word went forth, and I have come to tell you; for you are greatly beloved: therefore consider the matter, and understand the vision.
+→ At the beginning of your supplications the word went forth :: Isaiah 65:24; Daniel 10:12
+» greatly beloved :: *chamudot* — lit. "precious/desirable things," a superlative; also 10:11, 10:19.
+>>>
+24  Seventy sevens are decreed upon your people and upon your holy city, to finish transgression,[br] and to make an end of sins,[br] and to make atonement for iniquity,[br] and to bring in everlasting righteousness,[br] and to seal up vision and prophecy,[br] and to anoint the most holy.[br]
+» Seventy sevens :: *shavu'im shiv'im* — "sevens"; the unit is the seven. In 10:2 the writer marks days explicitly (*shavu'im yamim*).
+→ Seventy sevens :: Leviticus 25:8; Leviticus 26:18; Leviticus 26:21; 2 Chronicles 36:21
+» decreed :: *nechtak* — "cut off, determined" (a hapax; cf. *chatak*, "cut").
+→ to make atonement for iniquity :: Leviticus 16:21–22; Leviticus 16:30; Leviticus 16:34; Zechariah 3:9; Jeremiah 31:34; Isaiah 53:5–6; Isaiah 53:11–12
+» to make atonement for iniquity :: *lekhapper 'avon* — the Yom Kippur verb; Leviticus 16:21 names iniquities, transgressions and sins together, as this verse does.
+→ to bring in everlasting righteousness :: Isaiah 51:6; Isaiah 51:8; Isaiah 45:17; Jeremiah 23:5–6
+→ to seal up vision and prophecy :: Isaiah 29:10–11; Isaiah 8:16; Daniel 12:4
+→ to anoint the most holy :: Exodus 30:26–29; Ezekiel 41:4; Ezekiel 43:12; 1 Chronicles 23:13
+» the most holy :: *qodesh qodashim* — "holy of holies" (no article): the inner sanctuary (Ezekiel 41:4), the altar and vessels (Exodus 30:26–29), the temple precinct (Ezekiel 43:12).
+25  Know therefore and discern, that from the going forth of the word to restore and to build Jerusalem to an anointed one, a prince, shall be seven sevens, and sixty-two sevens: it shall be built again, with street and moat, even in times of distress.[br]
+→ the going forth of the word to restore and to build Jerusalem :: Isaiah 44:28; Ezra 1:1–4; Ezra 6:6–12; Ezra 7:11–26; Nehemiah 2:1–8
+→ an anointed one, a prince :: 1 Samuel 10:1; 1 Chronicles 29:22; Isaiah 45:1; Isaiah 55:4; Psalm 2:2
+» an anointed one, a prince :: *mashiach nagid* — both nouns indefinite; *mashiach* is used of kings, priests and once of Cyrus (Isaiah 45:1); *nagid* ("leader") of Saul, David and Solomon.
+→ in times of distress :: Nehemiah 4:1–23; Ezra 4:4–5
+» times of distress :: *tsoq ha-ittim* — lit. "constraint of the times."
+26  And after the sixty-two sevens shall an anointed one be cut off, and shall have nothing: and the people of the prince who shall come shall destroy the city and the sanctuary; and its end shall be with a flood, and even to the end shall be war; desolations are determined.[br]
+→ shall an anointed one be cut off :: Isaiah 53:8; Psalm 37:9
+» be cut off :: *yikkaret* — the verb of the covenant-sanction *karet* (Genesis 17:14; Exodus 31:14) and of cutting a covenant (*karat berit*); cf. Isaiah 53:8 (*nigzar*, "cut off from the land of the living").
+→ its end shall be with a flood :: Nahum 1:8; Isaiah 8:7–8; Daniel 11:22
+→ desolations are determined :: Isaiah 10:23; Isaiah 28:22; Daniel 9:27
+27  And he shall make a firm covenant with many for one seven: and in the midst of the seven he shall cause the sacrifice and the grain offering to cease; and upon the wing of abominations shall come one who makes desolate; and even to the full end, and that determined, shall wrath be poured out upon the desolate.”
+→ make a firm covenant with many :: Daniel 11:22; Daniel 11:28; Daniel 11:30–32
+→ cause the sacrifice and the grain offering to cease :: Daniel 8:11–13; Daniel 11:31; Daniel 12:11
+→ one who makes desolate :: Daniel 11:31; Daniel 12:11; Matthew 24:15; 2 Thessalonians 2:3–4
+» wing of abominations :: *kanaf shiqqutsim* — lit. "wing of abominations"; *kanaf* is also "edge, extremity" (Isaiah 11:12; Ezekiel 7:2). The phrase is obscure.
+→ even to the full end, and that determined, shall wrath be poured out :: Isaiah 10:23; Isaiah 28:22; Ezekiel 7:8

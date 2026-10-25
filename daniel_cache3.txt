@@ -1,0 +1,142 @@
+# daniel_cache3 — Daniel 3 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–2 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none needed. All references use English versification.
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 3:17 | and he will deliver us | and He will deliver us | the three speaking of their God |
+| 3:28 | has sent his angel…delivered his servants that trusted in him | has sent His angel…delivered His servants that trusted in Him | Nebuchadnezzar speaking of the God of Shadrach; referent is God |
+| 3:25 | a son of the gods | (lowercase kept) | polytheist idiom; see B |
+
+Precedent: R1.1; 00086.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 3:4–6, 3:9–12, 3:14–15, 3:16–18, 3:24 (×2), 3:25, 3:26, 3:28–29 | unquoted direct speech | curly quotes (R9); multi-verse speeches opened once (herald 4–6; accusers 9–12; king 14–15; the three 16–18; king 28–29) | — | **00087** |
+| 3:2, 3:3, 3:24, 3:27 | counsellors | counselors | *datovrayya* | spelling modernization, cf. **00089** (fulfil→fulfill; marvelled→marveled) |
+| 3:1 | the breadth thereof | its breadth | — | **00189** |
+| 3:19 | than it was wont to be heated | than it was customarily heated | *di chaze* | **00123** (wont) |
+| 3:22 | the furnace exceeding hot | the furnace exceedingly hot | *yattir* | **00145** |
+| 3:29 | after this sort | in this way | — | **00172** (After this manner→In this way) |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 3:5, 3:7, 3:10, 3:15 | 1b | cornet | horn | *qarna* ("horn") — "cornet" is a later brass instrument | none |
+| 3:5, 3:7, 3:10, 3:15 | **2** | sackbut | triangular harp | *sabbeka* — a stringed instrument; the sackbut (a trombone ancestor) is anachronistic. Identification debated; retained alternatives: flute, harp, psaltery, dulcimer (see D) | none |
+| 3:6, 3:11 | 1b | whoso falls not down and worships shall the same hour be cast | whoever does not fall down and worship shall in that same hour be cast | *man di la…yippel…ba-sha'ta hi* | none (v.11 "whoso falls not" likewise) |
+| 3:12 | 1b | have not regarded you | have paid no attention to you | *lo samu 'alayik ta'am* ("have not set heed on you") | none |
+| 3:14 | 1b | Is it of purpose | Is it on purpose | *hatsdaya* — lexical crux ("on purpose" or "is it true?"); "of purpose" is archaic. Retained sense | none |
+| 3:19 | 1b | the form of his visage | the expression of his face | *tselem anpohi* | none |
+| 3:21, 3:27 | **2** | hosen | trousers | *sarbal* (leg-garment; "hosen" is a dead word) | none. "mantles" (*karbelah*) retained — possibly headgear, debated |
+| 3:25 | 1b | the aspect of the fourth | the appearance of the fourth | *remeh* | none (cf. 2:31) |
+| 3:25 | **2** | a son of the gods | **no change proposed — flag.** *bar-elahin*: the plural *elahin* is a polytheist's phrasing in Nebuchadnezzar's mouth, not "the Son of God." Retained lowercase; v.28 calls the figure His *angel* (*malakheh*). Note in C | *bar-elahin* | none |
+| 3:29 | 1b | speak anything amiss | speak anything wrong | *shalu* (error, negligence) | none |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 3:1 | → | made an image of gold | Exodus 20:4–5; Isaiah 40:19; 46:6; Psalm 115:4 | (2) thematic application |
+| 3:5 | » | horn, flute, harp, triangular harp, psaltery, dulcimer | *qarna*, *mashroqita*, *qitaros*, *sabbeka*, *pesanterin*, *sumponyah* — three are Greek loanwords (*kithara*, *psalterion*, *symphonia*). | n/a (form) |
+| 3:6 | → | burning fiery furnace | Jeremiah 29:22; Isaiah 43:2; Deuteronomy 4:20 | (2) thematic application |
+| 3:8 | → | brought accusation against the Jews | Esther 3:8–9; Ezra 4:6 | (2) thematic application |
+| 3:8 | » | brought accusation | *akhalu qarsehon* (lit. "ate their pieces") — an idiom for malicious accusation; the same phrase at 6:24; cf. Psalm 27:2. | n/a (form) |
+| 3:15 | → | who is that god that shall deliver you out of my hands | 2 Kings 18:35; Isaiah 36:20; Exodus 5:2 | (2) thematic application |
+| 3:18 | → | But if not | Habakkuk 3:17–18; Job 13:15 | (2) thematic application |
+| 3:25 | → | walking in the midst of the fire, and they have no hurt | Isaiah 43:2; Psalm 66:12 | (2) thematic application |
+| 3:25 | » | a son of the gods | *bar-elahin* ("a son of gods") — a polytheist's idiom; cf. *bene elohim* (Job 1:6; 38:7) and *bene elim* (Psalm 29:1; 89:6). In v.28 the figure is God's "angel" (*malakheh*). | n/a (form) |
+| 3:26 | » | Most High God | *Elah illaya* — the Aramaic counterpart of *El Elyon* ("God Most High," Genesis 14:18–22): the God who possesses heaven and earth, sovereign over every power; on Nebuchadnezzar's lips here and in 4:2. | n/a (form) |
+| 3:26 | → | servants of the Most High God | Genesis 14:18–22; Numbers 24:16; Psalm 91:1 | (2) thematic application |
+| 3:28 | → | Blessed be the God of Shadrach, Meshach, and Abed-nego | Daniel 2:20; Genesis 14:20; Exodus 18:10–11 | (2) thematic application |
+| 3:28 | → | sent His angel, and delivered His servants | Psalm 34:7; Daniel 6:22 | (2) thematic application |
+| 3:28 | → | trusted in Him | Psalm 22:4–5; Isaiah 26:3 | (2) thematic application |
+| 3:29 | → | no other god that is able to deliver | Isaiah 45:21; Deuteronomy 4:35 | (2) thematic application |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "serve not" (3:12, 3:14), "worship not" (3:15), "Did not we cast" (3:24), "If it be so" (3:17), "be it known" (3:18). Same as the Matthew caches.
+- 3:2 officials list — "satraps, deputies, governors, judges, treasurers, counselors, sheriffs, rulers": Persian/Babylonian loan-titles (*achashdarpenayya*, *signayya*, *pachawata*, *adargazrayya*, *gedovrayya*, *datovrayya*, *tiftaye*); retained.
+- 3:5 instruments: flute (*mashroqita*), harp (*qitaros*), psaltery (*pesanterin*), dulcimer (*sumponyah*) retained; the precise identifications are debated. Only the two clearest anachronisms (cornet, sackbut) are proposed.
+- 3:15 "well:" — elliptical in the Aramaic ("it is well"); retained.
+- 3:24 "True": *yatsiv*; retained.
+- 3:25 "no hurt" (*chabal*): retained.
+- 3:30 "promoted" (*hatslach*, "caused to prosper"): retained.
+- R8 lineation: none in ch.3.
+- R9: the herald's speech (vv.4–6) and the accusers' (vv.9–12) contain no nested quotation.
+
+## Pacing check (markup)
+
+New `---` before v.1, v.8 (the accusation), v.13 (confrontation), v.19 (the furnace), v.24 (the king's astonishment). `[br]` on the officials lists (vv.2, 3), the instruments list (v.5), and at speech line-ends. No `[br]` before a break marker.
+
+## Flags outside chapter 3 (no action taken)
+
+- "Most High God" recurs 4:2, 5:18, 5:21; the note at 3:26 covers the title; no note repeated.
+- "God of heaven" (2:18) lacks a » note in daniel_cache2 (§7.1 requires one for a distinctive divine title); added to that file's E with this pass: *Elah shemayya*, cf. Genesis 24:7; Jonah 1:9.
+- Cross-reference 3:8 / 6:24 (*akhalu qarsehon*) is in this chapter; mirrored at 6:24.
+
+## E. Full proposed chapter text (Daniel 3)
+
+## Daniel 3
+
+---
+1  Nebuchadnezzar the king made an image of gold, whose height was sixty cubits, and its breadth six cubits: he set it up in the plain of Dura, in the province of Babylon.
+→ made an image of gold :: Exodus 20:4–5; Isaiah 40:19; Isaiah 46:6; Psalm 115:4
+2  Then Nebuchadnezzar the king sent to gather together the satraps,[br] the deputies, and the governors,[br] the judges,[br] the treasurers,[br] the counselors,[br] the sheriffs,[br] and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.
+3  Then the satraps,[br] the deputies, and the governors,[br] the judges,[br] the treasurers,[br] the counselors,[br] the sheriffs,[br] and all the rulers of the provinces, were gathered together to the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.
+4  Then the herald cried aloud, “To you it is commanded, O peoples, nations, and languages,[br]
+5  that at what time you all hear the sound of the horn, flute, harp, triangular harp, psaltery, dulcimer,[br] and all kinds of music, you all fall down and worship the golden image that Nebuchadnezzar the king has set up;[br]
+» horn, flute, harp, triangular harp, psaltery, dulcimer :: *qarna*, *mashroqita*, *qitaros*, *sabbeka*, *pesanterin*, *sumponyah* — three are Greek loanwords (*kithara*, *psalterion*, *symphonia*).
+6  and whoever does not fall down and worship shall in that same hour be cast into the midst of a burning fiery furnace.”[br]
+→ burning fiery furnace :: Jeremiah 29:22; Isaiah 43:2; Deuteronomy 4:20
+7  Therefore at that time, when all the peoples heard the sound of the horn, flute, harp, triangular harp, psaltery, and all kinds of music, all the peoples, the nations, and the languages, fell down and worshipped the golden image that Nebuchadnezzar the king had set up.
+---
+8  Therefore at that time certain Chaldeans came near, and brought accusation against the Jews.
+→ brought accusation against the Jews :: Esther 3:8–9; Ezra 4:6
+» brought accusation :: *akhalu qarsehon* (lit. "ate their pieces") — an idiom for malicious accusation; the same phrase at 6:24; cf. Psalm 27:2.
+9  They answered and said to Nebuchadnezzar the king, “O king, live for ever.[br]
+10  You, O king, have made a decree, that every man that shall hear the sound of the horn, flute, harp, triangular harp, psaltery, and dulcimer,[br] and all kinds of music, shall fall down and worship the golden image;[br]
+11  and whoever does not fall down and worship, shall be cast into the midst of a burning fiery furnace.[br]
+12  There are certain Jews whom you have appointed over the affairs of the province of Babylon: Shadrach, Meshach, and Abed-nego; these men, O king, have paid no attention to you: they serve not your gods, nor worship the golden image which you have set up.”
+---
+13  Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abed-nego. Then they brought these men before the king.
+14  Nebuchadnezzar answered and said to them, “Is it on purpose, O Shadrach, Meshach, and Abed-nego, that you all serve not my god, nor worship the golden image which I have set up?[br]
+15  Now if you all be ready that at what time you all hear the sound of the horn, flute, harp, triangular harp, psaltery, and dulcimer,[br] and all kinds of music, you all fall down and worship the image which I have made, well: but if you all worship not, you all shall be cast the same hour into the midst of a burning fiery furnace; and who is that god that shall deliver you out of my hands?”[br]
+→ who is that god that shall deliver you out of my hands :: 2 Kings 18:35; Isaiah 36:20; Exodus 5:2
+16  Shadrach, Meshach, and Abed-nego answered and said to the king, “O Nebuchadnezzar, we have no need to answer you in this matter.[br]
+17  If it be so, our God whom we serve is able to deliver us from the burning fiery furnace; and He will deliver us out of your hand, O king.[br]
+18  But if not, be it known to you, O king, that we will not serve your gods, nor worship the golden image which you have set up.”
+→ But if not :: Habakkuk 3:17–18; Job 13:15
+---
+19  Then was Nebuchadnezzar full of fury, and the expression of his face was changed against Shadrach, Meshach, and Abed-nego: therefore he spoke, and commanded that they should heat the furnace seven times more than it was customarily heated.
+20  And he commanded certain mighty men that were in his army to bind Shadrach, Meshach, and Abed-nego, and to cast them into the burning fiery furnace.
+21  Then these men were bound in their trousers, their tunics, and their mantles, and their other garments, and were cast into the midst of the burning fiery furnace.
+22  Therefore because the king’s commandment was urgent, and the furnace exceedingly hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abed-nego.
+23  And these three men, Shadrach, Meshach, and Abed-nego, fell down bound into the midst of the burning fiery furnace.
+---
+24  Then Nebuchadnezzar the king was astonished, and rose up in haste: he spoke and said to his counselors, “Did not we cast three men bound into the midst of the fire?” They answered and said to the king, “True, O king.”[br]
+25  He answered and said, “Behold, I see four men loose, walking in the midst of the fire, and they have no hurt; and the appearance of the fourth is like a son of the gods.”[br]
+→ walking in the midst of the fire, and they have no hurt :: Isaiah 43:2; Psalm 66:12
+» a son of the gods :: *bar-elahin* ("a son of gods") — a polytheist's idiom; cf. *bene elohim* (Job 1:6; 38:7) and *bene elim* (Psalm 29:1; 89:6). In v.28 the figure is God's "angel" (*malakheh*).
+26  Then Nebuchadnezzar came near to the mouth of the burning fiery furnace: he spoke and said, “Shadrach, Meshach, and Abed-nego, you all servants of the Most High God, come forth, and come here.” Then Shadrach, Meshach, and Abed-nego came forth out of the midst of the fire.
+» Most High God :: *Elah illaya* — the Aramaic counterpart of *El Elyon* ("God Most High," Genesis 14:18–22): the God who possesses heaven and earth, sovereign over every power; on Nebuchadnezzar's lips here and in 4:2.
+→ servants of the Most High God :: Genesis 14:18–22; Numbers 24:16; Psalm 91:1
+27  And the satraps, the deputies, and the governors, and the king’s counselors, being gathered together, saw these men, that the fire had no power upon their bodies, nor was the hair of their head singed, neither were their trousers changed, nor had the smell of fire passed on them.
+28  Nebuchadnezzar spoke and said, “Blessed be the God of Shadrach, Meshach, and Abed-nego, who has sent His angel, and delivered His servants that trusted in Him, and have changed the king’s word, and have yielded their bodies, that they might not serve nor worship any god, except their own God.[br]
+→ Blessed be the God of Shadrach, Meshach, and Abed-nego :: Daniel 2:20; Genesis 14:20; Exodus 18:10–11
+→ sent His angel, and delivered His servants :: Psalm 34:7; Daniel 6:22
+→ trusted in Him :: Psalm 22:4–5; Isaiah 26:3
+29  Therefore I make a decree, that every people, nation, and language, which speak anything wrong against the God of Shadrach, Meshach, and Abed-nego, shall be cut in pieces, and their houses shall be made a dunghill; because there is no other god that is able to deliver in this way.”[br]
+→ no other god that is able to deliver :: Isaiah 45:21; Deuteronomy 4:35
+30  Then the king promoted Shadrach, Meshach, and Abed-nego in the province of Babylon.

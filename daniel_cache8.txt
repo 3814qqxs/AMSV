@@ -1,0 +1,187 @@
+# daniel_cache8 — Daniel 8 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–7 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none needed. All references use English versification. The text returns to Hebrew at 8:1.
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+None applied automatically in ch.8. The one God-referent pronoun cluster (v.11, "from him…his sanctuary") depends on the title "prince of the host" and is a Tier 2 item in B. The angel's and Gabriel's pronouns (vv.15–26) are lowercase.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 8:13, 8:14, 8:16, 8:17, 8:19–26 | unquoted direct speech | curly quotes (R9): the holy one's question 13; the answer 14; the voice 16; Gabriel 17; Gabriel's explanation 19–26 (one speech) | — | **00087** |
+| 8:7 | smote the ram | struck the ram | *vayyakh* | **00008** (00094 "smote in military defeat→struck down" is the same Hebrew *nakah*; "struck" kept since the goat does more than defeat) |
+| 8:9 | grew exceeding great | grew exceedingly great | *vayyigdal yeter* | **00145** |
+| 8:23 | are come to the full | have reached their full measure | *kehattem* | **00190** (are come→have come) |
+| 8:26 | shut you up the vision | shut up the vision | *setom* | R2 fallout, cf. **00104.4** |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 8:5, 8:8 | 1b | notable horn / four notable horns | conspicuous horn / four conspicuous horns | *qeren chazut* ("a horn that is seen") — "notable" in its older "noticeable" sense | none |
+| 8:11 | **2** | the prince of the host; it took away from him…the place of his sanctuary | the Prince of the host; it took away from Him…the place of His sanctuary | *sar ha-tseva* (cf. Joshua 5:14–15: *sar tseva YHWH*); title capitalized as a divine title, R1.1 pronouns follow. The Hebrew *mimmenu* ("from him") grammatically could also refer back to the little horn's victim as a whole; your decision | **00086** / **00069** (context-dependent) |
+| 8:25 | **2** | the prince of princes | the Prince of princes | *sar sarim* — divine title (cf. 8:11) | none (new) |
+| 8:12 | **2** | the host was given over to it together with the continual burnt-offering through transgression | **no change proposed — flag.** A known crux (*ve-tsava tinnaten 'al ha-tamid be-fasha'*): who gave, and whether "through transgression" belongs to the host or the offering is disputed. Retained | *be-fasha'* | none |
+| 8:12 | 1b | it did its pleasure and prospered | it did as it pleased and prospered | *ve-'asta* | none (recurs 8:24, 11:3, 11:16, 11:36) |
+| 8:14 | **2** | shall the sanctuary be cleansed | **no change proposed — note only.** *nitsdaq* is from *ts-d-q* ("be set right, vindicated"), not the usual cleansing verb *taher*. Retained; note in C | *nitsdaq* | none |
+| 8:17 | 1b | I was affrighted | I was terrified | *ni'attiti* | 00014.1 (sore afraid→terrified) is a different lemma; none |
+| 8:21 | 1b | the rough he-goat | the shaggy he-goat | *sa'ir* ("hairy"; Genesis 27:11) | none |
+| 8:23 | **2** | understanding dark sentences | understanding riddles | *mevin chidot* (Numbers 12:8; Psalm 78:2; Proverbs 1:6) | none (as 5:12) |
+| 8:24 | 1b | he shall destroy wonderfully | he shall destroy astonishingly | *niflaot yashchit* — "wonderfully" now reads positively | none |
+| 8:24 | 1b | do his pleasure | do as he pleases | *ve-'asah* | none |
+| 8:25 | 1b | cause craft to prosper | cause deceit to prosper | *mirmah* | none |
+| 8:27 | 1b | was sick certain days | was sick for some days | *yamim* | none |
+| 8:27 | 1b | I wondered at the vision | I was astonished at the vision | *vaeshtomem* (cf. 4:19) — "wondered" now means "pondered" | none |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 8:1 | → | In the third year of the reign of king Belshazzar | Daniel 7:1 | (2) thematic application |
+| 8:2 | → | Shushan the palace | Nehemiah 1:1; Esther 1:2 | (2) thematic application |
+| 8:2 | → | the province of Elam | Isaiah 21:2; Jeremiah 49:34–39 | (2) thematic application |
+| 8:2 | » | the river Ulai | *'ubal Ulai* — *'ubal* is a watercourse or canal; the "banks of the Ulai" in v.16. | n/a (form) |
+| 8:8 | → | toward the four winds of heaven | Daniel 11:4; Zechariah 2:6 | (2) thematic application |
+| 8:9 | → | the glorious land | Jeremiah 3:19; Ezekiel 20:6, 20:15; Daniel 11:16, 11:41, 11:45 | (4) summary of many |
+| 8:9 | » | the glorious land | *ha-tsevi* ("the beauty, the glory"; also "gazelle") — a title of the land in Ezekiel 20:6, 20:15 and Jeremiah 3:19. | n/a (form) |
+| 8:10 | → | some of the host and of the stars it cast down to the ground | Isaiah 14:12–13; Genesis 15:5; 22:17; Daniel 12:3 | (2) thematic application |
+| 8:11 | → | the Prince of the host | Joshua 5:14–15 | (3) single-point borrowing |
+| 8:11 | » | the Prince of the host | *sar ha-tseva* — "commander of the host"; cf. *sar tseva YHWH* ("commander of YHWH's host," Joshua 5:14–15). | n/a (form) |
+| 8:11 | → | the continual burnt-offering | Exodus 29:38–42; Numbers 28:3–8; Daniel 9:27; 11:31; 12:11 | (4) summary of many |
+| 8:12 | → | it cast down truth to the ground | Isaiah 59:14–15 | (3) single-point borrowing |
+| 8:13 | → | How long shall be the vision | Psalm 74:9–10; Isaiah 6:11; Daniel 12:6 | (2) thematic application |
+| 8:13 | → | the transgression that makes desolate | Daniel 9:27; 11:31; 12:11 | (4) summary of many |
+| 8:13 | → | trodden under foot | Isaiah 63:18; Psalm 79:1 | (2) thematic application |
+| 8:13 | » | that certain one | *palmoni* — "a certain one" (cf. *peloni almoni*, "so-and-so," Ruth 4:1); some read "the numberer." A hapax in the Tanakh. | n/a (form) |
+| 8:14 | → | evenings and mornings | Genesis 1:5 | (3) single-point borrowing |
+| 8:14 | » | evenings and mornings | *'erev boqer* — "evening-morning," the formula for a day in Genesis 1:5, 1:8, 1:13. | n/a (form) |
+| 8:14 | » | shall the sanctuary be cleansed | *nitsdaq* (root *ts-d-q*, "be set right, vindicated"; the root of "righteous"). | n/a (form) |
+| 8:14 | → | shall the sanctuary be cleansed | 2 Chronicles 29:15–18; Daniel 9:24 | (2) thematic application |
+| 8:15 | → | the appearance of a man | Ezekiel 1:26; Daniel 10:5, 10:16, 10:18 | (2) thematic application |
+| 8:16 | → | Gabriel | Daniel 9:21; Luke 1:19, 1:26 | (3) single-point borrowing |
+| 8:16 | » | Gabriel | *Gavri'el* — "God is my strong man" (*gever* + *El*); the first angelic name in the Tanakh (also 9:21). | n/a (form) |
+| 8:16 | → | between the banks of the Ulai | Daniel 12:6–7; 10:5 | (2) thematic application |
+| 8:17 | → | O son of man | Ezekiel 2:1; 3:1 | (3) single-point borrowing |
+| 8:17 | → | the vision belongs to the time of the end | Habakkuk 2:3; Daniel 11:35; 12:4, 12:9 | (2) thematic application |
+| 8:18 | → | I fell into a deep sleep | Genesis 2:21; 15:12 | (2) thematic application |
+| 8:18 | → | he touched me, and set me upright | Ezekiel 2:2; Daniel 10:10 | (2) thematic application |
+| 8:19 | → | the latter time of the indignation | Isaiah 26:20; 10:25 | (2) thematic application |
+| 8:21 | » | Greece | *Yavan* ("Javan") — the son of Japheth in Genesis 10:2, 10:4; the Hebrew name for Greece (Isaiah 66:19; Ezekiel 27:13; Zechariah 9:13). | n/a (form) |
+| 8:23 | → | when the transgressors have reached their full measure | Genesis 15:16 | (3) single-point borrowing |
+| 8:23 | → | a king of fierce countenance | Deuteronomy 28:50 (*'az panim*, said of a nation) | (1) direct verbatim |
+| 8:23 | → | understanding riddles | Numbers 12:8; Proverbs 1:6 | (2) thematic application |
+| 8:24 | → | the mighty ones and the holy people | Daniel 7:21; 12:7; Exodus 19:6; Deuteronomy 7:6 | (4) summary of many |
+| 8:25 | → | he shall magnify himself in his heart | Daniel 11:36 | (2) thematic application |
+| 8:25 | → | broken without hand | Daniel 2:34, 2:45; Job 34:20; Lamentations 4:6 | (3) single-point borrowing |
+| 8:25 | » | Prince of princes | *sar sarim* — the highest commander; cf. *sar ha-tseva* (v.11) and Deuteronomy 10:17 ("God of gods and Lord of lords"). | n/a (form) |
+| 8:26 | → | shut up the vision | Daniel 12:4, 12:9; Isaiah 8:16; 29:11 | (2) thematic application |
+| 8:27 | → | I, Daniel, fainted | Habakkuk 3:16; Daniel 7:28; 10:8 | (2) thematic application |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "touched not the ground" (8:5), "shut up" is the only fix at 8:26.
+- 8:4 "magnified himself" (*higdil*, "grew great"), 8:8, 8:11, 8:25: retained.
+- 8:7 "moved with anger" (*mitmarmar*): retained.
+- 8:9 "the glorious land": retained (see the » note; "beautiful" would follow 00055, but *ha-tsevi* is a title, not an adjective).
+- 8:13 "a holy one…another holy one" (*qadosh*): retained; no "saint".
+- 8:13 "to be trodden under foot": retained.
+- 8:20, 8:21 "Media and Persia", "Greece": place names kept (§6), with the *Yavan* note.
+- 8:22 "stand up out of the nation": retained.
+- 8:24 "not by his own power": retained.
+- 8:27 "did the king's business": retained.
+- R8 lineation: none in ch.8.
+- R9: Gabriel's speech (19–26) is one layer; no nested quotation.
+
+## Pacing check (markup)
+
+New `---` before v.1, v.15 (Gabriel appears), v.27 (aftermath). `>>>` paragraph breaks before v.3 (the vision proper) and v.20 (the interpretation). `[br]` on direction lists (vv.4, 9) and at speech line-ends. No `[br]` before a break marker.
+
+## Flags outside chapter 8 (no action taken)
+
+- "did his pleasure" recurs 11:3, 11:16, 11:36; "dark sentences" none elsewhere in Daniel after 5:12; "wonderfully" none.
+- "prince of the host" / "prince of princes" are the only divine "prince" titles; 10:13, 10:20–21, 12:1 name angelic "princes" (lowercase, not proposed).
+- "holy people" (8:24, 12:7) kept; the 7:18 "saints" decision is separate.
+
+## E. Full proposed chapter text (Daniel 8)
+
+## Daniel 8
+
+---
+1  In the third year of the reign of king Belshazzar a vision appeared to me, even to me, Daniel, after that which appeared to me at the first.
+→ In the third year of the reign of king Belshazzar :: Daniel 7:1
+2  And I saw in the vision; now it was so, that when I saw, I was in Shushan the palace, which is in the province of Elam; and I saw in the vision, and I was by the river Ulai.
+→ Shushan the palace :: Nehemiah 1:1; Esther 1:2
+→ the province of Elam :: Isaiah 21:2; Jeremiah 49:34–39
+» the river Ulai :: *'ubal Ulai* — *'ubal* is a watercourse or canal; the "banks of the Ulai" in v.16.
+>>>
+3  Then I lifted up my eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.
+4  I saw the ram pushing westward,[br] and northward,[br] and southward; and no beasts could stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and magnified himself.
+5  And as I was considering, behold, a he-goat came from the west over the face of the whole earth, and touched not the ground: and the goat had a conspicuous horn between his eyes.
+6  And he came to the ram that had the two horns, which I saw standing before the river, and ran upon him in the fury of his power.
+7  And I saw him come close to the ram, and he was moved with anger against him, and struck the ram, and broke his two horns; and there was no power in the ram to stand before him; but he cast him down to the ground, and trampled upon him; and there was none that could deliver the ram out of his hand.
+8  And the he-goat magnified himself exceedingly: and when he was strong, the great horn was broken; and instead of it there came up four conspicuous horns toward the four winds of heaven.
+→ toward the four winds of heaven :: Daniel 11:4; Zechariah 2:6
+9  And out of one of them came forth a little horn, which grew exceedingly great, toward the south,[br] and toward the east,[br] and toward the glorious land.
+→ the glorious land :: Jeremiah 3:19; Ezekiel 20:6; Ezekiel 20:15; Daniel 11:16; Daniel 11:41; Daniel 11:45
+» the glorious land :: *ha-tsevi* ("the beauty, the glory"; also "gazelle") — a title of the land in Ezekiel 20:6, 20:15 and Jeremiah 3:19.
+10  And it grew great, even to the host of heaven; and some of the host and of the stars it cast down to the ground, and trampled upon them.
+→ some of the host and of the stars it cast down to the ground :: Isaiah 14:12–13; Genesis 15:5; Genesis 22:17; Daniel 12:3
+11  Indeed, it magnified itself, even to the Prince of the host; and it took away from Him the continual burnt-offering, and the place of His sanctuary was cast down.
+→ the Prince of the host :: Joshua 5:14–15
+» the Prince of the host :: *sar ha-tseva* — "commander of the host"; cf. *sar tseva YHWH* ("commander of YHWH's host," Joshua 5:14–15).
+→ the continual burnt-offering :: Exodus 29:38–42; Numbers 28:3–8; Daniel 9:27; Daniel 11:31; Daniel 12:11
+12  And the host was given over to it together with the continual burnt-offering through transgression; and it cast down truth to the ground, and it did as it pleased and prospered.
+→ it cast down truth to the ground :: Isaiah 59:14–15
+13  Then I heard a holy one speaking; and another holy one said to that certain one who spoke, “How long shall be the vision concerning the continual burnt-offering, and the transgression that makes desolate, to give both the sanctuary and the host to be trodden under foot?”
+→ How long shall be the vision :: Psalm 74:9–10; Isaiah 6:11; Daniel 12:6
+→ the transgression that makes desolate :: Daniel 9:27; Daniel 11:31; Daniel 12:11
+→ trodden under foot :: Isaiah 63:18; Psalm 79:1
+» that certain one :: *palmoni* — "a certain one" (cf. *peloni almoni*, "so-and-so," Ruth 4:1); some read "the numberer." A hapax in the Tanakh.
+14  And he said to me, “To two thousand and three hundred evenings and mornings; then shall the sanctuary be cleansed.”
+→ evenings and mornings :: Genesis 1:5
+» evenings and mornings :: *'erev boqer* — "evening-morning," the formula for a day in Genesis 1:5, 1:8, 1:13.
+» shall the sanctuary be cleansed :: *nitsdaq* (root *ts-d-q*, "be set right, vindicated"; the root of "righteous").
+→ shall the sanctuary be cleansed :: 2 Chronicles 29:15–18; Daniel 9:24
+---
+15  And it happened, when I, even I Daniel, had seen the vision, that I sought to understand it; and, behold, there stood before me as the appearance of a man.
+→ the appearance of a man :: Ezekiel 1:26; Daniel 10:5; Daniel 10:16; Daniel 10:18
+16  And I heard a man’s voice between the banks of the Ulai, which called, and said, “Gabriel, make this man to understand the vision.”
+→ Gabriel :: Daniel 9:21; Luke 1:19; Luke 1:26
+» Gabriel :: *Gavri'el* — "God is my strong man" (*gever* + *El*); the first angelic name in the Tanakh (also 9:21).
+→ between the banks of the Ulai :: Daniel 12:6–7; Daniel 10:5
+17  So he came near where I stood; and when he came, I was terrified, and fell upon my face: but he said to me, “Understand, O son of man; for the vision belongs to the time of the end.”
+→ O son of man :: Ezekiel 2:1; Ezekiel 3:1
+→ the vision belongs to the time of the end :: Habakkuk 2:3; Daniel 11:35; Daniel 12:4; Daniel 12:9
+18  Now as he was speaking with me, I fell into a deep sleep with my face toward the ground; but he touched me, and set me upright.
+→ I fell into a deep sleep :: Genesis 2:21; Genesis 15:12
+→ he touched me, and set me upright :: Ezekiel 2:2; Daniel 10:10
+>>>
+19  And he said, “Behold, I will make you know what shall be in the latter time of the indignation; for it belongs to the appointed time of the end.[br]
+→ the latter time of the indignation :: Isaiah 26:20; Isaiah 10:25
+20  The ram which you saw, that had the two horns, they are the kings of Media and Persia.[br]
+21  And the shaggy he-goat is the king of Greece: and the great horn that is between his eyes is the first king.[br]
+» Greece :: *Yavan* ("Javan") — the son of Japheth in Genesis 10:2, 10:4; the Hebrew name for Greece (Isaiah 66:19; Ezekiel 27:13; Zechariah 9:13).
+22  And as for that which was broken, in the place of which four stood up, four kingdoms shall stand up out of the nation, but not with his power.[br]
+23  And in the latter time of their kingdom, when the transgressors have reached their full measure, a king of fierce countenance, and understanding riddles, shall stand up.[br]
+→ when the transgressors have reached their full measure :: Genesis 15:16
+→ a king of fierce countenance :: Deuteronomy 28:50
+→ understanding riddles :: Numbers 12:8; Proverbs 1:6
+24  And his power shall be mighty, but not by his own power; and he shall destroy astonishingly, and shall prosper and do as he pleases; and he shall destroy the mighty ones and the holy people.[br]
+→ the mighty ones and the holy people :: Daniel 7:21; Daniel 12:7; Exodus 19:6; Deuteronomy 7:6
+25  And through his policy he shall cause deceit to prosper in his hand; and he shall magnify himself in his heart, and in their security shall he destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.[br]
+→ he shall magnify himself in his heart :: Daniel 11:36
+→ broken without hand :: Daniel 2:34; Daniel 2:45; Job 34:20; Lamentations 4:6
+» Prince of princes :: *sar sarim* — the highest commander; cf. *sar ha-tseva* (v.11) and Deuteronomy 10:17 ("God of gods and Lord of lords").
+26  And the vision of the evenings and mornings which has been told is true: but shut up the vision; for it belongs to many days to come.”
+→ shut up the vision :: Daniel 12:4; Daniel 12:9; Isaiah 8:16; Isaiah 29:11
+---
+27  And I, Daniel, fainted, and was sick for some days; then I rose up, and did the king’s business: and I was astonished at the vision, but none understood it.
+→ I, Daniel, fainted :: Habakkuk 3:16; Daniel 7:28; Daniel 10:8

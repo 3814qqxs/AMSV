@@ -1,0 +1,166 @@
+# daniel_cache6 — Daniel 6 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/daniel.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to daniel.md and logs rows.
+
+Note: caches 1–5 are pending; nothing here assumes their outcomes except where marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources: none needed. All references use English versification (English 6:1 is 6:2 in the Hebrew Bible; English 6:28 is 6:29).
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 6:16 | he will deliver you | He will deliver you | Darius speaking of Daniel's God |
+| 6:22 | has sent his angel…before him innocency | has sent His angel…before Him innocence | Daniel speaking |
+| 6:26 | for he is the living God…And his kingdom…his dominion | for He is the living God…and His kingdom…His dominion | also lowercases the stray capital "And" (see A2) |
+| 6:27 | He delivers and rescues, and he works signs | He delivers and rescues, and He works signs | |
+| 6:5, 6:10, 6:11, 6:23 | his God | (lowercase kept) | "his" = Daniel, not God |
+| 6:20 | your God | (lowercase kept) | "your" = Daniel |
+
+Precedent: R1.1; 00086.
+
+### A2. Other Tier 1
+
+| v. | Original | Proposed | Original language | Precedent |
+|---|---|---|---|---|
+| 6:5, 6:6–8, 6:12 (×2), 6:13, 6:15, 6:16, 6:20, 6:21–22 | unquoted direct speech | curly quotes (R9); the conspirators 6–8 (one speech); the king 16; Daniel 21–22. Darius's written decree 25–27 not quoted (see D) | — | **00087** |
+| 6:26 | steadfast for ever, And his kingdom | steadfast for ever, and His kingdom | — | stray capital left by the ASV's poetic layout; mechanical fix |
+| 6:7 | counsellors | counselors | — | **00089** (spelling) |
+| 6:23 | no manner of hurt | no kind of hurt | *kol chabal* | **00153** (all manner of→every kind of) |
+| 6:23 | exceeding glad | exceedingly glad | *seggi* | **00145** |
+| 6:4 | as touching the kingdom | concerning the kingdom | — | **00125** (touching→concerning) |
+| 6:27 | in heaven and in earth | in heaven and on earth | — | idiom modernization, none |
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 6:2 | 1b | should have no damage | should suffer no loss | *nezeq* (loss; Ezra 4:13, 4:15, 4:22) | none |
+| 6:3 | 1b | an excellent spirit | an extraordinary spirit | *yattirah* | none (as 2:31, 4:36, 5:12) |
+| 6:3 | 1b | the king thought to set him | the king planned to set him | *'asshit* ("intended") | none (recurs 7:25 "think to change") |
+| 6:4, 6:5 | 1b | occasion / no occasion | grounds for complaint / no ground for complaint | *'illah* (pretext, ground of charge) | none |
+| 6:5 | 1b | except we find it | unless we find it | conjunction | none |
+| 6:5 | **2** | the law of his God | the Torah of his God | *dat Elaheh* — here the Torah-regime of Daniel's faith. *dat* is the Aramaic word for "decree" elsewhere (2:9, 2:13, 6:8, 6:12, 6:15, where "law" stays) | **00065** (Torah where Mosaic instruction is meant) |
+| 6:7, 6:8 (×2), 6:9, 6:12 (×2), 6:13, 6:15 | 1b | interdict | prohibition | *'esar* (cognate of Hebrew *issar*, "binding pledge," Numbers 30:2–14) — "interdict" is an ecclesiastical term | none |
+| 6:10 | **2** | in his chamber | in his upper room | *'illiyeh* (cf. Hebrew *'aliyyah*, 2 Kings 4:10) | none |
+| 6:10 | 1b | as he did aforetime | as he had done previously | *min qadmat denah* | none |
+| 6:13 | 1b | regards not you | pays no attention to you | *lo sam 'alayik te'em* (as 3:12) | none |
+| 6:14 | 1b | was sore displeased | was greatly displeased | *seggi be'esh 'alohi* | 00093.1 (sore afraid→greatly afraid) is a different lemma; none |
+| 6:20 | 1b | a lamentable voice | a voice of anguish | *qal 'atsiv* | none |
+| 6:22 | 1b | innocency | innocence | *zakhu* | none |
+| 6:24 | 1b | the lions had the mastery of them | the lions overpowered them | *shelitu bhon* | none |
+| 6:7 | — | save of you | **no change** — retained | *min-qodamekh* | **00142** (save = except, kept) |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 6:1 | → | a hundred and twenty satraps | Esther 1:1; 8:9 | (2) thematic application |
+| 6:3 | → | an extraordinary spirit was in him | Genesis 41:38; Exodus 31:3 | (2) thematic application |
+| 6:4 | → | since he was faithful | Nehemiah 7:2; Numbers 12:7 (*ne'eman*) | (3) single-point borrowing |
+| 6:7 | → | the den of lions | Psalm 22:13, 22:21; Psalm 57:4 | (2) thematic application |
+| 6:8 | → | according to the law of the Medes and Persians, which alters not | Esther 1:19; Esther 8:8 | (2) thematic application |
+| 6:10 | → | toward Jerusalem | 1 Kings 8:46–50; Psalm 5:7; Jonah 2:4 | (2) thematic application |
+| 6:10 | → | three times a day | Psalm 55:17 | (3) single-point borrowing |
+| 6:10 | » | his upper room | *'illiyeh* — the upper room, as Hebrew *'aliyyah* (2 Kings 4:10; Jeremiah 22:13). | n/a (form) |
+| 6:17 | → | a stone was brought, and laid upon the mouth of the den | Lamentations 3:53; Joshua 10:18; Matthew 27:66 | (2) thematic application |
+| 6:18 | → | his sleep fled from him | Esther 6:1; Daniel 2:1 | (3) single-point borrowing |
+| 6:20 | → | servant of the living God | Joshua 3:10; Psalm 42:2; Jeremiah 10:10; 2 Kings 19:4 | (2) thematic application |
+| 6:20 | » | the living God | *Elaha chayya* — the God who lives and acts, set against idols that "see not, nor hear" (5:23); cf. Jeremiah 10:10; Deuteronomy 5:26. | n/a (form) |
+| 6:22 | → | has shut the lions’ mouths | Psalm 91:11–13; Daniel 3:28; Hebrews 11:33 | (2) thematic application |
+| 6:23 | → | he had trusted in his God | Psalm 37:40; Daniel 3:28 | (2) thematic application |
+| 6:24 | » | had accused | *akhalu qarsohi* (lit. "ate his pieces") — the idiom of 3:8. | n/a (form) |
+| 6:24 | → | the lions overpowered them | Esther 9:1; Esther 7:10; Psalm 7:15–16; Proverbs 26:27 | (2) thematic application |
+| 6:24 | → | them, their children, and their wives | Deuteronomy 24:16 (a Torah standard that sets the Persian practice in contrast); Esther 9:13–14; Numbers 16:27–33 | (2) thematic application |
+| 6:25 | → | Peace be multiplied to you | Daniel 4:1; Ezra 5:7 | (2) thematic application |
+| 6:26 | → | men tremble and fear before the God of Daniel | Psalm 99:1; Jeremiah 10:7 | (2) thematic application |
+| 6:26 | → | His kingdom that which shall not be destroyed | Daniel 2:44; 4:3; 7:14, 7:27 | (4) summary of many |
+| 6:27 | → | He works signs and wonders in heaven and on earth | Daniel 4:2–3; Exodus 7:3 | (2) thematic application |
+| 6:27 | → | from the power of the lions | 1 Samuel 17:37; Psalm 22:20–21 | (2) thematic application |
+| 6:27 | » | from the power of the lions | *min yad arayavata* — "from the hand of the lions"; cf. 1 Samuel 17:37. | n/a (form) |
+| 6:28 | → | the reign of Cyrus the Persian | Daniel 1:21; 10:1; Ezra 1:1 | (2) thematic application |
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "which alters not" (6:8, 6:12), "that it be not changed" (6:8), "have I done no hurt" (6:22), "Then answered they" (6:13), "Then said these men" (6:5). Same as the Matthew caches.
+- **Policy — Darius's decree (6:25–27)** is a written proclamation and is not wrapped in quotes, the same as Nebuchadnezzar's in ch.4. Your call; if you want it quoted, the three verses would be one quotation.
+- 6:6, 6:11, 6:15 "assembled together": *hargishu* (came in concert, perhaps tumultuously); retained.
+- 6:7 "statute" (*qeyam*), "strong" (*taqqef*): retained.
+- 6:18 "instruments of music" (*dachavan*): a hapax; the meaning is uncertain (food, entertainers, diversions). Retained; no cross-reference possible.
+- 6:25 "Peace be multiplied": retained, parallel to 4:1.
+- 6:8, 6:12, 6:15 "law of the Medes and Persians": civil sense; "law" kept (**00065** retains law for civil use).
+- R8 lineation: 6:26–27 are doxological; the ASV's printed cola are not preserved in the working file, so none are proposed. Not touched.
+
+## Pacing check (markup)
+
+New `---` before v.1, v.10 (Daniel's house), v.16 (the den), v.19 (morning), v.25 (the decree). `>>>` before v.4 (the conspiracy). `[br]` on the officials list (v.7) and at speech line-ends. No `[br]` before a break marker.
+
+## Flags outside chapter 6 (no action taken)
+
+- "interdict", "occasion" recur nowhere else; "excellent" (*yattir*) none after this chapter; "law" (*dat*) at 7:25 is the next candidate for a Torah decision (not proposed: a different construction).
+- "aforetime" none elsewhere; "save" kept (**00142**).
+
+## E. Full proposed chapter text (Daniel 6)
+
+## Daniel 6
+
+---
+1  It pleased Darius to set over the kingdom a hundred and twenty satraps, who should be throughout the whole kingdom;
+→ a hundred and twenty satraps :: Esther 1:1; Esther 8:9
+2  and over them three presidents, of whom Daniel was one; that these satraps might give account to them, and that the king should suffer no loss.
+3  Then this Daniel was distinguished above the presidents and the satraps, because an extraordinary spirit was in him; and the king planned to set him over the whole realm.
+→ an extraordinary spirit was in him :: Genesis 41:38; Exodus 31:3
+>>>
+4  Then the presidents and the satraps sought to find grounds for complaint against Daniel concerning the kingdom; but they could find no ground for complaint nor fault, since he was faithful, neither was there any error or fault found in him.
+→ since he was faithful :: Nehemiah 7:2; Numbers 12:7
+5  Then said these men, “We shall not find any grounds for complaint against this Daniel, unless we find it against him concerning the Torah of his God.”[br]
+6  Then these presidents and satraps assembled together to the king, and said thus to him, “King Darius, live for ever.[br]
+7  All the presidents of the kingdom, the deputies and the satraps,[br] the counselors and the governors, have consulted together to establish a royal statute, and to make a strong prohibition, that whoever shall ask a petition of any god or man for thirty days, save of you, O king, he shall be cast into the den of lions.[br]
+→ the den of lions :: Psalm 22:13; Psalm 22:21; Psalm 57:4
+8  Now, O king, establish the prohibition, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which alters not.”[br]
+→ according to the law of the Medes and Persians, which alters not :: Esther 1:19; Esther 8:8
+9  Therefore king Darius signed the writing and the prohibition.
+---
+10  And when Daniel knew that the writing was signed, he went into his house (now his windows were open in his upper room toward Jerusalem); and he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he had done previously.
+→ toward Jerusalem :: 1 Kings 8:46–50; Psalm 5:7; Jonah 2:4
+→ three times a day :: Psalm 55:17
+» his upper room :: *'illiyeh* — the upper room, as Hebrew *'aliyyah* (2 Kings 4:10; Jeremiah 22:13).
+11  Then these men assembled together, and found Daniel making petition and supplication before his God.
+12  Then they came near, and spoke before the king concerning the king’s prohibition, “Have you not signed a prohibition, that every man that shall make petition to any god or man within thirty days, save to you, O king, shall be cast into the den of lions?” The king answered and said, “The thing is true, according to the law of the Medes and Persians, which alters not.”[br]
+13  Then answered they and said before the king, “That Daniel, who is of the children of the captivity of Judah, pays no attention to you, O king, nor the prohibition that you have signed, but makes his petition three times a day.”[br]
+14  Then the king, when he heard these words, was greatly displeased, and set his heart on Daniel to deliver him; and he labored till the going down of the sun to rescue him.
+15  Then these men assembled together to the king, and said to the king, “Know, O king, that it is a law of the Medes and Persians, that no prohibition nor statute which the king establishes may be changed.”
+---
+16  Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spoke and said to Daniel, “Your God whom you serve continually, He will deliver you.”[br]
+17  And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that nothing might be changed concerning Daniel.
+→ a stone was brought, and laid upon the mouth of the den :: Lamentations 3:53; Joshua 10:18; Matthew 27:66
+18  Then the king went to his palace, and passed the night fasting; neither were instruments of music brought before him: and his sleep fled from him.
+→ his sleep fled from him :: Esther 6:1; Daniel 2:1
+---
+19  Then the king arose very early in the morning, and went in haste to the den of lions.
+20  And when he came near to the den to Daniel, he cried out in a voice of anguish; the king spoke and said to Daniel, “O Daniel, servant of the living God, is your God, whom you serve continually, able to deliver you from the lions?”[br]
+→ servant of the living God :: Joshua 3:10; Psalm 42:2; Jeremiah 10:10; 2 Kings 19:4
+» the living God :: *Elaha chayya* — the God who lives and acts, set against idols that "see not, nor hear" (5:23); cf. Jeremiah 10:10; Deuteronomy 5:26.
+21  Then said Daniel to the king, “O king, live for ever.[br]
+22  My God has sent His angel, and has shut the lions’ mouths, and they have not hurt me; since before Him innocence was found in me; and also before you, O king, have I done no hurt.”[br]
+→ has shut the lions’ mouths :: Psalm 91:11–13; Daniel 3:28; Hebrews 11:33
+23  Then was the king exceedingly glad, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no kind of hurt was found upon him, because he had trusted in his God.
+→ he had trusted in his God :: Psalm 37:40; Daniel 3:28
+24  And the king commanded, and they brought those men that had accused Daniel, and they cast them into the den of lions, them, their children, and their wives; and the lions overpowered them, and broke all their bones in pieces, before they came to the bottom of the den.
+» had accused :: *akhalu qarsohi* (lit. "ate his pieces") — the idiom of 3:8.
+→ the lions overpowered them :: Esther 9:1; Esther 7:10; Psalm 7:15–16; Proverbs 26:27
+→ them, their children, and their wives :: Deuteronomy 24:16; Esther 9:13–14; Numbers 16:27–33
+---
+25  Then king Darius wrote to all the peoples, nations, and languages, that dwell in all the earth: Peace be multiplied to you.
+→ Peace be multiplied to you :: Daniel 4:1; Ezra 5:7
+26  I make a decree, that in all the dominion of my kingdom men tremble and fear before the God of Daniel; for He is the living God, and steadfast for ever, and His kingdom that which shall not be destroyed; and His dominion shall be even to the end.
+→ men tremble and fear before the God of Daniel :: Psalm 99:1; Jeremiah 10:7
+→ His kingdom that which shall not be destroyed :: Daniel 2:44; Daniel 4:3; Daniel 7:14; Daniel 7:27
+27  He delivers and rescues, and He works signs and wonders in heaven and on earth, who has delivered Daniel from the power of the lions.
+→ He works signs and wonders in heaven and on earth :: Daniel 4:2–3; Exodus 7:3
+→ from the power of the lions :: 1 Samuel 17:37; Psalm 22:20–21
+» from the power of the lions :: *min yad arayavata* — "from the hand of the lions"; cf. 1 Samuel 17:37.
+28  So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.
+→ the reign of Cyrus the Persian :: Daniel 1:21; Daniel 10:1; Ezra 1:1

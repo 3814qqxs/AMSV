@@ -1,0 +1,187 @@
+# translation_cache14 — Matthew 14 (review pass 1)
+
+Status: ALL items below are PROPOSED. Nothing has been applied to docs/bible/matthew.md or logged in PROJECT_HISTORY.md. Edit this file (change a "Proposed" cell, delete a row, or edit the chapter text in Section E); the assistant then applies the approved result to matthew.md and logs rows.
+
+Note: caches for ch.4–6, 8, 10–13 are pending; ch.7 and 9 have no cache. Nothing here assumes their outcomes; mirror items are marked. Focus of this pass: scriptural cross-references (Section C). Non-biblical sources are cited only where they bear directly (none needed this chapter).
+
+## A. Tier 1 — mechanical
+
+### A1. R1.1 divine-pronoun capitalization
+
+Chapter 14 has had no R1.1 pass (00086: ch.14+ unchecked). Yeshua's pronouns capitalized. Herod, John, Peter, Herodias, disciples-of-John pronouns stay lowercase (14:2 "in him," 14:3–12, 14:30 "he saw/he was afraid/he cried," 14:31 "took hold of him / says to him").
+
+| v. | Original | Proposed | Notes |
+|---|---|---|---|
+| 14:13 | he withdrew…followed him | He withdrew…followed Him | |
+| 14:14 | And he came forth…he had compassion | And He came forth…He had compassion | |
+| 14:15 | came to him | came to Him | |
+| 14:17 | say to him | say to Him | |
+| 14:18 | he said…to me | He said…to Me | |
+| 14:19 | he commanded…he took…he blessed | He commanded…He took…He blessed | anchor of existing » note changes (see C) |
+| 14:22 | he constrained…before him…he should send | He constrained…before Him…He should send | wording also in B |
+| 14:23 | he had sent…he went up…he was there alone | He had sent…He went up…He was there alone | |
+| 14:25 | he came | He came | |
+| 14:26 | saw him | saw Him | |
+| 14:28 | answered him…if it be you…come to you | answered Him…if it be You…come to You | addressed You (2026-10-20); wording also in B |
+| 14:29 | And he said | And He said | |
+| 14:31 | his hand | His hand | |
+| 14:33 | worshipped him…you are | worshipped Him…You are | addressed You |
+| 14:35 | knew him…brought to him | knew Him…brought to Him | |
+| 14:36 | besought him…his garment | besought Him…His garment | wording also in B |
+| 14:27 note | applies the divine formula to himself | applies the divine formula to Himself | existing » note text |
+
+Precedent: R1.1 (2026-09-02; addressed-You 2026-10-20); 00086.
+
+### A2. Other Tier 1
+
+None beyond the precedent-based items in B (00013, 00117, 00151, 00190, 00191, 00211 applied there as 1b).
+
+## B. Tier 1b / Tier 2 — wording proposals (all pending your decision)
+
+No PROJECT_HISTORY row exists for any item unless a precedent is cited. Precedent items are still presented for your approval.
+
+| v. | Tier | Original | Proposed | Relevant original language | PROJECT_HISTORY precedent |
+|---|---|---|---|---|---|
+| 14:2 | 1b | do these powers work in him | these powers are at work in him | *energousin hai dynameis en autō* (word order; "do…work" inverted) | none. 00134 flag (cache11) re *dynameis* "powers" remains open — "powers" kept here |
+| 14:2 | **2** | he is risen from the dead | he has been raised from the dead | *autos ēgerthē apo tōn nekrōn* (aorist passive, "was raised"); "is risen" be-perfect | 00190 (be-perfect); none for this verb. Mirrors 27:64, 28:6, 28:7 |
+| 14:5 | 1b | when he would have put him to death | when he wanted to put him to death | *thelōn auton apokteinai*; "would have" = "wished," dead | none (mirrors 14:28-type "will" = wish items, cache13 13:28) |
+| 14:7 | 1b | Upon which he promised…whatever she should ask | So he promised…whatever she asked | *hothen…ho ean aitēsētai*; "upon which" dead, "should ask" archaic subjunctive | none |
+| 14:8 | 1b | being put forward by her mother | prompted by her mother | *probibastheisa* (to push forward, instruct, coach) | none |
+| 14:9 | 1b | them that sat at meat with him | those who reclined at the table with him | *synanakeimenous* | 00013 (reclined at the table); 00151 (relative) |
+| 14:11 | 1b | the young woman | the girl | *korasiō* (diminutive, "little girl") | 00211 |
+| 14:13 | 1b | a desert place | a desolate place | *erēmon topon* | 00117 |
+| 14:15 | 1b | when even was come | when evening had come | *opsias genomenēs* | 00191, 00190 (also 14:23) |
+| 14:15 | 1b | The place is desert | The place is desolate | *erēmos* | 00117 |
+| 14:15 | **2** | the time is already past | the hour has already passed | *hē hōra ēdē parēlthen* — *hōra* = "hour," not generic "time"; be-perfect "is past" | 00190 (be-perfect); none for *hōra* |
+| 14:16 | 1b | give you all them to eat | you all give them something to eat | *dote autois hymeis phagein*; "give you all them" is R2 fallout (ye-imperative inversion); *hymeis* emphatic | 00103/00104 (R2 fallout repairs); none for this construction. Alt: "you give them something to eat" |
+| 14:17, 14:19 | 1b | two fishes | two fish | *duo ichthyas*; plural "fishes" dated | none (mirrors 15:34, 15:36) |
+| 14:20 | 1b | that which remained over of the broken pieces | what was left over of the broken pieces | *to perisseuon tōn klasmatōn*; "remained over" dated | none (mirrors 15:37) |
+| 14:21 | 1b | they that did eat | those who ate | *hoi esthiontes* | 00151 |
+| 14:22 | 1b | constrained…to enter into the boat, and to go before him…till he should send the multitudes away | made…get into the boat and go ahead of Him…until He had sent the multitudes away | *ēnankasen* (compelled; "constrained" now = restricted); *proagein*; *heōs hou apolysē* | none |
+| 14:23 | 1b | when even was come | when evening had come | *opsias genomenēs* | 00191, 00190 |
+| 14:28 | 1b | if it be you, bid me come | if it is You, command me to come | *ei su ei* (indicative — "be" subjunctive is ASV style); *keleuson* ("bid" = command, dead in this sense) | none |
+| 14:30 | 1b | beginning to sink, he cried out | as he began to sink, he cried out | *katapontizesthai* (to be plunged into the depths); participle | none |
+| 14:32 | 1b | when they were gone up into the boat | when they had gone up into the boat | *anabantōn autōn eis to ploion*; be-perfect | 00190 |
+| 14:33 | 1b | they that were in the boat | those who were in the boat | *hoi en tō ploiō* | 00151 |
+| 14:36 | 1b | besought him | begged Him | *parekaloun* | 00001 (parakaleo → begged; Mt. 8:5, 8:31, 8:34) |
+| 14:36 | **2** | the border of his garment | the fringe of His garment | *tou kraspedou tou himatiou* — tassel/corner-fringe | **00208** (recurs at 14:36, 23:5 per ledger) |
+| 14:24 | **2** | the boat was now in the midst of the sea | **no change proposed — textual flag.** Critical text (NA28, from my recollection — verify) reads *ēdē stadious pollous apo tēs gēs apeichen* ("already many stadia from the land"); "in the midst of the sea" is the Byzantine/TR reading. Retained as in base text | — | cf. 00074 |
+| 14:30 | **2** | when he saw the wind | **no change proposed — textual flag.** Some witnesses add *ischyron* ("strong"); bracketed in NA28 (verify). Retained | — | cf. 00074 |
+
+## C. Tier 3 — additive only (cross-references and » notes)
+
+Anchors are verbatim substrings of the Section E text (after proposals). R10 category in the last column. All pending. Ranked within each verse: one strongest tie, others only where independently strong.
+
+| v. | Type | Anchor | Proposed content | R10 category |
+|---|---|---|---|---|
+| 14:3 | → | for the sake of Herodias | 1 Kings 19:1–2 (Jezebel's oath to kill Elijah — the John/Elijah typology the chapter inherits from 11:14, 17:12–13; Herodias plays Jezebel). *Weaker; delete if you prefer.* | (2) thematic application |
+| 14:14 | → | healed their sick | Ezekiel 34:4, 16 (the shepherd who strengthens the sick and binds up the broken). Compassion over a crowd as sheep: cf. Numbers 27:17, already tied at 9:36 | (2) thematic application |
+| 14:15 | → | The place is desolate | Psalm 78:19–20 ("Can God furnish a table in the wilderness?") | (2) thematic application |
+| 14:16 | → | give them something to eat | 2 Kings 4:42–44 (Elisha: "Give to the people, that they may eat"; the servant's objection of too little; leftovers "according to the word of YHWH") | (2) thematic application |
+| 14:19 | → | sit down on the grass | Psalm 23:2 | (2) thematic application |
+| 14:21 | → | about five thousand men, besides women and children | Exodus 12:37 (about 600,000 men on foot "besides children" — the Exodus-wilderness count formula); Numbers 11:21–22 (Moses cannot supply meat for the men in the wilderness) | (3) single-point borrowing (Ex 12:37); (2) thematic application (Num 11) |
+| 14:25 | → | walking upon the sea | Job 9:8 ("treads upon the waves of the sea"); Psalm 77:19 (Heb. 77:20, "Your way was through the sea…your footprints were unseen") | (2) thematic application |
+| 14:27 | → | be not afraid | Isaiah 41:10; 43:1–2 ("Fear not…when you pass through the waters I am with you"; Isa. 43:10 *ani hu* is the "it is I" formula) | (2) thematic application |
+| 14:30 | → | Lord, save me | Psalm 69:1–2 ("Save me, O God, for the waters have come up to my neck…I sink in deep mire") | (2) thematic application |
+| 14:31 | → | stretched forth His hand | Psalm 144:7 ("stretch out Your hand from on high; rescue me and deliver me out of great waters"); Psalm 18:16 (Heb. 18:17, "He took me, He drew me out of many waters") | (2) thematic application |
+| 14:32 | → | the wind ceased | Psalm 107:29 ("He makes the storm a calm, so that the waves are still"); Jonah 1:15 | (2) thematic application |
+| 14:36 | → | the fringe of His garment | Numbers 15:38–39; Malachi 4:2 (*kanaf*, "wings" — the same word as the garment corner in Num. 15:38 — "healing in its wings"). Ties to the existing 9:20 » note | (2) thematic application (Mal. 4:2); Num. 15 already noted at 9:20 |
+
+Existing notes re-checked:
+- 14:4 » (Lev. 18:16, 20:21; Deut. 25:5) — verbatim anchor; Torah citations sound. Kept.
+- 14:6 » (Gen. 40:20) — anchor verbatim; kept.
+- 14:19 » — **anchor must change** with R1.1: "looking up to heaven, he blessed" → "looking up to heaven, He blessed". Reflected in E.
+- 14:27 » (Exod. 3:14 LXX; Job 9:8; Psalm 107:29) — anchor verbatim. **Overlap:** the → ties proposed at 14:25 (Job 9:8) and 14:32 (Psalm 107:29) repeat two of these. Options: (a) leave the » untouched and drop the duplicate citations from the → lines; (b) keep the → lines and trim the » to the *egō eimi* point (Exod. 3:14; Isa. 43:10). Your call. (Tier 3 edits to existing notes need your approval.)
+
+## D. Reviewed — no change proposed
+
+- **Policy — archaic word order, not proposed:** "says" (14:8, 14:31) and "they say" (14:17): historical present, retained as at 4:10. "Be of good cheer" (14:27): kept per 9:2, 9:22. "be not afraid" (14:27): kept with "Fear not" family (1:20, 10:31, 28:5); corpus pattern.
+- "made whole" (14:36): kept per 9:21–22 (precedent applied at ch.9; *diesōthēsan*, "completely healed").
+- "worshipped" (14:33): *prosekynēsan* — kept, as at 2:11, 8:2, 9:18, 15:25; ch.28 note at 28:9 discusses *proskynesis*. Corpus-wide treatment not reopened.
+- 14:1 "At that season": kept, as at 11:25, 12:1. "tetrarch": a title, retained.
+- 14:2 "servants" (*paisin*): kept.
+- 14:3 "laid hold on" (*kratēsas*, "seized"): intelligible; kept.
+- 14:8 "platter" (*pinaki*): living. "Give me here": intelligible; kept.
+- 14:9 "the king": Herod Antipas was tetrarch, Matthew's "king" is loose usage — kept as in Greek (*ho basileus*).
+- 14:9 oaths: Lev. 5:4 and Judges 11:35 (rash vows) considered; not proposed (weak against "one strong insight per verse").
+- 14:19 "sit down" (*anaklithēnai*, "recline"): kept — 00013 targets table-posture "sit at meat"; on grass, "sit down" is adequate. Flag if you'd prefer "recline."
+- 14:21 "besides women and children" (*chōris gynaikōn kai paidiōn*, "apart from"): kept — preserves the verbal echo of Exod. 12:37 "besides children."
+- 14:23 "up into the mountain apart" (*kat' idian*): kept; "apart" living. Moses/Sinai tie (Exod. 24:18) considered, not proposed.
+- 14:24 "distressed" (*basanizomenon*): kept. "contrary" (*enantios*): living.
+- 14:26 "ghost" (*phantasma*, "apparition"): kept.
+- 14:29 "waters" (v.28, 29): *ta hydata*, kept.
+- 14:34 "came to the land, to Gennesaret": kept; intelligible.
+- 14:35 "knew him" (*epignontes*, "recognized"): living; not proposed.
+- R9: speech balance checked — 14:2, 14:4, 14:8, 14:15, 14:16, 14:17, 14:18, 14:26, 14:27, 14:28, 14:29, 14:30, 14:31, 14:33. No nested quotes; no changes.
+- R8: no poetic lineation in this chapter.
+
+## Pacing check (markup)
+
+Existing `---` before v.1, v.13, v.22, v.34 mark Herod/John, the feeding, the sea, Gennesaret. No `[br]` sits before a break marker (v.12, v.21, v.33 end without `[br]`). v.5, v.11, v.12, v.22–23, v.28–29, v.32–35 carry no `[br]`, consistent with continuing-scene narrative. No pacing changes proposed.
+
+## Flags outside chapter 14 (no action taken)
+
+- If approved, mirror elsewhere: "even was come" 20:8, 26:20, 27:57; "is/was come" be-perfect (00190) 12:44, 21:10, 21:23, 27:1; "two fishes / fishes" 15:34, 15:36; "desert" 15:33; "remained over of the broken pieces" 15:37; "is risen" 27:64, 28:6, 28:7; "besought" (00001) 15:23 etc.; "the borders of their garments" 23:5 (00208); "constrained" none elsewhere in Matthew; "bid" 23:3; "mighty works / powers" 7:22, 11:20–23, 13:54, 13:58 (00134 flag still open; 14:2 reads "powers").
+- 00086: ch.15+ remain unchecked for R1.1 (ch.10–13 pending in their caches).
+- Cross-ref ties here re-use ground that 15:32–38 (the second feeding) will also touch (2 Kings 4:42–44 may be better cited once there, if you prefer a single placement; the first feeding is the usual home).
+
+## E. Full proposed chapter text (Matthew 14)
+
+## Matthew 14
+
+---
+1  At that season Herod the tetrarch heard the report concerning Yeshua,
+2  and said to his servants, “This is John the Immerser; he has been raised from the dead; and therefore these powers are at work in him.”[br]
+3  For Herod had laid hold on John, and bound him, and put him in prison for the sake of Herodias, his brother Philip’s wife.[br]
+→ for the sake of Herodias :: 1 Kings 19:1–2
+4  For John said to him, “It is not lawful for you to have her.”[br]
+» It is not lawful for you to have her :: Marrying a living brother's wife is forbidden under Leviticus 18:16 and 20:21; the levirate duty of Deuteronomy 25:5 applies only after a brother has died childless, which was not Herodias's case.
+5  And when he wanted to put him to death, he feared the multitude, because they counted him as a prophet.
+6  But when Herod’s birthday came, the daughter of Herodias danced in the midst, and pleased Herod.[br]
+» Herod’s birthday :: Birthday celebrations were a Greco-Roman custom, not a native Jewish one (cf. Genesis 40:20's Pharaoh, the only other biblical birthday feast) — the detail marks the Herodian court's assimilation to pagan practice.
+7  So he promised with an oath to give her whatever she asked.[br]
+8  And she, being prompted by her mother, says, “Give me here on a platter the head of John the Immerser.”[br]
+9  And the king was grieved; but for the sake of his oaths, and of those who reclined at the table with him, he commanded it to be given;[br]
+10  and he sent and beheaded John in the prison.[br]
+11  And his head was brought on a platter, and given to the girl: and she brought it to her mother.
+12  And his disciples came, and took up the corpse, and buried him; and they went and told Yeshua.
+---
+13  Now when Yeshua heard it, He withdrew from there in a boat, to a desolate place apart: and when the multitudes heard of it, they followed Him on foot from the cities.
+14  And He came forth, and saw a great multitude, and He had compassion on them, and healed their sick.
+→ healed their sick :: Ezekiel 34:4, 16
+15  And when evening had come, the disciples came to Him, saying, “The place is desolate, and the hour has already passed; send the multitudes away, that they may go into the villages, and buy themselves food.”[br]
+→ The place is desolate :: Psalm 78:19–20
+16  But Yeshua said to them, “They have no need to go away; you all give them something to eat.”[br]
+→ give them something to eat :: 2 Kings 4:42–44
+17  And they say to Him, “We have here but five loaves, and two fish.”[br]
+18  And He said, “Bring them here to Me.”[br]
+19  And He commanded the multitudes to sit down on the grass; and He took the five loaves, and the two fish, and looking up to heaven, He blessed, and broke and gave the loaves to the disciples, and the disciples to the multitudes.[br]
+→ sit down on the grass :: Psalm 23:2
+» looking up to heaven, He blessed :: The customary table blessing (*berakhah*) precedes the meal, not the food itself — the same form and posture recurring at the Last Supper (26:26).
+20  And they all ate, and were filled: and they took up what was left over of the broken pieces, twelve baskets full.[br]
+21  And those who ate were about five thousand men, besides women and children.
+→ about five thousand men, besides women and children :: Exodus 12:37; Numbers 11:21–22
+---
+22  And immediately He made the disciples get into the boat and go ahead of Him to the other side, until He had sent the multitudes away.
+23  And after He had sent the multitudes away, He went up into the mountain apart to pray: and when evening had come, He was there alone.
+24  But the boat was now in the midst of the sea, distressed by the waves; for the wind was contrary.[br]
+25  And in the fourth watch of the night He came to them, walking upon the sea.[br]
+→ walking upon the sea :: Job 9:8; Psalm 77:19
+26  And when the disciples saw Him walking on the sea, they were troubled, saying, “It is a ghost”; and they cried out for fear.[br]
+27  But immediately Yeshua spoke to them, saying, “Be of good cheer; it is I; be not afraid.”[br]
+→ be not afraid :: Isaiah 41:10; 43:1–2
+» it is I :: *egō eimi* behind the Greek — the same self-identifying formula echoing YHWH's self-naming to Moses (Exodus 3:14, LXX); on the sea, where mastery belongs to YHWH alone (Job 9:8, Psalm 107:29), Yeshua applies the divine formula to Himself.
+28  And Peter answered Him and said, “Lord, if it is You, command me to come to You upon the waters.”[br]
+29  And He said, “Come.” And Peter went down from the boat, and walked upon the waters to come to Yeshua.
+30  But when he saw the wind, he was afraid; and as he began to sink, he cried out, saying, “Lord, save me.”[br]
+→ Lord, save me :: Psalm 69:1–2
+31  And immediately Yeshua stretched forth His hand, and took hold of him, and says to him, “O you of little faith, why did you doubt?”[br]
+→ stretched forth His hand :: Psalm 144:7; Psalm 18:16
+32  And when they had gone up into the boat, the wind ceased.
+→ the wind ceased :: Psalm 107:29; Jonah 1:15
+33  And those who were in the boat worshipped Him, saying, “Truly You are the Son of God.”
+---
+34  And when they had crossed over, they came to the land, to Gennesaret.
+35  And when the men of that place knew Him, they sent into all that region round about, and brought to Him all that were sick;[br]
+36  and they begged Him that they might only touch the fringe of His garment: and as many as touched were made whole.
+→ the fringe of His garment :: Numbers 15:38–39; Malachi 4:2
